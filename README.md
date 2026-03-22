@@ -412,4 +412,4 @@ python generate_all_chapters.py
 
 如果你觉得这个项目有意义，欢迎支持我继续做下去。数额随意，不用超过一杯咖啡钱。
 
-<img width="201" height="277" alt="赞助一杯咖啡" src="sponsor-wechat-payment.jpg" />
+<img width="201" height="277" alt="赞助一杯咖啡" src="https://github.com/user-attachments/assets/b546252c-b04b-4bce-97cd-e18afd48ad85" />
