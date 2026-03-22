@@ -29,11 +29,6 @@ AttributeError: BertTokenizer has no attribute batch_encode_plus
 2. 查看已有测试结果: [results/ltp_experiment_report.md](results/ltp_experiment_report.md)
 3. 详见: [LTP_STATUS.md](LTP_STATUS.md)
 
-**已有数据**:
-- 短文本(138字): 召回率83.3%, 精确率100%, 耗时1.5秒
-- 中文本(631字): 耗时1.8秒
-- 长文本(3000字): 召回率88.9%, 精确率99%, 耗时2.1秒
-
 ### ✅ test_qwen_actual.py - Qwen2.5-7B测试
 
 **功能**: 使用真实Qwen2.5-7B模型进行标注

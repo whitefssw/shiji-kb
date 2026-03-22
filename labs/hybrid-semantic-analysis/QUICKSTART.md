@@ -13,19 +13,42 @@ cd labs/hybrid-semantic-analysis
 
 ## 环境要求
 
-- Python 3.8+
+**⚠️ 重要**: NLP工具兼容性问题
+
+- **Python 3.10或3.11** (强烈推荐)
+  - Python 3.13: LTP和HanLP不兼容
+  - Python 3.10/3.11: 所有工具兼容
 - CUDA 11.x+ (如使用GPU,可选)
-- 8GB显存 (如使用小模型,可选)
+- 8GB显存 (如使用Qwen小模型,可选)
+
+**如果已使用Python 3.13**:
+- LTP: 使用已有测试结果 ([ltp_experiment_report.md](results/ltp_experiment_report.md))
+- HanLP: 无法运行(TensorFlow依赖)
+- 建议: 直接实现方案B(混合)和方案C(Claude)
 
 ## 安装
 
 ### 1. 创建虚拟环境
 
+**推荐使用Python 3.10或3.11**:
+
 ```bash
 cd labs/hybrid-semantic-analysis
-python -m venv venv
+
+# 如果系统有Python 3.10或3.11
+python3.10 -m venv venv  # 或 python3.11
+
+# 如果只有Python 3.13
+python3 -m venv venv  # 可以创建,但LTP/HanLP不兼容
+
+# 激活环境
 source venv/bin/activate  # Linux/Mac
 # 或 venv\Scripts\activate  # Windows
+```
+
+**检查Python版本**:
+```bash
+python --version  # 应显示 3.10.x 或 3.11.x
 ```
 
 ### 2. 安装基础依赖

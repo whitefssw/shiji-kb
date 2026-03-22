@@ -125,6 +125,9 @@ labs/hybrid-semantic-analysis/
 - **[results/experiment_summary.md](results/experiment_summary.md)** - 总体实验总结
 
 ### 🔧 技术文档
+- **[PYTHON_VERSION_GUIDE.md](PYTHON_VERSION_GUIDE.md)** - Python版本选择指南 ⭐
+- **[NLP_TOOLS_COMPARISON.md](NLP_TOOLS_COMPARISON.md)** - NLP工具对比(LTP/HanLP/Stanza等)
+- **[NLP_TOOLS_TEST_RESULTS.md](NLP_TOOLS_TEST_RESULTS.md)** - NLP工具实测结果
 - **[MODEL_STORAGE.md](MODEL_STORAGE.md)** - 模型文件存储位置和管理
 - **[LTP_STATUS.md](LTP_STATUS.md)** - LTP兼容性状态和解决方案
 - **[QWEN_TEST_SUMMARY.md](QWEN_TEST_SUMMARY.md)** - Qwen测试过程和问题总结
