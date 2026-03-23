@@ -321,9 +321,11 @@ function renderOneLine(svg, line, y, idx) {
     g.addEventListener('click', () => showDetail(p.s, line));
     svg.appendChild(g);
 
-    // Store position for transfers
+    // Store position for transfers (write to both original and stationIndex copy)
     p.s._x = p.x;
     p.s._y = y;
+    const si = stationIndex[p.s.id];
+    if (si) { si._x = p.x; si._y = y; }
   });
 }
 
