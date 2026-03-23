@@ -245,3 +245,122 @@ a.entity-link {
     text-decoration: none;
     color: inherit;
 }
+
+/* 章节标题区分 */
+h2 {
+    margin-top: 2em;
+    margin-bottom: 0.5em;
+    color: #5a4a2a;
+    font-size: 1.5em;
+    border-bottom: 2px solid #e6e0c0;
+    padding-bottom: 0.3em;
+}
+
+.section-desc {
+    color: #777;
+    font-size: 0.9em;
+    margin-top: -0.3em;
+    margin-bottom: 1.5em;
+}
+
+/* 语义关系类型标签颜色 */
+.type-label.relations {
+    color: #4169E1; /* 皇家蓝 - 总览 */
+}
+
+.type-label.military {
+    color: #DC143C; /* 深红色 - 军事 */
+}
+
+.type-label.penalty {
+    color: #8B0000; /* 深红 - 刑罚 */
+}
+
+.type-label.political {
+    color: #4682B4; /* 钢青色 - 政治 */
+}
+
+.type-label.economic {
+    color: #DAA520; /* 金色 - 经济 */
+}
+
+/* 语义关系卡片特殊样式 */
+.entity-type-card.relations-summary {
+    border: 2px solid #4169E1;
+    background: linear-gradient(135deg, #f8f9ff 0%, #fffef8 100%);
+}
+
+.entity-type-card.relations-summary:hover {
+    border-color: #1E90FF;
+    box-shadow: 0 3px 12px rgba(65, 105, 225, 0.2);
+}
+
+/* 动词条目样式 */
+.entity-name {
+    font-weight: 700;
+    font-size: 1.1em;
+    color: #2c1810;
+}
+
+.entity-count {
+    font-size: 0.8em;
+    color: #999;
+    margin-left: 6px;
+}
+
+.chapter-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+}
+
+.chapter-ref {
+    display: inline-block;
+    padding: 2px 8px;
+    background: #f5f0e0;
+    border-radius: 3px;
+    color: #5a4a2a;
+    font-size: 0.9em;
+    text-decoration: none;
+    border: 1px solid #e6e0c0;
+    transition: all 0.15s ease;
+}
+
+.chapter-ref:hover {
+    background: #e8dfc0;
+    border-color: #8B4513;
+    color: #8B0000;
+}
+
+.disambiguation {
+    margin-top: 6px;
+    font-size: 0.85em;
+    color: #888;
+    font-style: italic;
+}
+
+/* 统计摘要框 */
+.stats-summary {
+    background: #f8f5e8;
+    border: 1px solid #d0c8a0;
+    border-radius: 6px;
+    padding: 1.2em 1.5em;
+    margin: 2em 0;
+}
+
+.stats-summary h2 {
+    margin-top: 0;
+    border-bottom: none;
+    padding-bottom: 0;
+    font-size: 1.2em;
+}
+
+.stats-summary ul {
+    margin: 0.5em 0 0 1.2em;
+    padding: 0;
+}
+
+.stats-summary li {
+    margin: 0.3em 0;
+    color: #555;
+}

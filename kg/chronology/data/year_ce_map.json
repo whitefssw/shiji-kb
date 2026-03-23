@@ -2320,22 +2320,6 @@
       }
     }
   },
-  "007": {
-    "188.2": {
-      "三年": {
-        "ruler": "羽|项羽",
-        "method": "raw_nearby",
-        "ruler_key": "羽|项羽三年"
-      }
-    },
-    "188.3": {
-      "五年": {
-        "ruler": "王侯",
-        "method": "raw_nearby",
-        "ruler_key": "王侯五年"
-      }
-    }
-  },
   "008": {
     "90.1": {
       "五年": {
@@ -2398,22 +2382,6 @@
         "ruler": "孝惠",
         "method": "sequential",
         "ce_year": -194
-      }
-    },
-    "53": {
-      "二十三年": {
-        "ruler": "孝文",
-        "method": "sequential_corrected",
-        "ce_year": -157
-      }
-    }
-  },
-  "010": {
-    "39.1": {
-      "二十三年": {
-        "ruler": "孝文",
-        "method": "nearby_ruler",
-        "ce_year": -157
       }
     }
   },
