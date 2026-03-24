@@ -9,6 +9,36 @@
 
 ---
 
+## 2026-03-24
+
+### 新增 (Added)
+
+- **十表交互式数据查看器** ([`docs/special/tables.html`](docs/special/tables.html)) ([f78bfc38] / [cc94b0de])
+  - ag-Grid表格组件：搜索、筛选、排序、导出功能
+  - 双标签页设计（交互式查看器 + 表格索引）
+  - 11个十表JSON数据发布（约650KB）
+  - 分页显示100行，固定表头和第一列
+  - 横向滚动条固定在表头下方
+
+### 更改 (Changed)
+
+- **表格查看器显示优化** ([cc94b0de])
+  - 每页显示100行（可选50/100/200/500）
+  - 表头在垂直滚动时保持固定
+  - 横向滚动条固定在视口顶部，纵向滚动时始终可见
+
+### 项目维护 (Maintenance)
+
+- 新增数据发布脚本 `scripts/publish_tables_data.py`
+- 新增链接验证脚本 `scripts/verify_table_links.py`
+
+**详细工作日志**: [`logs/daily/2026-03-24.md`](logs/daily/2026-03-24.md)
+
+[f78bfc38]: https://github.com/baojie/shiji-kb/commit/f78bfc38
+[cc94b0de]: https://github.com/baojie/shiji-kb/commit/cc94b0de
+
+---
+
 ## 2026-03-23
 
 ### 新增 (Added)
