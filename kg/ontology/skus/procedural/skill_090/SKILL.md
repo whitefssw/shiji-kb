@@ -1,6 +1,6 @@
 ---
 name: zhouyi-divination-interpretation
-description: Interpret Zhou Yi hexagram readings for predicting future outcomes
+description: "Use when interpreting Zhou Yi (I Ching) hexagram readings or analyzing divination results. Covers hexagram transformation (本卦 to 之卦), line text analysis, fulfillment location and timing determination, and clan affiliation prediction, as demonstrated in Chen Li Gong's divination."
 ---
 
 # Zhou Yi Divination Interpretation
@@ -54,3 +54,8 @@ For Chen Li Gong's son:
 - Understanding of potential future trajectories
 - Guidance for strategic decisions
 - Insight into generational patterns
+
+## Verification
+1. Confirm that both the original hexagram (本卦) and the transformed hexagram (之卦) have been correctly identified and recorded.
+2. Validate that the interpretive framework addresses both location (此国 vs 异国) and timing (此身 vs 子孙) of fulfillment.
+3. Check that the principle of balance (物莫能两大) has been applied to assess reciprocal rise and decline dynamics.

@@ -1,6 +1,6 @@
 ---
 name: undermine-enemy-advisor
-description: When neutralizing a capable advisor serving a rival ruler through strategic manipulation
+description: "Use when neutralizing a capable enemy advisor or creating distrust between a rival ruler and their counselor. Deploys distraction tactics, manufactured suspicion, and defection incentives. Based on Qin's handling of You Yu and the Rong king."
 ---
 
 # Undermine Enemy Advisor
@@ -44,3 +44,8 @@ A counterintelligence procedure to neutralize talented advisors serving rival st
 - Removal of capable enemy advisor
 - Potential gain of strategic intelligence
 - Weakened rival state governance
+
+## Validation
+- Verify that the advisor's strategic value and relationship with their ruler were assessed before deploying distraction tactics
+- Confirm that suspicion was created through indirect means (extended stays, apparent closeness) rather than direct accusations
+- Check that the defector was treated with honor and their strategic knowledge of the former state was systematically acquired

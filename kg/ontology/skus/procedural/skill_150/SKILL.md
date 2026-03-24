@@ -1,6 +1,6 @@
 ---
 name: guest-hospitality-protocol
-description: Use when managing guests or dependents to build loyalty and reputation through personalized care and equal treatment.
+description: "Use when hosting guests, managing dependents, or building loyalty through hospitality. Provides equal treatment regardless of status, records personal details via a scribe behind a screen, sends follow-up gifts to guests' families, and resolves perceived slights through transparent demonstration."
 ---
 
 # Guest Hospitality Protocol
@@ -36,3 +36,8 @@ This protocol ensures all guests receive equal treatment while demonstrating gen
 - Guests feel personally valued and connected
 - Reputation spreads through word of mouth
 - Deep loyalty that endures through difficulties
+
+## Validation
+1. Verify equal treatment is genuinely maintained — check that food, lodging, and amenities do not vary by guest status or wealth
+2. Confirm follow-up care reaches guests' families promptly after departure, demonstrating the personal information recording system is functional
+3. Test conflict resolution effectiveness: after addressing a misunderstanding, the guest should leave satisfied, not merely mollified

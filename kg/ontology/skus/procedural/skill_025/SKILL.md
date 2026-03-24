@@ -1,6 +1,6 @@
 ---
 name: respond-to-military-defeat
-description: When recovering from a major military defeat and rebuilding forces for future victory
+description: "Use when recovering from a major military defeat or rebuilding forces after a loss. Based on Duke Mu's response to the Xiao defeat, covers personal accountability, commander restoration, public acknowledgment, and rebuilding strategy."
 ---
 
 # Respond to Military Defeat
@@ -49,3 +49,8 @@ A procedure for leaders to respond to military failures, take responsibility, an
 - Maintained loyalty of military commanders
 - Enhanced leader's reputation for accountability
 - Eventual military success through persistence
+
+## Validation
+- Verify that the leader took personal responsibility publicly without blaming subordinates
+- Confirm that returning commanders were honored, restored to rank, and provided with increased resources
+- Check that the defeat was formally recorded as a lesson for future generations before initiating rebuilding efforts

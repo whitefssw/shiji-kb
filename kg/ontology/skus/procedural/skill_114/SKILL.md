@@ -1,6 +1,6 @@
 ---
 name: strategic-location-selection
-description: Use when evaluating and selecting optimal locations for settlement, refuge, or strategic positioning in competitive environments.
+description: "Use when evaluating locations for settlement, refuge, or strategic positioning. Covers geographic advantages, political landscape assessment, population disposition analysis, and long-term power projection, with decision rules to reject sites near rising powers and favor those with alienated populations."
 ---
 
 # Strategic Location Selection Process
@@ -44,3 +44,8 @@ A systematic approach for evaluating and selecting optimal locations based on ge
 - Secure, sustainable base of operations
 - Population that can be won over through good governance
 - Position that avoids future conflicts with rising powers
+
+## Verification
+1. Confirm that each candidate location was evaluated across all four dimensions: geography, political landscape, population disposition, and long-term prospects.
+2. Validate that locations near inevitably rising powers were rejected regardless of other advantages.
+3. Check that existing reputation or influence can be leveraged at the chosen location for sustainable settlement.

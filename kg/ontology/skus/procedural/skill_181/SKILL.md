@@ -1,6 +1,6 @@
 ---
 name: self-interest-persuasion-framework
-description: Use when persuading powerful figures by appealing to their long-term self-interest rather than abstract principles
+description: "Use when persuading powerful figures by appealing to their long-term self-interest. Analyzes the target's vulnerabilities (aging, lack of heirs, fading influence), formulates warnings, and presents solutions that create mutual benefit."
 ---
 
 # Self-Interest Persuasion Framework
@@ -59,3 +59,8 @@ Present the vulnerability as inevitable:
 - Target actively advocates for your proposed candidate
 - Formal commitment is secured
 - Long-term alliance is established
+
+## Verification
+1. Confirm that the target's core vulnerability has been identified and the warning has been framed as inevitable rather than speculative.
+2. Validate that the proposed solution clearly demonstrates mutual benefit for all parties (target, candidate, persuader).
+3. Ensure urgency has been created through the framing of the present as the optimal moment for action, not through false pressure.

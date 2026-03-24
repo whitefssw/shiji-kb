@@ -1,6 +1,6 @@
 ---
 name: han-heqin-diplomacy
-description: Diplomatic marriage alliance procedure between Han China and Xiongnu for maintaining peace.
+description: "Use when studying Han-Xiongnu peace diplomacy. Covers the Heqin (和亲) system of marriage alliances, annual silk and grain tribute, border market establishment, and territorial boundary protocols along the Great Wall."
 ---
 
 # Han-Xiongnu Heqin (和亲) Diplomacy Procedure
@@ -51,3 +51,8 @@ The Heqin system established peace through marriage alliances, tribute payments,
 - Stable diplomatic relations
 - Economic exchange through border markets
 - Temporary peace allowing both sides to recover
+
+## Verification
+- Confirm all treaty terms are formally agreed upon by both parties, including border boundaries and non-aggression clauses
+- Validate that annual tribute items (絮缯, 酒米, 金帛丝絮) are delivered on schedule
+- Check that border markets (关市) are operating and diplomatic communication channels remain active

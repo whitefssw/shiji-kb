@@ -1,6 +1,6 @@
 ---
 name: qin-book-burning-decree
-description: Administrative procedure for standardizing knowledge and eliminating dissenting historical narratives.
+description: "Use when standardizing education or controlling historical narratives across a unified empire. Categorizes texts for destruction vs. exemption, establishes enforcement timelines and punishments, and redirects education through officials (以吏为师)."
 ---
 
 # Qin Book Burning Decree Implementation
@@ -39,3 +39,8 @@ To establish ideological unity, eliminate texts that could foster regional ident
 - Unified historical narrative
 - Elimination of regional intellectual traditions
 - Centralized control over education
+
+## Validation
+- Verify that exempted categories (医药, 卜筮, 种树之书) are clearly separated from prohibited texts before enforcement begins
+- Confirm that the 30-day surrender timeline is communicated to all local officials (守、尉) with documented acknowledgment
+- Check that the new education system (以吏为师) has designated officials available to teach law in each administrative region

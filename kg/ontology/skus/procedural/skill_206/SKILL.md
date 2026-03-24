@@ -1,6 +1,6 @@
 ---
 name: talent-recommendation-best-practice
-description: Use when building reputation and organizational strength through recommending subordinates
+description: "Use when building reputation and organizational strength through personnel recommendations. Prioritizes recommending those more capable than yourself (贤於己者) to create networks of competent allies and earn trust from superiors."
 ---
 
 ## Overview
@@ -26,3 +26,8 @@ Recommend people who are more capable than yourself (贤於己者) rather than t
 - Strengthened organization through better personnel
 - Network of allies in positions of influence
 - Recognition as someone who puts institutional interests first
+
+## Verification
+- Confirm each recommended individual demonstrably exceeds your own capabilities in their area of expertise
+- Validate that recommendations are based on merit and integrity, not personal loyalty or favoritism
+- Check that recommended individuals have been placed in roles where their talents are fully utilized

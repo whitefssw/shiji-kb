@@ -1,6 +1,6 @@
 ---
 name: escape-from-captivity
-description: Tactical escape method when captured by enemy forces
+description: "Use when captured by enemy forces and seeking to escape. Involves feigning death or injury, observing guards and resources, then seizing a sudden opportunity to commandeer a horse and flee to friendly territory."
 ---
 
 # Escape from Captivity
@@ -37,3 +37,8 @@ A method for escaping enemy capture by feigning death or injury, then seizing an
 - Successful escape from captivity
 - Possible elimination of pursuers
 - Return to friendly forces
+
+## Verification
+- Confirm the feigned injury is convincing enough that guards have reduced their vigilance
+- Validate that an escape route and mount have been identified before committing to action
+- Check that friendly territory has been reached and pursuers are no longer a threat before standing down

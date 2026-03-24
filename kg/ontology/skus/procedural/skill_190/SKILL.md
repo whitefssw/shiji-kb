@@ -1,6 +1,6 @@
 ---
 name: pulse-diagnosis-procedure
-description: Traditional Chinese pulse diagnosis method for determining organ pathology and prognosis
+description: "Use when performing pulse examination (脉诊) to determine organ pathology and prognosis. Covers the three positions (寸关尺), three depths of pressure (浮中沉), eight pulse qualities, and seasonal correlation as practiced by Bian Que and Cang Gong."
 ---
 
 # Pulse Diagnosis Procedure (脉诊)
@@ -89,3 +89,8 @@ Record:
 - Understanding of disease nature (hot/cold, excess/deficiency)
 - Prognostic assessment
 - Treatment direction
+
+## Verification
+1. Confirm that all three positions (寸, 关, 尺) on both wrists have been examined at all three depths of pressure before forming conclusions.
+2. Validate that pulse findings have been correlated with patient symptoms and seasonal factors to identify affected organs.
+3. Ensure documentation includes date, pulse qualities at each position, organ assessment, prognosis, and recommended treatment.

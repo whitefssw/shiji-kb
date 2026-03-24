@@ -1,6 +1,6 @@
 ---
 name: political-exit-after-victory
-description: Use when achieving major success to avoid becoming a threat to your superior.
+description: "Use when deciding whether to exit after achieving major success to avoid becoming a threat. Based on Fan Li's departure from Yue: recognize danger signals ('when birds are gone, the bow is hidden'), assess your superior's character, resign formally, and leave completely with portable wealth."
 ---
 
 # Political Exit After Victory
@@ -27,3 +27,8 @@ A survival procedure for advisors and generals after achieving great success, ba
 - Personal survival
 - Preservation of wealth and family
 - Avoiding execution or imprisonment
+
+## Verification
+1. Confirm that warning signs are present: mission accomplished, superior becoming suspicious or jealous, peers being eliminated, or your fame overshadowing the leader.
+2. Validate that the exit is complete (no partial withdrawal that invites suspicion) and includes taking portable wealth.
+3. Check that the departure was formally framed as mission completion, not as abandonment or disloyalty.

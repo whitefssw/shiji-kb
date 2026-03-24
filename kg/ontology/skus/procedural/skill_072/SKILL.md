@@ -1,6 +1,6 @@
 ---
 name: credibility-preservation-in-diplomacy
-description: Use when facing demands made under duress or coercion in diplomatic contexts.
+description: "Use when deciding whether to honor agreements made under duress or coercion. Applies Duke Huan of Qi's model: fulfilling coerced promises to build long-term diplomatic credibility rather than seeking short-term revenge (愈一小快耳)."
 ---
 
 # Credibility Preservation in Diplomacy
@@ -42,3 +42,8 @@ When an agreement or promise is extracted through force or coercion, the temptat
 
 ## Historical Example
 Duke Huan of Qi was coerced by Cao Mo at the alliance altar to return conquered territory. Despite wanting to renege, Guan Zhong advised honoring the agreement. Result: "诸侯闻之，皆信齐而欲附焉" (The feudal lords heard of this and all trusted Qi and wished to submit).
+
+## Validation
+1. Confirm the coerced agreement was honored fully and publicly, with no hidden retaliation against the coercer
+2. Verify that the long-term credibility outcome materializes — other states and parties increase their trust and willingness to negotiate
+3. Check that the principle is applied consistently: 弃信於诸侯 (abandoning credibility) is never traded for short-term satisfaction

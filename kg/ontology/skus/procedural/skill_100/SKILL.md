@@ -1,6 +1,6 @@
 ---
 name: five-difficulties-state-assessment
-description: Use to evaluate whether a contender can successfully take over a state or achieve political power.
+description: "Use when evaluating whether a political contender can seize power successfully. Applies the five-difficulty framework: 有宠无人, 有人无主, 有主无谋, 有谋而无民, 有民而无德. Compares against Duke Huan of Qi and Duke Wen of Jin as successful benchmarks."
 ---
 
 # Five Difficulties Assessment Framework
@@ -37,3 +37,8 @@ If a contender fails on multiple difficulties, success is nearly impossible. Com
 
 ## Expected Outcome
 Accurate prediction of political success or failure based on structural conditions.
+
+## Verification
+1. Confirm that the contender has been assessed against all five difficulties, not just a subset.
+2. Validate findings by comparing the contender's profile against successful historical examples (Duke Huan of Qi, Duke Wen of Jin) who had all five elements aligned.
+3. Check whether failure on multiple difficulties renders the bid structurally impossible, regardless of individual strengths.

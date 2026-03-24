@@ -1,6 +1,6 @@
 ---
 name: accepting-mass-enemy-surrender
-description: Used when a large enemy force seeks to surrender, requiring security measures and proper processing.
+description: "Use when processing the surrender of tens of thousands of enemy troops. Covers credibility assessment, dissenter neutralization, leadership escort, population resettlement as 属国, and title conferral based on Huo Qubing's precedent."
 ---
 
 # Accepting Mass Enemy Surrender
@@ -46,3 +46,8 @@ Procedure for safely accepting the surrender of large enemy forces (tens of thou
 
 ## Expected Outcome
 Successful integration of surrendered forces, reduced border threats, and expanded territory without major conflict.
+
+## Verification
+- Confirm the surrender's credibility was assessed and the possibility of a feigned surrender trap was ruled out
+- Validate that dissenters within the surrendering force were identified and neutralized before processing the main body
+- Check that surrendered leaders received appropriate titles and fiefs to secure their ongoing loyalty

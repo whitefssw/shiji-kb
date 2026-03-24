@@ -1,6 +1,6 @@
 ---
 name: conduct-state-sacrifices
-description: When performing official sacrificial rituals to deities for state legitimacy and divine favor
+description: "Use when performing state sacrificial rituals (畤) to establish religious legitimacy or mark significant occasions. Guides altar preparation, sacrificial animal selection (三牢), ritual conduct, and event documentation. Based on Qin's sacrificial traditions."
 ---
 
 # Conduct State Sacrifices
@@ -41,3 +41,8 @@ A procedure for performing official state sacrificial rituals to deities, establ
 - Religious legitimacy for the state
 - Documentation of state traditions
 - Connection between rulership and divine authority
+
+## Validation
+- Verify that the appropriate occasion (state establishment, military victory, or calendrical observance) justified the sacrifice
+- Confirm that sacrificial animals match the required standard (三牢 or as specified for the ceremony scale)
+- Check that the event was documented including altar location, deities addressed, and any omens observed

@@ -1,6 +1,6 @@
 ---
 name: night-attack-on-encamped-enemy
-description: Used when launching a surprise night assault against an enemy force that believes itself secure.
+description: "Use when launching a surprise night assault on a complacent enemy camp. Covers undetected approach, encirclement, panic exploitation, pursuit of fleeing leadership, and capture of subordinate targets and livestock."
 ---
 
 # Night Attack on Encamped Enemy
@@ -40,3 +40,8 @@ Tactical procedure for conducting a surprise night assault against an enemy enca
 
 ## Expected Outcome
 Even if the primary enemy leader escapes, capture of subordinate leaders, soldiers, civilians, and livestock constitutes a major victory.
+
+## Verification
+- Confirm the enemy camp is confirmed complacent (reduced guards, evidence of drinking/relaxation) before committing to the assault
+- Validate that encirclement is complete and escape routes are covered before initiating the attack
+- Check that secondary targets (subordinate kings, nobles, livestock, supplies) are secured even if the primary leader escapes

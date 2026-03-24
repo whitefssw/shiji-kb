@@ -1,6 +1,6 @@
 ---
 name: coordinated-multi-front-military-campaign
-description: Used when planning large-scale military operations with multiple armies attacking from different directions.
+description: "Use when organizing coordinated attacks from multiple departure points against a common enemy. Assigns commanders (大将军, 车骑将军, etc.) to independent columns that report results separately for performance-based rewards."
 ---
 
 # Coordinated Multi-Front Military Campaign
@@ -44,3 +44,8 @@ Procedure for organizing and executing coordinated attacks with multiple general
 
 ## Expected Outcome
 At least some forces will achieve objectives even if others fail; territorial gains and enemy casualties distributed across multiple fronts.
+
+## Verification
+- Confirm each column has a clearly assigned departure point, route, and commander with defined authority
+- Validate that the command hierarchy (supreme commander over subordinate generals) is established and communicated
+- Check that individual column results (enemy killed, captured, territory gained) are compiled and evaluated independently

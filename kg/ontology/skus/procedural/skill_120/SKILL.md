@@ -1,6 +1,6 @@
 ---
 name: diplomatic-intervention-persuasion
-description: Use when persuading a powerful ally to provide military assistance during a crisis.
+description: "Use when persuading a powerful but hesitant ally to provide military assistance during a crisis. Covers acknowledging the situation, establishing the value relationship, presenting urgency arguments, articulating consequences of inaction, and framing the ally's loss from delayed intervention."
 ---
 
 # Diplomatic Intervention Persuasion Strategy
@@ -34,3 +34,8 @@ When seeking military aid from a powerful ally who is delaying assistance, use s
 
 ## Expected Outcome
 The powerful ally recognizes that immediate intervention serves their own strategic interest, not just altruism, and dispatches military assistance.
+
+## Verification
+1. Confirm that the persuasion frames intervention as serving the ally's strategic interest, not merely requesting charity or fulfilling obligation.
+2. Validate that the consequence scenario (forced separate peace, territorial concessions, alliance dissolution) has been articulated clearly.
+3. Check that the ally understands the concrete loss: weakening themselves by losing one ally while simultaneously strengthening two enemies.

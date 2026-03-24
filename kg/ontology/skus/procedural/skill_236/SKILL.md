@@ -1,6 +1,6 @@
 ---
 name: turtle-shell-divination-ritual
-description: Ancient Chinese method for performing divination using turtle shells, including preparation, ritual prayers, and interpretation of crack patterns.
+description: "Use when performing or analyzing ancient Chinese turtle shell divination (龟卜). Covers shell preparation, prohibited days (子亥戌), ritual prayer recitation, heat application for crack patterns, and interpretation of crack positions (首仰足开/肣)."
 ---
 
 # Turtle Shell Divination Ritual
@@ -38,3 +38,8 @@ Traditional Chinese divination method using turtle shells (龟卜) to determine 
 
 ## Expected Outcomes
 Clear guidance on: illness prognosis, legal outcomes, travel safety, business ventures, finding lost items, weather prediction, and military success.
+
+## Verification
+- Confirm the turtle shell meets minimum length (1.2 feet) and cleansing ritual was performed on the first day of the month
+- Validate that divination was not conducted on prohibited days (子, 亥, 戌) or during prohibited times (noon, dusk)
+- Check that crack pattern interpretation matches the established classification system (首仰足开 = favorable, 首仰足肣 = unfavorable)

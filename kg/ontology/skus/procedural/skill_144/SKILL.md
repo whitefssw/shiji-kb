@@ -1,6 +1,6 @@
 ---
 name: strategic-patience-warfare
-description: Use when commanding overwhelming force against an enemy that must be drawn out and destroyed.
+description: "Use when commanding a large army against a determined enemy or planning patient siege warfare. Based on Wang Jian's (王翦) conquest of Chu with 600,000 troops — refusing battle, maintaining troop welfare through recreation and shared conditions, then striking when the enemy withdraws."
 ---
 
 # Strategic Patience Warfare
@@ -41,3 +41,8 @@ When commanding a large force against a determined enemy, use patience and comfo
 - Preserved force strength
 - High morale at moment of attack
 - Enemy caught in vulnerable transition
+
+## Validation
+1. Monitor troop welfare indicators — when soldiers begin recreational activities ("throwing stones and jumping distances"), combat readiness is high; continued lethargy signals morale problems
+2. Verify the enemy has genuinely begun withdrawal versus executing a feigned retreat to draw you from fortifications
+3. Confirm pursuit forces are fully committed once the strike order is given — half-hearted pursuit allows enemy to regroup

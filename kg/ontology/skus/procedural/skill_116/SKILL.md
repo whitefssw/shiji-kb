@@ -1,6 +1,6 @@
 ---
 name: persuasive-diplomacy-technique
-description: Use when needing to persuade a resistant authority figure to take difficult but necessary action.
+description: "Use when persuading a resistant authority figure to take difficult but necessary action. Employs a gradual empathetic approach: build rapport through shared humanity, introduce topics indirectly, present arguments through historical examples, appeal to long-term interests, and let conclusions be self-evident."
 ---
 
 # Persuasive Diplomacy Technique for Resistant Authority Figures
@@ -57,3 +57,8 @@ A gradual, empathetic approach to persuasion that overcomes emotional resistance
 - Authority figure feels respected, not pressured
 - Decision is reached through apparent self-discovery
 - Action is taken willingly with reduced resentment
+
+## Verification
+1. Confirm that the approach began with rapport-building (small talk, shared vulnerabilities) rather than direct confrontation on the contentious issue.
+2. Validate that arguments were presented through examples and questions that led to self-discovery, not through direct demands.
+3. Check that the authority figure reached the conclusion independently and the persuader offered to execute their will rather than claiming credit for the idea.

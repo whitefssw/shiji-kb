@@ -1,6 +1,6 @@
 ---
 name: legal-reform-abolishing-corporal-punishment
-description: Use when reforming a harsh legal system to be more humane while maintaining social order
+description: "Use when reforming harsh punishments or transitioning a legal system to humane alternatives. Guides abolishing corporal punishment (废除肉刑) using Tiying's (缇萦) petition model under Emperor Wen."
 ---
 
 # Legal Reform: Abolishing Corporal Punishment (废除肉刑)
@@ -47,3 +47,8 @@ A procedure for transitioning from a harsh physical punishment system to a more 
 
 ## Historical Context
 Emperor Wen abolished corporal punishment (肉刑) after being moved by the petition of Tiying (缇萦), whose father faced mutilation.
+
+## Validation
+1. Verify that all forms of physical mutilation have been replaced with proportional alternatives (labor, fines, exile)
+2. Confirm that new punishments still serve as effective deterrents and the public understands the reformed system
+3. Check that recidivism rates are tracked and rehabilitation opportunities are functioning as intended

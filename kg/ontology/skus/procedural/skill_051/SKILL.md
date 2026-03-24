@@ -1,6 +1,6 @@
 ---
 name: merit-based-title-evaluation
-description: Use when evaluating officials for noble titles based on their contributions and service
+description: "Use when evaluating officials for noble titles or ranking meritorious service. Applies the five-tier classification (勋劳功伐阅) to determine title rank, land grants, and hereditary privileges based on contribution type."
 ---
 
 ## Overview
@@ -40,3 +40,8 @@ A five-tier classification system for evaluating meritorious service and determi
 - Fair and transparent title assignments
 - Clear documentation of why titles were granted
 - Basis for evaluating future hereditary claims
+
+## Validation
+1. Confirm each title assignment is classified into one of the five tiers (勋劳功伐阅) with documented rationale
+2. Verify that the oath recording includes the basis for the title, conditions for inheritance, and any limitations
+3. Check that title rank and land grant size are proportional to the magnitude and type of service rendered

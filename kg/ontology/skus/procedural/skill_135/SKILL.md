@@ -1,6 +1,6 @@
 ---
 name: military-deception-tactics
-description: When facing a stronger enemy, use deception to create false confidence and lure them into traps
+description: "Use when facing a numerically superior enemy or planning ambush warfare. Employs Sun Bin's staged retreat (reducing cooking fires from 100,000 to 30,000) to feign mass desertion, plus asymmetric resource allocation (sacrifice weak vs. strong, deploy strong vs. middle) for 2-1 victories."
 ---
 
 # Military Deception Tactics (from Sun Bin's strategies)
@@ -30,3 +30,8 @@ Techniques for deceiving enemies by manipulating their perceptions of your stren
 
 ## Expected Outcome
 Victory against numerically superior forces through strategic deception and resource optimization.
+
+## Validation
+1. Confirm the enemy has taken the bait — verify they interpret reduced cooking fires as desertion rather than deception before committing to ambush
+2. Verify the ambush position is narrow and defensible enough to negate the enemy's numerical advantage once they commit
+3. In asymmetric allocation, confirm tier assignments are accurate — misclassifying your own or enemy strength levels inverts the 2-1 outcome

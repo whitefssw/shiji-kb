@@ -1,6 +1,6 @@
 ---
 name: strategic-petition-framework
-description: Use when writing persuasive arguments to authorities against policies, combining precedent, analogy, and logic
+description: "Use when writing persuasive petitions to reverse policy decisions. Based on Li Si's 谏逐客书, combines historical precedent, analogical reasoning (reductio ad absurdum), cost-benefit analysis, and principle appeals."
 ---
 
 # Strategic Petition Framework
@@ -67,3 +67,8 @@ End with stark warning:
 - Policy is reversed
 - Petitioner's position is restored or enhanced
 - Precedent is established for future decisions
+
+## Verification
+1. Confirm that every claim in the petition is supported by concrete historical examples with named figures and specific achievements.
+2. Validate that the analogical reasoning section exposes a clear logical inconsistency in the policy (e.g., valuing foreign goods while rejecting foreign people).
+3. Ensure the petition addresses the ruler's self-interest and state benefit, not the petitioner's personal grievance.

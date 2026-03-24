@@ -1,6 +1,6 @@
 ---
 name: govern-through-accessible-justice
-description: Use when establishing fair governance that remains accessible to all levels of society.
+description: "Use when designing governance systems that ensure fair access to justice across all social levels. Covers territorial tours, open-air administration, and prompt dispute resolution following the model of rulers who personally judged cases under trees."
 ---
 
 # Govern Through Accessible Justice
@@ -30,3 +30,8 @@ A leadership approach where rulers personally tour their territory and administe
 - People develop deep trust and affection for leadership
 - Harmony between ruler and subjects
 - Legacy of good governance that people remember and honor
+
+## Verification
+1. Confirm that the ruler or administrator has personally visited territories rather than relying solely on reports from intermediaries.
+2. Validate that administration venues are physically accessible to commoners, not restricted to palace settings.
+3. Check that disputes are resolved promptly on-site rather than deferred to distant courts.

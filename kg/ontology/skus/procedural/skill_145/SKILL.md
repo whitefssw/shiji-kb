@@ -1,6 +1,6 @@
 ---
 name: political-self-protection-through-greed
-description: Use when given dangerous levels of power and need to demonstrate loyalty to a suspicious ruler.
+description: "Use when entrusted with dangerous levels of military or political power by a suspicious ruler. Based on Wang Jian's (王翦) strategy — repeatedly requesting personal land, houses, and gardens to signal you seek wealth, not power, thereby reducing the ruler's fear of betrayal."
 ---
 
 # Political Self-Protection Through Demonstrated Greed
@@ -38,3 +38,8 @@ A ruler fears those who want power. A ruler does not fear those who want wealth.
 - Ruler's suspicion reduced
 - Safe return from campaign
 - Family protected from purge
+
+## Validation
+1. Assess the ruler's character accurately — this strategy works only with rulers who fear ambitious generals, not with rulers who punish perceived corruption
+2. Verify requests are publicly visible enough to reach the ruler's ears through multiple channels, reinforcing the perception of self-interest
+3. Confirm that the "greedy" persona has not alienated subordinates whose loyalty you need for the campaign itself

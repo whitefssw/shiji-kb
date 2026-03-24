@@ -1,6 +1,6 @@
 ---
 name: defensive-military-strategy
-description: Use when facing a stronger enemy force that must be defeated through attrition rather than direct confrontation
+description: "Use when facing a militarily superior enemy or planning attrition warfare. Employs deep fortification (深壁), supply line interdiction with light cavalry, and patient refusal of engagement to exhaust the enemy before launching a decisive counterattack during retreat."
 ---
 
 # Defensive Military Strategy
@@ -48,3 +48,8 @@ When facing an enemy with superior combat capability, avoid direct engagement. I
 - Enemy forces will be weakened without direct combat losses
 - Victory achieved with minimal casualties
 - Strategic position maintained throughout conflict
+
+## Validation
+1. Confirm that supply line interdiction is actively degrading enemy provisions — monitor for signs of hunger, desertion, or declining morale
+2. Verify that defensive fortifications remain intact and that provocations have not triggered unauthorized engagements
+3. Ensure the counterattack timing aligns with confirmed enemy retreat, not a feigned withdrawal

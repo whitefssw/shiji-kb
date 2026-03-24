@@ -1,6 +1,6 @@
 ---
 name: imperial-legitimacy-ritual
-description: Use when establishing or reinforcing imperial legitimacy through traditional rituals and symbolic acts
+description: "Use when performing Feng and Shan sacrifices (封禅礼仪) to establish divine endorsement of imperial rule. Covers prerequisites, ritual sequence at Mount Tai, and proclamation steps for Emperor Wu's legitimacy model."
 ---
 
 # Imperial Legitimacy Ritual (封禅礼仪)
@@ -52,3 +52,8 @@ A procedure for performing the Feng and Shan sacrifices to establish and reinfor
 
 ## Historical Context
 Emperor Wu of Han performed the Feng and Shan sacrifices to establish his legitimacy as a ruler who had unified the realm and brought prosperity.
+
+## Validation
+1. Confirm all prerequisites are met: unification, peace, prosperity, and auspicious signs before proceeding
+2. Verify the correct ritual sequence was followed — Feng sacrifice at summit before Shan sacrifice at foot of Mount Tai
+3. Check that proclamation, amnesty, and tax reductions have been announced to the realm following ceremony completion

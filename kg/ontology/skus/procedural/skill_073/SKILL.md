@@ -1,6 +1,6 @@
 ---
 name: strategic-opportunity-response
-description: Use when receiving warnings about time-sensitive opportunities that may be lost through delay.
+description: "Use when responding to urgent warnings about missed opportunities or overcoming complacency. Applies Taigong's innkeeper lesson: 时难得而易失 (timing is hard to gain and easy to lose) — act immediately through the night if necessary."
 ---
 
 # Strategic Opportunity Response Method
@@ -40,3 +40,8 @@ When warned about lost time:
 
 ## Historical Example
 Taigong was warned by an innkeeper that his comfortable pace suggested he wasn't serious about reaching his new domain. He immediately traveled through the night and arrived at dawn, just in time to defend against the Lai marquis who came to contest the territory.
+
+## Validation
+1. Confirm the warning was taken seriously and the leisurely pace was immediately abandoned
+2. Verify that arrival occurred before competitors or enemies could establish their position
+3. Check that the strategic objective was secured — territory, position, or opportunity is now under control and defensible

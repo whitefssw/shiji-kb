@@ -1,6 +1,6 @@
 ---
 name: diplomatic-state-assessment
-description: Use when visiting foreign states to evaluate their political stability, future prospects, and potential dangers through observation and dialogue.
+description: "Use when assessing foreign state stability, predicting political upheaval, or advising allies on self-preservation. Follows Ji Zha's diplomatic mission model across Qi, Zheng, Wei, and Jin to evaluate leadership and identify safe havens."
 ---
 
 ## Overview
@@ -43,3 +43,8 @@ A method for assessing the health and trajectory of foreign states through diplo
 - Accurate prediction of political changes
 - Ability to advise allies on avoiding disaster
 - Recognition of which states will rise or fall
+
+## Validation
+1. Confirm political leadership has been assessed for power concentration trends and signs of instability
+2. Verify that at-risk individuals have been warned discreetly with specific self-preservation advice (divestment of power/territory)
+3. Check that states with many virtuous men (君子) are identified as safe havens and those with extravagant, complacent leadership are flagged for upheaval

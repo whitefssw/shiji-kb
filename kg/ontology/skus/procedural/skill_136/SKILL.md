@@ -1,6 +1,6 @@
 ---
 name: credibility-establishment-method
-description: When implementing new policies or laws, first establish credibility through public demonstration
+description: "Use when launching major policy reforms or establishing trust before implementing new laws. Follows Shang Yang's 徙木立信 method — creating a simple public task with escalating rewards to demonstrate that government promises are kept before announcing real reforms."
 ---
 
 # Credibility Establishment Method (from Shang Yang's governance)
@@ -35,3 +35,8 @@ A technique for building public trust before implementing major policy changes.
 
 ## Expected Outcome
 Public trust in government announcements, enabling smooth implementation of reforms.
+
+## Validation
+1. Confirm the credibility demonstration was witnessed publicly and that word spread beyond immediate observers
+2. Verify the full reward was paid immediately and visibly — any delay or reduction undermines the entire credibility-building exercise
+3. Assess public compliance rates with initial reform announcements as a measure of whether credibility transfer succeeded

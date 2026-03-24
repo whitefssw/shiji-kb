@@ -1,6 +1,6 @@
 ---
 name: xiongnu-military-tactics
-description: Combat principles and battlefield decision-making for Xiongnu cavalry warfare.
+description: "Use when analyzing Xiongnu cavalry warfare doctrine. Covers engagement rules (有利则进不利则退), deception tactics (诱敌, 示弱, 详败), lunar timing for attacks, and individual spoils-based motivation systems."
 ---
 
 # Xiongnu Military Tactics
@@ -44,3 +44,8 @@ The Xiongnu employed highly mobile cavalry tactics emphasizing flexibility, oppo
 - Highly motivated individual fighters
 - Flexible response to battlefield conditions
 - Effective use of mobility and deception
+
+## Verification
+- Confirm tactical decisions align with the core principle: advance when advantageous, retreat when not
+- Validate that deception tactics (luring, feigning weakness, feigning defeat) are coordinated with hidden elite forces
+- Check that lunar phase timing is factored into attack and withdrawal planning

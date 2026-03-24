@@ -1,6 +1,6 @@
 ---
 name: han-xin-back-to-water-tactics
-description: Military tactics for fighting with back to water, creating desperate situation to motivate troops
+description: "Use when commanding an inferior force that needs maximum motivation against a superior enemy. Applies Han Xin's 井陉之战 tactic: position troops in death ground (陷之死地而后生) with hidden cavalry to capture the enemy camp."
 ---
 
 # Han Xin's Back-to-Water Battle Formation
@@ -51,3 +51,8 @@ A military tactic where troops are positioned with no retreat option, forcing th
 - Troops fight with maximum determination
 - Enemy caught in pincer movement
 - Victory despite numerical inferiority
+
+## Verification
+1. Confirm that pre-battle intelligence has verified the enemy will not employ strategies that counter the back-to-water formation.
+2. Validate that hidden cavalry (with red flags) is positioned and briefed before the main force deploys at the riverside.
+3. Ensure the feigned defeat is convincing enough to draw the enemy out of their camp before the cavalry strikes.

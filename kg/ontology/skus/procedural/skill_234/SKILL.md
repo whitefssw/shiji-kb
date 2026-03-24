@@ -1,6 +1,6 @@
 ---
 name: governance-through-frugality
-description: Use when establishing governance principles for national prosperity and social stability.
+description: "Use when establishing governance principles linking national prosperity to leadership frugality. Applies the maxim '治国之道富民为始' (governing begins with enriching the people) through leadership example and consumption standards by rank."
 ---
 
 # Governance Through Frugality Framework
@@ -50,3 +50,8 @@ A governance philosophy establishing that national prosperity begins with enrich
 - Social harmony through reduced competition
 - Stronger moral foundation for governance
 - Lasting prosperity across generations
+
+## Verification
+- Confirm high officials are demonstrating personal frugality consistent with the standards they set
+- Validate that consumption standards are defined and enforced for each rank level
+- Check that frugal conduct is being recognized and rewarded in promotion decisions as a criterion for advancement

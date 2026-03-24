@@ -1,6 +1,6 @@
 ---
 name: managing-credit-humility
-description: Handling recognition for achievements appropriately to maintain relationships and avoid resentment
+description: "Use when navigating credit for achievements that involved rule-breaking or complex loyalties. Guides appropriate demeanor, ritual humility, and relationship preservation after morally ambiguous successes."
 ---
 
 # Managing Credit and Humility
@@ -26,3 +26,8 @@ Navigate the complex dynamics of receiving credit for achievements, especially w
 - Maintained relationships despite complicated circumstances
 - Reputation for integrity rather than arrogance
 - Avoided resentment from those who might feel threatened
+
+## Verification
+1. Confirm that trusted advisors have been consulted on the appropriate public demeanor before making statements.
+2. Validate that any harm caused by your actions has been publicly acknowledged, even while the positive outcome is celebrated.
+3. Check that credit has been framed as duty rather than personal favor in all communications.

@@ -1,6 +1,6 @@
 ---
 name: benevolent-governance-implementation
-description: Use when establishing a reputation for benevolent rule to ensure long-term stability and popular support
+description: "Use when implementing benevolent governance (仁政) to build popular support and long-term stability. Covers tax reduction, legal reform, agricultural promotion, and frugality following Emperor Wen of Han's model."
 ---
 
 # Benevolent Governance Implementation (仁政实施)
@@ -55,3 +55,8 @@ A comprehensive approach to governance that prioritizes the welfare of the peopl
 
 ## Historical Context
 Emperor Wen of Han was renowned for benevolent governance, reducing taxes, abolishing corporal punishment, and ruling with frugality and restraint.
+
+## Validation
+1. Confirm that taxes have been reduced or eliminated during hardship periods and government storehouses are opened during famine
+2. Verify that the ruler demonstrates personal frugality — no unnecessary palace construction or court extravagance
+3. Check that diplomatic restraint is practiced — unnecessary wars are avoided and diplomacy is used before military action

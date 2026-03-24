@@ -1,6 +1,6 @@
 ---
 name: covert-alliance-formation
-description: Use when building secret alliances against a central authority while maintaining deniability.
+description: "Use when building secret alliances against a central authority while maintaining deniability. Covers verbal-only communication, shared grievance framing, self-interest appeals, and network expansion through confirmed allies."
 ---
 
 # Covert Alliance Formation
@@ -50,3 +50,8 @@ A diplomatic procedure for establishing secret alliances between regional powers
 - Secret coalition formed without documentary evidence
 - Coordinated action across multiple territories
 - Plausible deniability maintained until open action
+
+## Verification
+1. Confirm that all communications have been conducted verbally through trusted intermediaries with no written documents.
+2. Validate that potential allies have been screened for loyalty to central authority before approaching them.
+3. Ensure that confirmed allies are used to approach additional members, expanding the network while maintaining operational security.

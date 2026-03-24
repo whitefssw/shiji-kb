@@ -1,6 +1,6 @@
 ---
 name: elite-relocation-control-strategy
-description: Use when needing to neutralize potential threats from powerful local elites without direct persecution or violence.
+description: "Use when neutralizing powerful local elites without violence. Relocates wealthy families (豪桀并兼之家) to the capital region, simultaneously strengthening the center (内实京师) and dissolving regional power bases (外销奸猾)."
 ---
 
 # Elite Relocation Control Strategy
@@ -51,3 +51,8 @@ A method for consolidating central authority by relocating powerful local famili
 - Regional power bases dissolved
 - Potential threats neutralized peacefully
 - Capital region economically enhanced
+
+## Verification
+- Confirm target families were identified based on actual influence and wealth rather than political vendetta
+- Validate that the relocation was framed as an honor or opportunity, maintaining the appearance of benevolence
+- Check that relocated families' former regional networks have been effectively dissolved and cannot reconstitute

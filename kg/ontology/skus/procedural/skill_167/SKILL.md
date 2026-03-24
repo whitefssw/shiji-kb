@@ -1,6 +1,6 @@
 ---
 name: seeking-hidden-talent
-description: Finding and connecting with talented individuals who deliberately conceal themselves
+description: "Use when locating capable individuals who have withdrawn from public life. Covers intelligence gathering, informal approach, and relationship-building with reclusive talent in humble occupations."
 ---
 
 # Seeking Hidden Talent
@@ -26,3 +26,8 @@ Locate and build relationships with capable individuals who hide their abilities
 - Access to wisdom and skills unavailable through conventional channels
 - Loyalty from individuals who value genuine appreciation over status
 - Enhanced reputation among those who recognize true merit-seeking
+
+## Verification
+1. Confirm that the approach was made informally and without entourage, on the individual's own terms and in their environment.
+2. Validate that no judgments were made about the individual's associates or lifestyle during the engagement.
+3. Check that the relationship was built through shared activities rather than formal recruitment protocols.

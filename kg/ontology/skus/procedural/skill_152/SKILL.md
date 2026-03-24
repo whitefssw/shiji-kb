@@ -1,6 +1,6 @@
 ---
 name: debt-forgiveness-goodwill-strategy
-description: Use when collecting debts from struggling debtors to transform financial pressure into lasting loyalty and reputation.
+description: "Use when managing uncollectible debts or converting financial obligations into political capital. Categorizes debtors by ability to pay, publicly burns uncollectible debt documents at a community gathering, and frames forgiveness as investment in loyalty and reputation rather than loss."
 ---
 
 # Debt Forgiveness for Goodwill Strategy
@@ -40,3 +40,8 @@ When debtors cannot pay, strategic debt forgiveness can build stronger political
 - Community loyalty and support
 - Enhanced reputation for benevolence
 - Former debtors become advocates and defenders
+
+## Validation
+1. Confirm debtor categorization is accurate — forgiving debts from those who can pay undermines financial sustainability; pursuing debts from those who cannot pay wastes resources and damages reputation
+2. Verify the public ceremony reached the broader community, not just the debtors present — the reputational return depends on the story spreading
+3. Assess whether former debtors' loyalty translates into concrete support (advocacy, defense, service) rather than merely expressed gratitude

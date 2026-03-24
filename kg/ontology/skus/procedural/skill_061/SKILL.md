@@ -1,6 +1,6 @@
 ---
 name: calendar-calculation-method
-description: Use when calculating the calendar, determining seasonal timing, and establishing the correct year start.
+description: "Use when calculating calendars, determining seasonal timing, or establishing the correct 正朔. Covers leap month intercalation using the 19-year Metonic cycle, solstice measurement via shadow length (晷景), and dynastic calendar differences."
 ---
 
 # Calendar Calculation Method (历法推算)
@@ -68,3 +68,8 @@ Document for each year:
 - Accurate seasonal predictions
 - Proper timing for agricultural activities
 - Correct scheduling of ceremonies
+
+## Validation
+1. Confirm the winter solstice anchor point is verified by both shadow length measurement (晷景) and natural signs (鹿解角, 兰根出, 泉水跃)
+2. Verify the 19-year Metonic cycle is applied correctly — 7 leap months inserted per 19-year cycle, producing 235 lunar months
+3. Check that predictions are compared with actual celestial observations and discrepancies are documented for future adjustment

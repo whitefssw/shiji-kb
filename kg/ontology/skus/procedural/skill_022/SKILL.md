@@ -1,6 +1,6 @@
 ---
 name: implement-legal-reform
-description: When implementing comprehensive legal and administrative reforms in a state facing stagnation
+description: "Use when implementing comprehensive legal, agricultural, or military reforms in a stagnating state. Based on Shang Yang's reforms in Qin, covers public talent recruitment, reform debate, equal law enforcement, and institutionalization of merit-based systems."
 ---
 
 # Implement Legal Reform
@@ -50,3 +50,8 @@ A procedure for implementing comprehensive legal reforms, including establishing
 - Strengthened agricultural base
 - Motivated military forces
 - Enhanced state power and territorial expansion
+
+## Validation
+- Verify that reform proposals were openly debated and the ruler's explicit support was secured before implementation
+- Confirm that laws are being applied equally across all ranks, including nobility, with documented enforcement cases
+- Check that agricultural productivity and military recruitment show measurable improvement after the adjustment period

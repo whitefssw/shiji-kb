@@ -1,6 +1,6 @@
 ---
 name: xiongnu-administrative-organization
-description: Hierarchical governance structure and territorial administration of the Xiongnu confederacy.
+description: "Use when mapping Xiongnu governance hierarchy. Covers the Shanyu (单于), Four Great Kings, 24 Wanqi commanders, territorial east/west/center divisions, noble clans (呼衍, 兰, 须卜), and subordinate officer structures."
 ---
 
 # Xiongnu Administrative Organization
@@ -64,3 +64,8 @@ Three aristocratic families:
 - Efficient military mobilization
 - Balanced territorial control
 - Hereditary stability in leadership
+
+## Verification
+- Confirm all 24 Wanqi commander positions are accounted for with correct left/right designations
+- Validate that territorial divisions (eastern, western, central) match their assigned commanders and geographic boundaries
+- Check that the three noble clans (呼衍氏, 兰氏, 须卜氏) and their hereditary roles are correctly identified

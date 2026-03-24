@@ -1,6 +1,6 @@
 ---
 name: emergency-field-succession
-description: Use when a ruler dies during military campaign and succession must be secured before news spreads.
+description: "Use when a ruler dies on military campaign and succession must be secured before news spreads. Covers securing final wishes, maintaining secrecy, road closures, heir retrieval with military escort, and formal installation before announcing the death, following King Zhao's field succession precedent."
 ---
 
 # Emergency Field Succession Protocol
@@ -41,3 +41,8 @@ When King Zhao died on campaign, his ministers had him offer the throne to his b
 
 ## Expected Outcome
 Smooth succession without civil war or enemy exploitation of the power vacuum.
+
+## Verification
+1. Confirm that the ruler's final wishes regarding succession were obtained and witnessed by trusted ministers before death.
+2. Validate that secrecy was maintained until the legitimate heir was installed with proper ceremony and ministerial support.
+3. Check that the army remained intact and in position throughout the transition, preventing enemy exploitation of the power vacuum.

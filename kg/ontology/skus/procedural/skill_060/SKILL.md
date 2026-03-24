@@ -1,6 +1,6 @@
 ---
 name: imperial-ceremony-procedure
-description: Use when planning and conducting the Fengshan imperial ceremony to legitimize rule and communicate with heaven.
+description: "Use when planning or conducting the Fengshan ceremony (封禅仪式) to legitimize imperial rule. Covers legitimacy requirements, material preparations, the four-phase ritual at Mount Tai, and historical precedents from 无怀氏 through 周成王."
 ---
 
 # Imperial Ceremony Procedure (封禅仪式)
@@ -66,3 +66,8 @@ Ancient rulers who performed Fengshan:
 - Do not perform without proper signs
 - Do not perform without sufficient virtue
 - Failure brings ridicule and loss of legitimacy
+
+## Validation
+1. Confirm all four legitimacy requirements are met: 受命而王, 功至, 德洽, 符瑞见
+2. Verify the four-phase ceremony sequence was completed in order: Preparation, Feng at summit, Shan at foot, Proclamation
+3. Check that jade documents (玉牒书) were buried and stone monument was erected, and amnesty plus rewards were distributed to the realm

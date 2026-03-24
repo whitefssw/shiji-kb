@@ -1,6 +1,6 @@
 ---
 name: virtue-cultivation-through-ritual-music
-description: Use when developing personal character and moral cultivation through the practice of ritual and music.
+description: "Use when cultivating personal virtue through ritual and music practice (礼乐修身). Integrates 致乐以治心 (music for the heart) with 致礼以治躬 (ritual for conduct) in a daily morning-to-evening practice schedule."
 ---
 
 # Virtue Cultivation Through Ritual and Music (礼乐修身)
@@ -75,3 +75,8 @@ This method describes how individuals can cultivate virtue through the practice 
 - 德煇动乎内
 - 理发乎外
 - 知礼乐之道，举而错之天下无难矣
+
+## Validation
+1. Confirm that both music (内) and ritual (外) practice are maintained continuously — 礼乐不可以斯须去身
+2. Verify the signs of success are present: 民瞻其颜色而弗与争也 and 望其容貌而民不生易慢焉
+3. Check for warning signs — if 鄙诈之心 or 慢易之心 appear, the practice has lapsed and needs immediate restoration

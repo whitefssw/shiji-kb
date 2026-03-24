@@ -1,6 +1,6 @@
 ---
 name: bian-que-six-incurable-conditions
-description: Medical diagnostic framework identifying six types of patients who cannot be successfully treated
+description: "Use when screening patients before committing treatment resources. Applies Bian Que's 六不治 framework to identify six incurable conditions (arrogance, greed, poor self-care, yin-yang chaos, extreme weakness, trust in shamans over physicians)."
 ---
 
 # Bian Que's Six Incurable Conditions (六不治)
@@ -54,3 +54,8 @@ ELSE:
 - Use as initial screening before committing resources
 - Helps physician focus efforts on treatable cases
 - Protects reputation by avoiding guaranteed failures
+
+## Verification
+1. Confirm that each of the six conditions has been explicitly assessed during initial patient screening before deciding to treat or decline.
+2. Validate that the incurable condition, if present, has been documented with specific observed signs (not assumptions).
+3. Ensure expectations have been set appropriately with the patient or their family when any of the six conditions is identified.

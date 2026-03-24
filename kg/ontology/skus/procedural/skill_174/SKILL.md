@@ -1,6 +1,6 @@
 ---
 name: psychological-warfare-siege-defense
-description: Use when defending a besieged city with limited forces against a superior enemy.
+description: "Use when defending a besieged city with limited forces against a superior enemy. Combines divine legitimacy, psychological manipulation, feigned weakness, and surprise attack (e.g., Tian Dan's fire cattle) to shatter enemy morale."
 ---
 
 # Psychological Warfare Siege Defense
@@ -35,3 +35,8 @@ A comprehensive approach to defending a besieged city by manipulating enemy psyc
 - Enemy morale shattered
 - Defender morale maximized
 - Successful breakout or relief
+
+## Verification
+1. Confirm that the feigned weakness phase has genuinely induced enemy complacency before launching the surprise attack.
+2. Validate that innovative weapons and night-attack preparations are fully staged and tested before execution.
+3. Ensure defender morale has been bolstered through the divine legitimacy and psychological manipulation phases before committing to the final assault.

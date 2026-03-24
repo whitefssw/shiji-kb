@@ -1,6 +1,6 @@
 ---
 name: military-oath-and-discipline-procedure
-description: Use when issuing military orders and establishing discipline before battle
+description: "Use when issuing pre-battle proclamations, enforcing military discipline, or organizing logistics. Based on Bo Qin's oath at Bi: covers equipment inspection, rules of conduct (no looting, return lost property), supply requirements, and enforcement penalties."
 ---
 
 # Military Oath and Discipline Procedure
@@ -44,3 +44,8 @@ Procedure for issuing military proclamations and establishing discipline, based 
 - Disciplined military force
 - Clear understanding of rules and consequences
 - Proper logistical preparation for campaign
+
+## Validation
+1. Confirm all troops have received the proclamation and understand the rules of conduct — no looting, no trespassing, return of lost property
+2. Verify that supply contributions from each district are specified with clear deadlines and all required items (fodder, firewood, provisions, materials) are accounted for
+3. Check that enforcement penalties are clearly stated and known to all — consequences for non-compliance are unambiguous

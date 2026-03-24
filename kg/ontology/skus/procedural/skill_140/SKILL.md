@@ -1,6 +1,6 @@
 ---
 name: governance-transformation-method
-description: When reforming governance systems, balance strict enforcement with practical incentives
+description: "Use when implementing comprehensive state reforms or transforming governance systems. Follows Shang Yang's model — mutual responsibility (什伍), family structure reform, merit-based ranks replacing hereditary privilege, and standardized weights, measures, and legal codes."
 ---
 
 # Governance Transformation Method (from Shang Yang's reforms)
@@ -46,3 +46,8 @@ A comprehensive approach to transforming state governance through legal and econ
 
 ## Expected Outcome
 A centralized, meritocratic state with strong military and agricultural productivity.
+
+## Validation
+1. Verify credibility was established first (see credibility-establishment-method) before announcing reforms — reforms without prior credibility face passive resistance
+2. Confirm enforcement against high-profile violators (even crown prince's tutors) has been publicly visible — selective enforcement undermines the entire system
+3. Assess whether the merit-based reward system is actually replacing hereditary privilege in practice, not just in proclamation — check the royal registry for names removed

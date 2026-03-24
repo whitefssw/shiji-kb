@@ -1,6 +1,6 @@
 ---
 name: personnel-appointment-consultation
-description: For appointing officials through collective consultation and merit assessment
+description: "Use when filling government positions or matching candidates to ministerial roles. Guides collective consultation with the Four Peaks (四岳), merit evaluation, and role-to-skill mapping across nine ministerial functions."
 ---
 
 # Personnel Appointment Consultation
@@ -58,3 +58,8 @@ This procedure ensures qualified officials are appointed through collective wisd
 - Balanced government structure
 - Clear accountability
 - Efficient administration
+
+## Validation
+- Verify that each appointee's skills match the specific ministerial function they were assigned to
+- Confirm that the Four Peaks (四岳) council was consulted and multiple candidates were evaluated before selection
+- Check that appointees were given the opportunity to decline and that supporting staff were assigned

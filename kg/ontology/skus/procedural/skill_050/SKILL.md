@@ -1,6 +1,6 @@
 ---
 name: feudal-rank-classification
-description: Use when categorizing or assigning noble ranks within a feudal administrative system
+description: "Use when analyzing feudal power structures or ranking noble titles. Classifies ranks using the Zhou dynasty five-tier system (公侯伯子男) and determines appropriate land grants based on merit, lineage, and strategic need."
 ---
 
 ## Overview
@@ -38,3 +38,8 @@ A framework for classifying noble ranks and determining appropriate land grants 
 - Clear hierarchy of noble status
 - Appropriate land distribution
 - Balanced political structure supporting central authority
+
+## Validation
+1. Confirm all five ranks (公侯伯子男) are correctly ordered and each noble is classified by the proper basis: blood relationship (亲亲之义), virtue (襃有德), or service (尊勤劳)
+2. Verify land allocations are proportional — larger territories for closer kin and greater merit, with strategic border placements prioritizing military capability
+3. Check that the resulting power distribution supports central authority without creating dangerously powerful individual nobles

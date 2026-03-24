@@ -1,6 +1,6 @@
 ---
 name: counter-intelligence-removal-tactic
-description: Use when needing to remove an enemy commander who is effective but has political vulnerabilities.
+description: "Use when an effective enemy commander has political vulnerabilities exploitable through disinformation. Plants rumors of rebellion or disloyalty to trigger the commander's replacement by a less competent successor."
 ---
 
 # Counter-Intelligence Commander Removal Tactic
@@ -29,3 +29,8 @@ Tian Dan spread rumors that Yue Yi wanted to become King of Qi, causing Yan's ne
 - Enemy commander removed from command
 - Replacement likely less capable
 - Opportunity to reverse military situation
+
+## Verification
+1. Confirm that the target commander's strained relationship with their sovereign has been verified through intelligence before planting disinformation.
+2. Validate that the planted rumors reference real, plausible circumstances (e.g., campaign delays, unconquered cities) to maximize credibility.
+3. Ensure a plan is ready to capitalize militarily on the command change before the replacement can establish effectiveness.

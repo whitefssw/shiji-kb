@@ -1,6 +1,6 @@
 ---
 name: historical-source-verification
-description: Use when verifying conflicting historical records or determining reliability of documentary sources
+description: "Use when cross-referencing conflicting historical accounts or assessing source reliability. Applies Sima Qian's doubt-transmission principle (疑则传疑) to compare 谍记, 历谱谍, and other documentary evidence."
 ---
 
 ## Overview
@@ -23,3 +23,8 @@ A methodology for handling conflicting or uncertain historical records, based on
 - Transparent documentation of historical uncertainties
 - Readers can see where evidence is contested
 - Scholarly integrity maintained through honest acknowledgment of gaps
+
+## Validation
+1. Confirm that all available sources (谍记, 历谱谍, other texts) have been gathered and cross-referenced systematically
+2. Verify that conflicting accounts are preserved side by side with explicit notation of uncertainty rather than arbitrarily choosing one
+3. Check that the doubt-transmission principle (疑则传疑) is applied consistently — no forced conclusions where evidence is insufficient

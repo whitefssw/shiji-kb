@@ -1,6 +1,6 @@
 ---
 name: wealth-relocation-strategy
-description: Use when needing to rebuild wealth and avoid unwanted attention after success.
+description: "Use when rebuilding wealth in a new location while avoiding political danger. Based on Fan Li's transformation into Tao Zhu Gong (陶朱公): change identity, select trade-route hubs, practice honest labor, target modest 10% margins, and redistribute wealth when fame grows too large."
 ---
 
 # Wealth Relocation Strategy
@@ -26,3 +26,8 @@ A procedure for restarting life and building wealth in a new location, demonstra
 - Sustainable wealth accumulation
 - Avoidance of political danger
 - Reputation for wisdom and generosity
+
+## Verification
+1. Confirm that a new identity has been adopted and the chosen location sits at a strategic trade crossroads.
+2. Validate that profit margins are kept modest (around 10%) to avoid attracting dangerous attention.
+3. Check that wealth is redistributed to the community when accumulation becomes conspicuous, and relocation is considered when fame grows too large.

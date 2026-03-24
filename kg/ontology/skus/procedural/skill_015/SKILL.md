@@ -1,6 +1,6 @@
 ---
 name: military-campaign-protocol
-description: Procedures for conducting righteous military campaigns against tyrannical rulers
+description: "Use when planning a righteous military campaign against a tyrannical ruler. Covers just-cause verification, alliance building, troop declaration, combat rules of engagement, and post-victory administration based on Tang and Wu Wang's campaigns."
 ---
 
 # Military Campaign Protocol (征伐程序)
@@ -76,3 +76,8 @@ Procedures for conducting righteous military campaigns, based on Tang's campaign
 - Legitimate regime change
 - Popular support maintained
 - Stable post-war governance
+
+## Validation
+- Verify that a documented just cause exists with specific crimes and evidence of lost Heaven's mandate (天命殛之)
+- Confirm that allies joined voluntarily and the formal declaration framed the campaign as Heaven's will, not personal ambition
+- Check that post-victory actions include honoring the fallen, releasing prisoners, and distributing wealth to the poor

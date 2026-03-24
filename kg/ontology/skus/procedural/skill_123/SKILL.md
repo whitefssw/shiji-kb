@@ -1,6 +1,6 @@
 ---
 name: popular-support-building-strategy
-description: Use when seeking to build popular support and loyalty among common people through economic policies
+description: "Use when building popular support or consolidating political power through economic generosity. Implements asymmetric resource distribution — collecting with small measures, distributing with large — to cultivate mass loyalty and clan influence over time."
 ---
 
 # Popular Support Building Strategy
@@ -36,3 +36,8 @@ This strategy involves using different measures for collecting and distributing 
 
 ## Historical Example
 田釐子乞 (Tian Xi Zi Qi) used this method in Qi state: collected taxes using small measures, distributed grain using large measures. The people sang praises and eventually the Tian family gained the throne.
+
+## Validation
+1. Confirm the asymmetric measurement system is sustainable without provoking direct confrontation with ruling authorities
+2. Verify that popular loyalty is translating into measurable political influence (e.g., clan growth, regional support)
+3. Check that the strategy remains within or around existing regulations to avoid premature suppression

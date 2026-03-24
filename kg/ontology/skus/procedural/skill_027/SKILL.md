@@ -1,6 +1,6 @@
 ---
 name: wei-liao-conquest-strategy
-description: Strategic procedure for conquering multiple states by disrupting their alliances through bribery and subversion.
+description: "Use when facing a coalition of rival states or planning to disrupt enemy alliances (合从). Allocates resources for bribing key officials (豪臣), sowing discord to prevent unified action, then executing military conquest. Proposed by Wei Liao to Qin Shi Huang."
 ---
 
 # Wei Liao's Conquest Strategy
@@ -29,3 +29,8 @@ When facing multiple states that might form alliances against you, use financial
 
 ## Historical Context
 This strategy was proposed by Wei Liao to Qin Shi Huang and contributed to Qin's unification of China.
+
+## Validation
+- Verify that the coalition threat (合从) was assessed before allocating bribery resources
+- Confirm that targeted officials (豪臣) in each state have been identified and their influence on alliance coordination evaluated
+- Check that military action is only initiated after alliance disruption is confirmed and individual states are isolated

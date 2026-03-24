@@ -1,6 +1,6 @@
 ---
 name: ancient-chinese-calendar-determination
-description: For establishing agricultural calendar through celestial observation and seasonal timing
+description: "Use when establishing an agricultural calendar or determining equinoxes and solstices. Guides celestial observation at four cardinal stations to fix seasonal timing using star positions and daylight measurement."
 ---
 
 # Ancient Chinese Calendar Determination
@@ -53,3 +53,8 @@ This procedure divides responsibilities among four officials stationed at differ
 - Accurate agricultural calendar for farming activities
 - Coordinated seasonal activities across the realm
 - Successful harvest timing and resource management
+
+## Validation
+- Verify that each cardinal station identifies the correct mid-heaven star (Niao, Huo, Xu, Mao) for its respective season
+- Confirm leap month (闰月) adjustments keep the calendar aligned with observed equinoxes and solstices
+- Check that all four officials report consistent day-length measurements at equinox points

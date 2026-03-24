@@ -1,6 +1,6 @@
 ---
 name: regent-power-transition-protocol
-description: Use when managing the transition of power between a regent and a young ruler coming of age
+description: "Use when transitioning power from a regent to a young ruler coming of age. Follows Zhou Gong's model: south-facing authority during regency, formal return of power at maturity, and north-facing minister position post-transition."
 ---
 
 # Regent Power Transition Protocol
@@ -38,3 +38,8 @@ Proper procedure for a regent to return governing authority to a young ruler upo
 - Smooth transfer of authority
 - Maintained political stability
 - Preserved legitimacy of the ruling house
+
+## Validation
+1. Confirm the regent governed from the proper south-facing position during the regency period and administered duties for realm stability
+2. Verify the formal transition ceremony occurred: ruler takes the throne, regent moves to north-facing (minister) position with visible humility
+3. Check post-transition conduct — the former regent accepts subordinate status, continues to offer guidance when appropriate, and demonstrates loyalty

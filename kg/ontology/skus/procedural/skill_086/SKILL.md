@@ -1,6 +1,6 @@
 ---
 name: assassination-as-desperate-measure
-description: Use when facing existential threat from a superior power and conventional options have failed.
+description: "Use when analyzing last-resort strategies against existential threats where all conventional and diplomatic options have failed. Covers agent recruitment, pretext creation, close-range execution, and critical risk assessment of retaliatory consequences."
 ---
 
 # Assassination as Desperate Measure
@@ -36,3 +36,8 @@ A last-resort strategy when facing imminent destruction by a superior force, usi
 - If successful: removes primary threat
 - If failed: accelerates enemy attack and may seal your destruction
 - Consider whether this truly solves the underlying power imbalance
+
+## Verification
+1. Confirm that all conventional diplomatic and military options have genuinely been exhausted before proceeding.
+2. Validate that a plausible pretext for close access exists and has been tested for credibility.
+3. Assess whether eliminating the target actually resolves the power imbalance or merely triggers escalation.

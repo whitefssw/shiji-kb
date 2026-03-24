@@ -1,6 +1,6 @@
 ---
 name: military-reform-implementation
-description: Use when implementing significant organizational or military reforms that face cultural resistance and tradition-based opposition.
+description: "Use when implementing transformative reforms against cultural or traditionalist opposition. Covers three phases: strategic assessment of vulnerabilities, building support through advisor endorsement and opponent engagement, and decisive implementation by leading by example with the principle that sages adapted to circumstances."
 ---
 
 # Military Reform Implementation Against Cultural Resistance
@@ -66,3 +66,8 @@ A comprehensive approach to implementing transformative reforms (such as adoptin
 - Reform implemented despite initial resistance
 - Military or organizational capability enhanced
 - Precedent set for future necessary adaptations
+
+## Verification
+1. Confirm that key advisors endorsed the reform privately before any public announcement was made.
+2. Validate that influential opponents were visited personally and their objections addressed with practical arguments, not dismissed.
+3. Check that the reform leader adopted the changes personally and publicly before requiring others to follow.

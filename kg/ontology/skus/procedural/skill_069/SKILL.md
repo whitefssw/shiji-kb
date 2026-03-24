@@ -1,6 +1,6 @@
 ---
 name: governance-by-adaptation
-description: Use when establishing rule over new territories or managing diverse populations with existing customs.
+description: "Use when governing newly acquired territories or managing diverse populations. Applies Taigong's (Jiang Ziya) four-step method: adapt to local customs (因其俗), simplify rituals (简其礼), develop commerce (通商工之业), and leverage resources (便鱼盐之利)."
 ---
 
 # Governance by Adaptation Method
@@ -38,3 +38,8 @@ A governance methodology attributed to Taigong (Jiang Ziya) for effectively ruli
 
 ## Historical Context
 This method was used by Taigong in Qi, transforming it into a major power. The approach emphasizes accommodation over confrontation.
+
+## Validation
+1. Confirm local customs have been studied and respected — foreign practices are not imposed where they conflict with local traditions
+2. Verify that commerce and industry development is producing economic growth and local population loyalty
+3. Check that region-specific natural resources (e.g., 鱼盐之利) are being developed with benefits reaching the local population

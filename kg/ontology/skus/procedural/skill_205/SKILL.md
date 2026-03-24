@@ -1,6 +1,6 @@
 ---
 name: intelligence-deception-operation
-description: Use when planning to lure an enemy into a trap through double agents and false intelligence
+description: "Use when planning military ambushes using double agents and staged evidence. Covers agent selection, credibility establishment, force coordination, and engagement triggers to lure enemies into prepared positions."
 ---
 
 ## Overview
@@ -31,3 +31,8 @@ A framework for setting up military ambushes using deception, double agents, and
 - Enemy walks into prepared position
 - Overwhelming force achieves decisive victory
 - Minimal friendly casualties
+
+## Verification
+- Confirm the double agent's cover story is internally consistent and can withstand enemy scrutiny
+- Validate that all military units are in position and communication channels tested before the enemy is lured
+- Check that contingency plans exist for scenarios where the enemy detects the deception early

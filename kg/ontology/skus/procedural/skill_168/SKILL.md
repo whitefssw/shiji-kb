@@ -1,6 +1,6 @@
 ---
 name: responding-homeland-crisis
-description: Overcoming personal grievances to respond when homeland faces existential threat
+description: "Use when your homeland faces an existential threat despite personal grievances with its leadership. Guides the decision to set aside conflicts, mobilize resources, and reconcile with former adversaries for collective survival."
 ---
 
 # Responding to Homeland Crisis
@@ -24,3 +24,8 @@ Set aside personal conflicts and past grievances when your homeland or core comm
 - Preservation of community and its institutions
 - Personal redemption and restored standing
 - Demonstration of character that enhances long-term reputation
+
+## Verification
+1. Confirm that the threat to the homeland is genuinely existential and not a manufactured pretext for reconciliation.
+2. Validate that personal grievances have been explicitly set aside, not merely suppressed, before committing to action.
+3. Ensure that resources have been mobilized without delay once the decision to return is made.

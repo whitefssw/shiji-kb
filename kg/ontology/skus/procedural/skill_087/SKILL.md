@@ -1,6 +1,6 @@
 ---
 name: hongfan-nine-categories-governance
-description: Apply the ancient Chinese governance framework for state administration and decision-making
+description: "Use when applying systematic governance frameworks or structuring state administration. Covers Jizi's Hong Fan (洪范) Nine Categories presented to King Wu of Zhou: Five Elements, Five Matters, Eight Government Functions, chronological methods, royal perfection, Three Virtues, divination, omens, and blessings."
 ---
 
 # Hong Fan Nine Categories Governance Framework
@@ -72,3 +72,8 @@ The Hong Fan (Great Plan) is a comprehensive governance framework presented by J
 - Systematic state administration
 - Balanced decision-making incorporating multiple perspectives
 - Alignment of governance with natural order and cosmic principles
+
+## Verification
+1. Confirm that all nine categories have been considered in the governance framework, not just a subset.
+2. Validate that the Five Matters (貌, 言, 视, 听, 思) are reflected in the ruler's personal conduct and policy decisions.
+3. Check that the decision-making process incorporates multiple consultation sources (heart, ministers, people, divination) as prescribed in Category 7.

@@ -1,6 +1,6 @@
 ---
 name: virtuous-succession-protocol
-description: Implement proper succession procedures that prioritize virtue and stability
+description: "Use when managing succession planning or resolving heir disputes. Covers legitimate succession order (父死子继, 兄死弟及), virtuous deviation protocols including the ritual of three refusals (三让), warning signs of succession crisis, and best practices from Song Xuan Gong's example."
 ---
 
 # Virtuous Succession Protocol
@@ -60,3 +60,8 @@ When the designated heir is unsuitable:
 - Minimal conflict between claimants
 - Continuity of governance
 - Legitimacy accepted by all parties
+
+## Verification
+1. Confirm that potential heirs were educated and assessed for character before designation, not chosen hastily.
+2. Validate that the succession follows proper procedure including the formal three-refusal protocol (三让) when applicable.
+3. Check for warning signs: concubine interference, minister overreach, or blind adherence to birth order ignoring capability.

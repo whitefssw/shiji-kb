@@ -1,6 +1,6 @@
 ---
 name: xiongnu-whistling-arrow-training
-description: Training method for building absolute military obedience through progressive conditioning with whistling arrows.
+description: "Use when studying Modu's (冒顿) method for conditioning absolute military obedience. Uses progressive whistling arrow (鸣镝) drills with escalating targets to build instant, unconditional compliance among mounted archers."
 ---
 
 # Xiongnu Whistling Arrow Training Method
@@ -36,3 +36,8 @@ A military discipline training technique attributed to Modu (冒顿), designed t
 - Soldiers conditioned to respond instantly to the whistling arrow signal
 - Complete military obedience regardless of target
 - Ability to coordinate attacks on any target, including authority figures
+
+## Verification
+- Confirm 100% compliance was achieved at each conditioning level before escalating to the next
+- Validate that hesitating soldiers were dealt with immediately to maintain the conditioning standard
+- Check that the final test (targeting the authority figure's possession) produced unanimous response before proceeding to the ultimate objective

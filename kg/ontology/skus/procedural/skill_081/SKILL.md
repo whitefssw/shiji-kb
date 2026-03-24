@@ -1,6 +1,6 @@
 ---
 name: ruler-self-cultivation-guidelines
-description: Use when advising rulers on maintaining virtue and avoiding the decline of their state
+description: "Use when advising leaders on self-discipline, virtue maintenance, or preventing institutional decline. Applies Zhou Gong's teachings to King Cheng with models from Yin dynasty rulers like Zhong Zong, Gao Zong, and Zu Jia to identify habits that sustain or destroy long-term rule."
 ---
 
 # Ruler Self-Cultivation Guidelines
@@ -51,3 +51,8 @@ King Wen
 - Long and stable reign
 - Content populace
 - Preserved ancestral legacy
+
+## Verification
+1. Confirm that the ruler's daily practices align with the exemplary models (humility, diligence, reverence) rather than the warning example (indulgence, neglect).
+2. Check whether policies reflect concern for both Heaven's mandate and the people's welfare.
+3. Validate that the ruler avoids idleness and maintains active governance routines.

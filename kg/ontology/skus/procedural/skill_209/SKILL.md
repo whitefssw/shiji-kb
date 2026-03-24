@@ -1,6 +1,6 @@
 ---
 name: precision-archery-method
-description: Archery technique emphasizing accuracy over volume through disciplined shot selection
+description: "Use when applying disciplined archery in combat or hunting. Prioritizes shot certainty over volume of fire, conserving ammunition and maximizing psychological impact through patience and precise target assessment."
 ---
 
 # Precision Archery Method
@@ -31,3 +31,8 @@ A method of archery that prioritizes certainty of hit over volume of fire. The a
 - Conservation of ammunition
 - Psychological impact on enemies who witness the precision
 - Targets fall immediately when struck
+
+## Verification
+- Confirm the archer has assessed distance and wind conditions before each shot
+- Validate that the hit rate remains consistently high (targets fall on first release)
+- Check ammunition reserves remain sufficient for sustained engagement due to conservation discipline

@@ -1,6 +1,6 @@
 ---
 name: persuasion-through-historical-precedent
-description: Use when advising someone in power to change course or retire gracefully.
+description: "Use when advising a powerful figure to change course or retire gracefully. Systematically presents cautionary and positive historical examples to illustrate the wisdom of timely withdrawal before success reverses."
 ---
 
 # Persuasion Through Historical Precedent
@@ -25,3 +25,8 @@ A method for persuading powerful figures by systematically analyzing historical 
 - Subject recognizes the wisdom of timely retirement
 - Graceful transition of power
 - Subject's reputation preserved
+
+## Verification
+1. Confirm that both cautionary examples (who failed by not stopping) and positive examples (who retired gracefully) have been presented for balanced persuasion.
+2. Validate that the analysis has been directly applied to the subject's current situation, not left as abstract history.
+3. Ensure a specific, concrete path for honorable retirement has been proposed rather than vague advice to step down.

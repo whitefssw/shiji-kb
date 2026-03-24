@@ -1,6 +1,6 @@
 ---
 name: diplomatic-envoy-conduct
-description: Protocol for diplomatic envoys traveling to foreign courts, including gift presentation, negotiation tactics, and maintaining dignity.
+description: "Use when conducting diplomatic missions to foreign courts. Covers intelligence preparation, gift scaling (from 100 jin to 1000 yi gold), indirect negotiation through riddles and allusions, and crisis management when detained or rejected."
 ---
 
 # Diplomatic Envoy Conduct
@@ -55,3 +55,8 @@ Classical Chinese diplomatic procedures for envoys representing their state to f
 - Trade routes established
 - Intelligence gathered
 - State reputation enhanced
+
+## Verification
+- Confirm intelligence on the destination court (political situation, key officials, customs) was gathered before departure
+- Validate that gift value is proportional to the importance of the mission request
+- Check that the envoy maintained authority tokens (imperial tally, credentials) throughout the mission regardless of obstacles encountered

@@ -1,6 +1,6 @@
 ---
 name: establish-administrative-counties
-description: When organizing newly acquired territories into centralized administrative units
+description: "Use when organizing conquered or acquired territories into centrally-administered counties (县). Covers territory assessment, settlement consolidation, official appointment, and administrative standardization. Based on Qin's 41-county system under Shang Yang."
 ---
 
 # Establish Administrative Counties
@@ -42,3 +42,8 @@ A procedure for organizing conquered or acquired territories into centrally-admi
 - Centralized control over new territories
 - Efficient tax collection and administration
 - Integration of diverse populations into state structure
+
+## Validation
+- Verify that each new county has an appointed administrator (令) who reports directly to central authority
+- Confirm that uniform laws and regulations have been applied across all newly established counties
+- Check that the creation of each county is documented with population, resource, and strategic location data

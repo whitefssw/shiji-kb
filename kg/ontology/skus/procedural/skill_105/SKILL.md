@@ -1,6 +1,6 @@
 ---
 name: crisis-negotiation-surrender
-description: Use when facing imminent defeat and need to negotiate survival with a victorious enemy.
+description: "Use when negotiating survival after military defeat. Based on Goujian of Yue's approach at Kuaiji: offering humble submission, deploying skilled negotiators like Zhong, bribing corruptible enemy officials (Tai Zai Pi), and leveraging credible threats of mutual destruction to force acceptance."
 ---
 
 # Crisis Negotiation and Surrender Strategy
@@ -26,3 +26,8 @@ A diplomatic procedure for negotiating survival when militarily defeated, based 
 - Survival of core leadership
 - Opportunity for future recovery
 - Time to rebuild strength
+
+## Verification
+1. Confirm that direct surrender was attempted before resorting to bribery channels.
+2. Validate that corruptible enemy officials have been identified and that gifts (women, treasures) were delivered through the correct intermediaries.
+3. Check that a credible mutual-destruction threat is prepared as fallback if both surrender and bribery channels fail.

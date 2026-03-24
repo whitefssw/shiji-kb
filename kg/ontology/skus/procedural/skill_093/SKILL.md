@@ -1,6 +1,6 @@
 ---
 name: military-organization-three-armies
-description: Use when establishing or reorganizing military forces into a structured command hierarchy.
+description: "Use when organizing or restructuring military forces into a command hierarchy. Covers the three-army system (三军) with Central, Upper, and Lower armies, staff positions (御戎, 右), communication protocols, and scaling decisions for two-army or three-column (三行) configurations."
 ---
 
 # Three-Army Military Organization
@@ -46,3 +46,8 @@ Divide forces into three armies (三军) with distinct command structures and re
 
 ## Expected Outcome
 Organized military with clear chain of command and coordinated response capability.
+
+## Verification
+1. Confirm that commanders are appointed based on merit and experience rather than solely on noble rank.
+2. Validate that each army has both a commander and deputy assigned with clear roles.
+3. Check that communication protocols between the three armies have been established and tested before deployment.

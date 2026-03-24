@@ -1,6 +1,6 @@
 ---
 name: military-supply-interdiction-strategy
-description: Use when facing a powerful enemy with superior forces but dependent on long supply lines.
+description: "Use when facing a powerful enemy dependent on long supply lines. Based on Deng Duwei's advice during the Seven States Rebellion, employs fortified defense, allied distraction, and mobile forces to cut supply routes and starve the enemy into defeat."
 ---
 
 # Military Supply Interdiction Strategy
@@ -46,3 +46,8 @@ A defensive military strategy for defeating a stronger enemy by cutting off thei
 - Enemy forces weakened without direct confrontation
 - Minimal losses to your main force
 - Decisive victory through logistical superiority
+
+## Verification
+1. Confirm that enemy logistical dependencies (supply routes, food sources) have been identified and mapped before committing mobile forces.
+2. Validate that the defensive position controls key supply transit points and can withstand prolonged siege.
+3. Ensure the main force engages only after clear signs of enemy supply exhaustion (hunger, demoralization, weakened formations).

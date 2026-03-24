@@ -1,6 +1,6 @@
 ---
 name: ancient-commercial-strategy
-description: Classical Chinese business methodology for timing market entry, managing inventory, and maximizing profits through counter-cyclical trading.
+description: "Use when applying ancient Chinese trading principles (白圭/计然 method). Covers counter-cyclical buying (旱则资舟水则资车), price cycle recognition, inventory rules for perishables, and the four merchant virtues (智勇仁彊)."
 ---
 
 # Ancient Commercial Strategy (白圭/计然 Method)
@@ -53,3 +53,8 @@ To succeed, one must possess:
 - Stable supply chains
 - Wealth accumulation over time
 - Reputation for reliability
+
+## Verification
+- Confirm trading decisions align with counter-cyclical principles (buying when others sell, selling when others buy)
+- Validate that grain prices are maintained within the optimal 30-80 range to benefit both farmers and merchants
+- Check that inventory follows the rules: no idle money (无息币), no hoarding perishables, and no holding at peak prices (无敢居贵)

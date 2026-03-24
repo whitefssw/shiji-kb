@@ -1,6 +1,6 @@
 ---
 name: military-campaign-authorization
-description: Use when conducting military campaigns with proper authorization and discipline protocols.
+description: "Use when authorizing a military campaign or establishing battlefield discipline. Based on the Battle of Gan (甘之战), structures just-cause documentation, formal proclamation (誓), duty assignment, and post-battle accountability at ancestral shrines."
 ---
 
 # Military Campaign Authorization and Execution
@@ -46,3 +46,8 @@ Based on the Battle of Gan (甘之战), this procedure outlines proper authoriza
 - Disciplined forces
 - Clear accountability
 - Victory through proper conduct
+
+## Validation
+- Verify that a just cause has been documented with specific enemy transgressions before the proclamation is issued
+- Confirm that all positions (left, right, charioteer) have clearly defined duties and know the consequences for failure
+- Check that post-battle rewards (赏于祖) and punishments (僇于社) are applied consistently according to stated criteria

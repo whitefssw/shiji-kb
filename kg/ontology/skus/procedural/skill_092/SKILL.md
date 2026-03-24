@@ -1,6 +1,6 @@
 ---
 name: merit-based-reward-classification
-description: Use when implementing a tiered reward system to recognize different types of contributions from subordinates or officials.
+description: "Use when designing a tiered reward system for contributions or ranking officials by merit. Classifies service into four tiers: moral guidance (封邑 grants), administrative execution (卿位 titles), military labor, and routine service, allocating rewards systematically from highest to lowest."
 ---
 
 # Merit-Based Reward Classification System
@@ -41,3 +41,8 @@ This system ensures fair recognition by categorizing contributions into distinct
 
 ## Expected Outcome
 Fair distribution that motivates continued loyalty and recognizes true merit.
+
+## Verification
+1. Confirm that all contributors have been listed and categorized by specific actions before rewards are allocated.
+2. Validate that moral guidance advisors (Tier 1) receive greater recognition than those who performed only physical labor (Tier 3-4).
+3. Check that the reasoning behind each tier assignment has been communicated to all parties to maintain morale and transparency.

@@ -1,6 +1,6 @@
 ---
 name: besieged-force-defense
-description: Defensive tactics for a small force surrounded by superior enemy numbers
+description: "Use when defending a small force surrounded by superior numbers. Employs circular formation, ammunition conservation, targeted strikes on enemy commanders, and aggressive sorties to maintain morale until relief arrives."
 ---
 
 # Besieged Force Defense
@@ -31,3 +31,8 @@ Tactical approach for defending against a numerically superior enemy that has su
 - Enemy morale degrades from inability to quickly defeat a smaller force
 - Enemy leadership losses create command confusion
 - Friendly forces may survive until reinforcements arrive or enemy withdraws
+
+## Verification
+- Confirm the defensive perimeter covers all approach directions with no exploitable gaps
+- Validate that ammunition reserves are being monitored and fire discipline is maintained
+- Check that enemy command casualties are disrupting their coordination before committing to sorties

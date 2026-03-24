@@ -1,6 +1,6 @@
 ---
 name: imperial-title-establishment
-description: Procedure for creating and legitimizing a new imperial title and governance system.
+description: "Use when creating a new imperial title or establishing governance terminology for a unified empire. Guides council deliberation, historical precedent review, title composition (皇帝), imperial terminology (制/诏/朕), and succession numbering from 始皇帝 onward."
 ---
 
 # Imperial Title Establishment Procedure
@@ -35,3 +35,8 @@ When unifying multiple states under one ruler, establish new titles and systems 
 - Clear hierarchical distinction from previous rulers
 - Unified imperial terminology across the realm
 - Legitimized dynastic succession
+
+## Validation
+- Verify that ministers (丞相, 御史, 廷尉) were convened and historical precedents from Three Sovereigns and Five Emperors were reviewed
+- Confirm that all imperial terminology (制, 诏, 朕) is established and consistently applied across official communications
+- Check that posthumous titles are abolished and the sequential numbering system (始皇帝, Second Emperor, etc.) is formally decreed

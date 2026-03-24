@@ -1,6 +1,6 @@
 ---
 name: endurance-reminder-practice
-description: Use when needing to maintain long-term focus on recovering from humiliation or defeat.
+description: "Use when maintaining long-term motivation after humiliation or defeat. Based on Goujian's 'tasting gall' (卧薪尝胆) practice: physical reminders, daily verbal affirmations of past shame, personal austerity, and sharing hardships with the people to build loyalty for eventual recovery."
 ---
 
 # Endurance and Reminder Practice
@@ -24,3 +24,8 @@ Constant physical and behavioral reminders maintain focus on long-term goals dur
 - Sustained motivation over years
 - Building of internal strength and popular support
 - Readiness for revenge when opportunity arises
+
+## Verification
+1. Confirm that a physical reminder has been established and is encountered daily (when sitting, lying down, and eating).
+2. Validate that the leader practices genuine austerity (personal farming, simple food, plain clothes) rather than merely symbolic gestures.
+3. Check that hardship-sharing with common people is building measurable loyalty and popular support over time.

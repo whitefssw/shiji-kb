@@ -1,6 +1,6 @@
 ---
 name: proper-rulership-assessment
-description: Use when evaluating whether a ruler or leader is governing effectively and justly
+description: "Use when evaluating governance quality, assessing leadership effectiveness, or auditing a ruler's conduct. Provides positive and negative indicators covering talent retention, crisis response, wealth distribution, and popular sentiment to diagnose state health."
 ---
 
 # Proper Rulership Assessment
@@ -50,3 +50,8 @@ Good rulership can be assessed through specific observable behaviors and outcome
 - "If the ruler were to use this person, would the state prosper or decline?"
 - "Do the people speak well of the ruler's governance?"
 - "Are neighboring states respectful or contemptuous?"
+
+## Validation
+1. Cross-reference positive indicators (talent retention, fair laws) against negative indicators (flight of capable people, popular discontent) — contradictions signal hidden governance failures
+2. Verify assessment objectivity by consulting multiple sources: ministers, common people, and neighboring states' envoys
+3. Confirm that the ruler's retainer quality (e.g., caliber of advisors like 子贡, 颜回, 子路) reflects genuine talent attraction, not coerced service

@@ -1,6 +1,6 @@
 ---
 name: court-communication-strategy
-description: Use when needing to present ideas or proposals to superiors while avoiding direct confrontation or public disagreement.
+description: "Use when advising rulers without direct confrontation. Presents options rather than demands (开陈其端令人主自择), times proposals for private audiences, and allows superiors to feel ownership of decisions."
 ---
 
 # Strategic Court Communication Method
@@ -54,3 +54,8 @@ A method for advising rulers by presenting options rather than direct confrontat
 - Ideas are more likely to be adopted
 - Superior feels respected and in control
 - Advisor's influence grows over time
+
+## Verification
+- Confirm proposals were presented as multiple options rather than single demands
+- Validate that the timing and setting (private vs public audience) were appropriate for the sensitivity of the topic
+- Check that the superior perceives the final decision as their own choice rather than imposed counsel

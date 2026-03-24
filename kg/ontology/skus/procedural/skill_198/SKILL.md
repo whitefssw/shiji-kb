@@ -1,6 +1,6 @@
 ---
 name: distributing-rewards-to-subordinates
-description: A method for leaders to distribute monetary rewards or resources among subordinates transparently and without personal gain.
+description: "Use when distributing monetary rewards or resources received in an official capacity. Ensures fairness and loyalty by publicly displaying resources, allowing self-selection by subordinates, and keeping nothing for personal use."
 ---
 
 ## Overview
@@ -22,3 +22,8 @@ This procedure describes how to handle the distribution of rewards, gifts, or re
 - Demonstrates lack of personal greed
 - Creates reputation for fairness and generosity
 - Strengthens team cohesion
+
+## Verification
+1. Confirm that all resources were displayed in a publicly visible and accessible location, not distributed privately.
+2. Validate that no portion of the resources entered the leader's personal residence or accounts.
+3. Ensure that hesitant subordinates were encouraged to participate, and the entire process was witnessed by all team members.

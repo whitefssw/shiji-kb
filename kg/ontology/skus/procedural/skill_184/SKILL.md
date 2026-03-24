@@ -1,6 +1,6 @@
 ---
 name: loyalty-defense-argument
-description: Use when defending against accusations by establishing historical precedent and appealing to principles of justice
+description: "Use when defending against accusations of disloyalty or treason. Employs a rhetorical framework of family service records, historical precedents of wrongful execution (Bigan, Wu Zixu), and principle-based appeals to preserve reputation."
 ---
 
 # Loyalty Defense Argument
@@ -60,3 +60,8 @@ Examples to cite:
 - Reputation preserved for posterity
 - Historical record reflects injustice
 - Future generations recognize the wrongful execution
+
+## Verification
+1. Confirm that the defense establishes credibility through specific, quantifiable service records (years, battles, territory) rather than vague claims.
+2. Validate that historical precedents of wrongful execution are accurately cited and directly parallel to the current accusation.
+3. Ensure the defense frames the situation as tragedy rather than directly accusing the ruler of error, preserving honor for the historical record.

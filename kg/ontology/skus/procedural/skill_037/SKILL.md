@@ -1,6 +1,6 @@
 ---
 name: crisis-recovery-governance
-description: Use when a new ruler inherits a troubled state and needs to restore stability and popular support
+description: "Use when a new ruler inherits a troubled state and must restore stability. Covers personnel reform (任忠贤), correcting predecessor's wrongs (正先帝之过), economic relief (发仓廪/轻赋), legal simplification (约法/省刑), and moral governance."
 ---
 
 ## Overview
@@ -38,3 +38,8 @@ A comprehensive recovery procedure for new rulers facing internal crisis and pop
 - Restored popular support and stability
 - Reduced internal dissent
 - Prevention of rebellion and uprising
+
+## Validation
+- Verify that loyal and wise officials (任忠贤) have been appointed and predecessor's wrongs publicly acknowledged
+- Confirm that economic relief measures (granary distribution, tax reduction, labor reduction) are reaching affected populations
+- Check that legal reforms (simplified laws, reduced punishments) have been enacted and prisoners unjustly held have been pardoned

@@ -1,6 +1,6 @@
 ---
 name: recruit-talent-from-rival-states
-description: When seeking to acquire capable individuals from enemy or rival states through discreet negotiation and ransom
+description: "Use when recruiting talented individuals from rival states through discreet negotiation. Based on Duke Mu's recruitment of Baili Xi, guides target identification, concealment of intentions, low-value exchange tactics, and capability assessment."
 ---
 
 # Recruit Talent from Rival States
@@ -41,3 +41,8 @@ A diplomatic procedure for acquiring talented individuals from rival states with
 ## Expected Outcomes
 - Acquisition of valuable talent without diplomatic incident
 - Access to strategic knowledge and governance expertise
+
+## Validation
+- Verify that the exchange terms were modest enough to avoid revealing the target's true value to the rival state
+- Confirm that extended discussions were held to assess the recruit's governance and strategic capabilities before granting authority
+- Check that the recruit was asked to recommend other talented individuals to expand the talent network

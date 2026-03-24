@@ -1,6 +1,6 @@
 ---
 name: strategic-alliance-encirclement
-description: Use when facing a powerful enemy that cannot be defeated directly.
+description: "Use when building a coalition to encircle and weaken a superior adversary through indirect means. Based on Feng Tong's advice to Goujian: conceal intentions, ally with enemy's rivals (Qi, Chu, Jin), flatter the enemy into arrogance, and strike when they are overextended on multiple fronts."
 ---
 
 # Strategic Alliance Encirclement Strategy
@@ -25,3 +25,8 @@ A diplomatic-military procedure for building a coalition to encircle and weaken 
 - Enemy becomes isolated and overextended
 - Multiple fronts drain enemy resources
 - Opportunity for decisive victory emerges
+
+## Verification
+1. Confirm that your true strength and intentions remain concealed from the enemy ("the hunting bird must hide its form before striking").
+2. Validate that alliances with the enemy's rivals are secured and coordinated before any overt action.
+3. Check that the enemy has demonstrably become arrogant and overextended before initiating the strike.

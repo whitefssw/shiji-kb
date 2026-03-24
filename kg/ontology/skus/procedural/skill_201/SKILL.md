@@ -1,6 +1,6 @@
 ---
 name: diplomatic-persuasion-through-emotional-appeal
-description: Use when needing to change a superior's negative attitude toward a client or ally through strategic communication
+description: "Use when persuading a superior to reverse hostility toward an ally. Combines emotional appeal, intermediary strategy, and evidence of loyalty to reframe grievances and restore relations."
 ---
 
 ## Overview
@@ -26,3 +26,8 @@ A persuasion technique for changing a superior's hostile stance by combining emo
 - The superior's anger transforms into understanding
 - Relations are restored and potentially strengthened
 - The advocate gains reputation and rewards
+
+## Verification
+- Confirm the intermediary has direct access to the superior and is trusted
+- Validate that cited past contributions are factually accurate and verifiable
+- Check that the superior's response shifted from hostility to understanding before concluding the intervention

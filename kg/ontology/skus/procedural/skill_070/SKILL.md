@@ -1,6 +1,6 @@
 ---
 name: military-oath-and-mobilization
-description: Use when commanding troops and ensuring discipline during military campaigns.
+description: "Use when mobilizing troops, establishing military authority, or enforcing battlefield discipline. Covers the ritualized oath procedure with 黄钺 and 白旄 symbols, troop assembly, consequence announcements, and campaign execution."
 ---
 
 # Military Oath and Mobilization Procedure
@@ -38,3 +38,8 @@ A method for military commanders to mobilize troops, establish authority, and en
 - Unified military force with clear chain of command
 - Troops understand expectations and consequences
 - Enhanced morale through ritual and clarity
+
+## Validation
+1. Confirm symbols of authority (黄钺, 白旄) are properly displayed and delegated military authority is visibly established
+2. Verify that consequences for non-compliance are clearly announced and understood by all troops (e.g., 後至者斩)
+3. Check that strategic assessment is completed before engagement — enemy conditions, allied commitment, and political timing are all evaluated

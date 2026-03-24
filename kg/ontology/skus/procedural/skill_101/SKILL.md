@@ -1,6 +1,6 @@
 ---
 name: information-verification-through-provocation
-description: Use when you need to verify a rumor or sensitive information without direct confrontation.
+description: "Use when verifying rumors or sensitive intelligence without direct confrontation. Involves selecting an emotionally reactive proxy, designing a calibrated provocation to trigger unguarded responses, and interpreting reactions to confirm or deny suspected information, as demonstrated by Prince Shangchen."
 ---
 
 # Information Verification Through Controlled Provocation
@@ -37,3 +37,8 @@ Prince Shangchen heard his father might replace him as heir. He hosted a banquet
 
 ## Expected Outcome
 Clear confirmation or denial of the suspected information.
+
+## Verification
+1. Confirm that the provocation target was someone with actual knowledge of the truth, not a peripheral figure speculating.
+2. Validate that the provocation was calibrated to trigger an honest reaction without causing irreversible damage to relationships.
+3. Distinguish between an angry outburst revealing genuine hidden information versus a confused or dismissive reaction suggesting the rumor is false.

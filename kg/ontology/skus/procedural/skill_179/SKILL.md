@@ -1,6 +1,6 @@
 ---
 name: building-trust-before-sensitive-advice
-description: Use when you need to give sensitive political advice to a new or distrustful leader.
+description: "Use when you need to deliver sensitive political counsel to a new or distrustful leader. Builds trust gradually through demonstrated competence, acknowledged risk, and escalating from safe topics to dangerous internal politics."
 ---
 
 # Building Trust Before Sensitive Advice
@@ -28,3 +28,8 @@ Speaking about internal politics (especially royal family matters) is the most d
 - Leader trusts the advisor with sensitive matters
 - Advisor can influence major decisions
 - Advisor's position becomes secure
+
+## Verification
+1. Confirm that value has been demonstrated through smaller matters before attempting to address sensitive topics.
+2. Validate that the leader has explicitly invited counsel (multiple times) before escalating to internal politics or royal family matters.
+3. Ensure that the advisor's motivation has been framed as loyalty rather than personal gain in all interactions.

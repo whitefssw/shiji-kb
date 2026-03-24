@@ -1,6 +1,6 @@
 ---
 name: intelligence-network-espionage
-description: Building informant networks to gather secret intelligence on rival states or competitors
+description: "Use when building covert informant networks to gather intelligence on rival states. Covers agent placement, secure communication channels, and intelligence verification for strategic advantage."
 ---
 
 # Intelligence Network Espionage
@@ -23,3 +23,8 @@ Deploy guests and associates to infiltrate rival organizations and report on lea
 - Advance warning of threats or opportunities
 - Strategic advantage through superior information
 - Enhanced reputation for wisdom when predictions prove accurate
+
+## Verification
+1. Confirm that intelligence from placed agents has been cross-verified through at least one independent source before acting on it.
+2. Validate that secure communication channels are tested and operational before agents are deployed.
+3. Ensure that risk-of-exposure assessments have been completed for each agent placement.

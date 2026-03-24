@@ -1,6 +1,6 @@
 ---
 name: trust-securing-through-historical-analogy
-description: Use when you need to secure a binding commitment before undertaking a long, difficult task.
+description: "Use when securing a binding commitment before a long campaign where rivals may slander you in your absence. Based on Gan Mao's (甘茂) method — citing the tale of Zeng Shen's mother (曾参之母) to illustrate how repeated false accusations erode even deep trust, then extracting a formal pledge."
 ---
 
 # Trust Securing Through Historical Analogy
@@ -37,3 +37,8 @@ Before undertaking a difficult task where others may undermine you, secure a for
 - Binding commitment secured
 - Protection against later slander
 - Ruler reminded of obligation at critical moment
+
+## Validation
+1. Confirm the pledge was made in a specific, memorable context (place and circumstance) that can be invoked later — vague commitments are easily denied
+2. Verify the historical analogy resonated: the ruler should understand that "your virtue is less than Zeng Shen's, your trust in me less than a mother's, and those who will speak against me are more than three"
+3. Test the pledge's durability by checking whether the ruler honors it when the first slander arrives — if not, the pledge was insufficient

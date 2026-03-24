@@ -1,6 +1,6 @@
 ---
 name: counter-insurgency-reward-system
-description: Use when designing incentive structures to motivate troops and encourage enemy defections.
+description: "Use when designing military incentive structures to motivate troops and encourage enemy defections. Establishes tiered rewards by enemy rank (大将 to 千石), defection incentives for surrendering units, and multiplier systems for credible payouts."
 ---
 
 # Counter-Insurgency Reward System
@@ -43,3 +43,8 @@ A structured reward hierarchy for military achievements designed to incentivize 
 - High motivation among troops
 - Encouraged defections from enemy forces
 - Clear understanding of compensation for risks
+
+## Verification
+1. Confirm that reward tiers are clearly defined for all ranks (from 大将 down to minor officials) and communicated to both own troops and the enemy.
+2. Validate that funding sources are declared and payment credibility is established before rewards are promised.
+3. Ensure defection incentives are scaled proportionally and include provisions for units of varying sizes (10,000+ down to smaller groups).

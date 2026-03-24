@@ -1,6 +1,6 @@
 ---
 name: music-governance-method
-description: Use when using music to influence social behavior, cultivate virtue, and maintain political stability.
+description: "Use when deploying music as a governance tool (乐治) to influence social behavior or diagnose political health. Maps the six emotional responses to sound qualities and the five tones (宫商角徵羽) to organs and virtues."
 ---
 
 # Music Governance Method (乐治方法)
@@ -52,3 +52,8 @@ Music affects the heart and can transform social behavior.
 - If music becomes 淫佚 → society will decline
 - If music becomes 哀而不庄 → governance is failing
 - Monitor music trends to predict social changes
+
+## Validation
+1. Confirm the current state of music is assessed against the three indicators: 治世之音 (peaceful), 乱世之音 (chaotic), 亡国之音 (declining)
+2. Verify music is deployed systematically across the three domains: 宗庙 (和敬), 族长乡里 (和顺), 闺门之内 (和亲)
+3. Check for warning signs — if music trends toward 淫佚 or 哀而不庄, governance interventions are needed

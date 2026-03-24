@@ -1,6 +1,6 @@
 ---
 name: timing-military-attack
-description: Use to determine the optimal moment to launch a military campaign.
+description: "Use when determining the optimal moment to launch a military campaign. Based on Fan Li's counsel to Goujian against Wu: wait for enemy to eliminate wise advisors, assess force deployment, confirm internal decay, verify leadership distraction, then strike with full force. Patience is critical."
 ---
 
 # Timing Military Attack
@@ -29,3 +29,8 @@ Fan Li said "Not yet" twice before finally saying "Now is the time" - patience i
 - Maximum surprise advantage
 - Victory against superior forces
 - Minimal own casualties
+
+## Verification
+1. Confirm that all four decision criteria are met: enemy advisors eliminated, forces deployed elsewhere, only weak defenders remain, and leadership is complacent.
+2. Validate that the timing decision reflects patience (Fan Li said "Not yet" twice before "Now") rather than eagerness.
+3. Check that full strike force is prepared and deployed (naval, infantry, elite guards) before initiating the attack.

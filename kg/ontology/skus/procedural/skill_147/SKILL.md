@@ -1,6 +1,6 @@
 ---
 name: strategic-cost-benefit-analysis
-description: Use when evaluating whether a military action serves your interests or inadvertently helps your enemies.
+description: "Use when evaluating whether a military action inadvertently strengthens rivals or when analyzing second-order strategic consequences. Based on Hu Yan's advice against attacking Pu — assessing whether success helps your enemies more than yourself and recommending alternatives when it does."
 ---
 
 # Strategic Cost-Benefit Analysis
@@ -42,3 +42,8 @@ Before attacking a target, analyze whether success helps or harms your strategic
 - Avoid strategic mistakes
 - Maintain ruler's favor
 - Prevent unintended strengthening of rivals
+
+## Validation
+1. Map the full chain of consequences: target capture leads to which power shift, which forces which consolidation, which benefits whom — if the chain ends at a rival's gain, do not proceed
+2. Verify the alternative proposal genuinely serves state interests and is not merely a face-saving inaction plan
+3. Confirm the ruler's perception has been considered — will the ruler credit you for wisdom in restraint, or blame you for missed opportunity?

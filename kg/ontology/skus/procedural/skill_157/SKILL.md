@@ -1,6 +1,6 @@
 ---
 name: self-recommendation-strategy
-description: Persuade decision-makers to include you in opportunities when overlooked
+description: "Use when advocating for your own inclusion in a mission or opportunity after being overlooked. Applies the 'point in a sheath' (锥处囊中) metaphor — reframing obscurity as lack of opportunity rather than lack of ability, and requesting a chance for talent to emerge."
 ---
 
 # Self-Recommendation Strategy
@@ -23,3 +23,8 @@ A procedure for advocating for inclusion in important missions when you have bee
 
 ## Expected Outcome
 Inclusion in the mission, opportunity to demonstrate capabilities, eventual recognition of talent
+
+## Validation
+1. Confirm the self-recommendation reframes the narrative as opportunity gap rather than ability gap — if the pitch sounds like bragging, it will be rejected
+2. Verify the sheath metaphor resonated: the decision-maker should understand that placing you in the position will reveal capability that was hidden, not create capability from nothing
+3. After inclusion, track whether demonstrated performance matches the promise — the metaphor creates high expectations that must be met to maintain credibility

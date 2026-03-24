@@ -1,6 +1,6 @@
 ---
 name: qin-standardization-system
-description: Procedure for implementing uniform standards across a newly unified empire.
+description: "Use when implementing uniform standards across a newly unified empire. Covers weights and measures (衡石丈尺), writing system (书同文字), transportation (车同轨), Five Elements cosmology, and symbolic renaming of rivers and populace."
 ---
 
 # Qin Standardization System
@@ -43,3 +43,8 @@ To ensure effective governance of newly unified territories, establish uniform s
 - Consistent administrative documentation
 - Efficient transportation network
 - Coherent ideological framework
+
+## Validation
+- Verify that all measuring instruments (衡石丈尺) are unified and consistent across administrative regions
+- Confirm that the uniform script (书同文字) and axle width (车同轨) standards are implemented in all territories
+- Check that Five Elements cosmological elements (calendar start, imperial color, sacred number) are consistently applied across official practices

@@ -1,6 +1,6 @@
 ---
 name: water-management-method
-description: Use when planning and implementing irrigation and flood control projects for agricultural development.
+description: "Use when planning irrigation canals, flood control, or water resource management for agriculture. Applies Yu's principle of channeling over blocking (疏导优于堵塞) and includes the Zheng Guo Canal case study."
 ---
 
 # Water Management Method (河渠治理法)
@@ -63,3 +63,8 @@ When floods occur:
 - Increased agricultural productivity
 - Flood damage reduction
 - Economic development
+
+## Validation
+1. Confirm the survey covers the full river course from source to sea with flood-prone areas and natural drainage patterns identified
+2. Verify that the channeling principle (疏导优于堵塞) is followed — diversion and dredging are preferred over damming alone
+3. Check that maintenance schedules are established for regular dredging, embankment repair, and seasonal adjustments

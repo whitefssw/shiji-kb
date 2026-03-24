@@ -1,6 +1,6 @@
 ---
 name: diplomatic-survival-at-banquet
-description: Use when in a hostile diplomatic situation where escape is necessary but direct confrontation would be fatal
+description: "Use when navigating a hostile banquet, diplomatic ambush, or dangerous political gathering. Guides escape from the Hongmen Banquet (鸿门宴) scenario using alliances, deference, and covert withdrawal."
 ---
 
 # Diplomatic Survival at Banquet (鸿门宴脱身)
@@ -48,3 +48,8 @@ A technique for escaping a dangerous diplomatic situation while maintaining appe
 - Survival without triggering immediate war
 - Preservation of forces and reputation
 - Time to regroup and strengthen position
+
+## Validation
+1. Confirm safe extraction from the hostile venue without triggering armed conflict
+2. Verify that a trusted deputy remained behind to maintain the facade and deliver appropriate gifts/apologies
+3. Check that escape route was secured and true location was not revealed until reaching a position of safety

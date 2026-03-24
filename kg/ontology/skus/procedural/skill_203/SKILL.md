@@ -1,6 +1,6 @@
 ---
 name: strategic-military-assessment
-description: Use when evaluating whether to pursue military action against a mobile, nomadic adversary
+description: "Use when evaluating whether to wage war against nomadic or mobile enemies. Applies cost-benefit analysis using distance, terrain, force degradation, and the crossbow metaphor (彊弩之极) to recommend diplomacy or engagement."
 ---
 
 ## Overview
@@ -34,3 +34,8 @@ A framework for assessing the viability of military campaigns against nomadic or
 ## Expected Outcomes
 - Avoid costly campaigns with low probability of success
 - Preserve military resources for more favorable engagements
+
+## Verification
+- Confirm all five assessment criteria (distance, enemy characteristics, territory value, force degradation, diminishing returns) have been evaluated
+- Validate that the decision framework conclusion aligns with the evidence gathered
+- Check that alternative options (diplomacy, alliance) were considered before recommending military action

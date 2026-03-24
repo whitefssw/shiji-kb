@@ -1,6 +1,6 @@
 ---
 name: strategic-exfiltration-plan
-description: Use when extracting a VIP from hostile territory where they are being held under surveillance.
+description: "Use when extracting a VIP from hostile territory under surveillance. Covers disguise preparation, cover stories, timing extraction with legitimate travel, and the facilitator's willingness to accept consequences."
 ---
 
 # Strategic Exfiltration Plan
@@ -24,3 +24,8 @@ The facilitator must be willing to sacrifice themselves to ensure the VIP's esca
 ## Expected Outcomes
 - VIP reaches safety
 - Facilitator may face punishment but often gains respect for loyalty
+
+## Verification
+1. Confirm that a plausible cover story for the VIP's absence is prepared and can withstand initial scrutiny.
+2. Validate that the extraction window aligns with legitimate movement (e.g., envoy departure) to reduce suspicion.
+3. Ensure the facilitator has accepted potential consequences and that allies are prepared to advocate for leniency afterward.

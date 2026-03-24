@@ -1,6 +1,6 @@
 ---
 name: imperial-petition-submission
-description: A procedure for submitting appeals or petitions to imperial authority when seeking to intervene on behalf of others facing judgment.
+description: "Use when submitting appeals or petitions to imperial authority on behalf of someone facing punishment. Covers concealing intentions, secret departure, formal petition drafting, direct audience requests, and presenting mitigating arguments."
 ---
 
 ## Overview
@@ -21,3 +21,8 @@ This procedure describes how to submit a petition or appeal to imperial authorit
 - Petitioning on behalf of those who have offended powerful factions carries great personal risk
 - Family members may attempt to dissuade you for your own safety
 - Success depends on the ruler's disposition and political circumstances
+
+## Verification
+1. Confirm that the petition presents clear mitigating circumstances (intoxication, disproportionate punishment, alternative explanations) rather than mere emotional appeal.
+2. Validate that the petitioner has assessed the ruler's current disposition and political circumstances before seeking an audience.
+3. Ensure the petitioner is prepared to accept the ruler's decision regardless of outcome, including referral to formal debate or investigation.

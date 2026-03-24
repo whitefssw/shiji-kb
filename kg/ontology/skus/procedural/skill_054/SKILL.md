@@ -1,6 +1,6 @@
 ---
 name: yellow-bell-calculation-method
-description: Use when establishing the fundamental musical standard and deriving the twelve pitch pipes from the base unit.
+description: "Use when establishing the fundamental pitch standard (黄钟) or deriving all twelve pitch pipes. Calculates the 9-cun base unit from powers of 3 and links musical tuning to weights, measures, and seasonal timing."
 ---
 
 # Yellow Bell (黄钟) Calculation Method
@@ -44,3 +44,8 @@ Use this standard to:
 - Calibrate musical instruments
 - Establish weights and measures
 - Determine seasonal timing
+
+## Validation
+1. Confirm the base calculation produces 3^9 = 19683 as the divisor and 9 寸 as the Yellow Bell standard
+2. Verify each successive pitch is correctly derived using powers of 3 from the base unit
+3. Check that the derived standard is consistent across its three application domains: musical tuning, weights/measures, and seasonal timing

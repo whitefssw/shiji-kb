@@ -1,6 +1,6 @@
 ---
 name: succession-power-transfer
-description: Use when managing leadership succession and power transitions between rulers.
+description: "Use when managing a leadership succession or transferring power between rulers. Covers designation, mourning period (三年丧), abdication gesture, popular validation by regional leaders (诸侯), and formal assumption of authority."
 ---
 
 # Leadership Succession Protocol
@@ -50,3 +50,8 @@ This procedure outlines the formal process for transferring authority from one r
 - Peaceful power transition
 - Legitimate authority established
 - Continued governance stability
+
+## Validation
+- Verify that the successor was formally recommended to heaven (荐于天) and served as heir apparent before assuming power
+- Confirm that the three-year mourning period was observed and the abdication gesture was performed
+- Check that regional leaders (诸侯) demonstrated clear popular support before the formal assumption of authority

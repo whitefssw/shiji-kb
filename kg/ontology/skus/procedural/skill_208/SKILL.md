@@ -1,6 +1,6 @@
 ---
 name: soldier-centered-leadership
-description: Leadership approach that prioritizes soldier welfare to build loyalty and morale
+description: "Use when building deep military loyalty and unit cohesion. Shares hardships, distributes rewards equitably, and leads by example to create soldiers willing to follow into the most dangerous engagements."
 ---
 
 # Soldier-Centered Leadership
@@ -41,3 +41,8 @@ A leadership philosophy that emphasizes sharing hardships with subordinates, dis
 - High morale and unit cohesion
 - Deep loyalty that persists through difficult campaigns
 - Subordinates will follow willingly into dangerous situations
+
+## Verification
+- Confirm the commander consistently shares the same conditions (food, water, shelter) as rank-and-file soldiers
+- Validate that reward distribution is transparent and perceived as equitable by subordinates
+- Check unit morale indicators: willingness to volunteer for dangerous missions, low desertion rates, and cohesion under pressure

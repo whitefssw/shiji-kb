@@ -1,6 +1,6 @@
 ---
 name: protective-deception-for-heir-preservation
-description: Use when protecting a vulnerable heir or key individual from systematic elimination by powerful enemies.
+description: "Use when protecting a vulnerable heir from systematic elimination by powerful enemies. Covers multi-layered deception: concealment, substitute infant decoys, staged betrayal to convince enemies the heir is dead, long-term secret raising, and eventual restoration when political conditions shift."
 ---
 
 # Protective Deception Protocol for Heir Preservation
@@ -57,3 +57,8 @@ A multi-layered deception strategy to protect a vulnerable heir when facing syst
 - Bloodline preserved through systematic elimination
 - Eventual restoration when conditions permit
 - Posthumous honor for those who sacrificed
+
+## Verification
+1. Confirm that protectors are genuinely willing to sacrifice and that the deception involves a substitute infant, not the actual heir.
+2. Validate that absolute secrecy has been maintained throughout concealment, with no information leaks over the extended timeline.
+3. Check that records of true identity have been preserved and that political conditions have genuinely shifted before initiating the restoration phase.

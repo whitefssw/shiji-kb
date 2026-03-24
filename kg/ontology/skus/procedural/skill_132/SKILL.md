@@ -1,6 +1,6 @@
 ---
 name: virtue-reward-evaluation-framework
-description: Use when analyzing whether moral behavior correlates with positive outcomes or questioning cosmic justice.
+description: "Use when analyzing whether virtue correlates with worldly success or questioning cosmic justice (天道). Compares virtuous sufferers (伯夷, 颜回) against prosperous villains (盗跖) using Sima Qian's method to assess 天道无亲常与善人 and inform ethical decision-making."
 ---
 
 # Virtue-Reward Evaluation Framework
@@ -30,3 +30,8 @@ An analytical method for examining the relationship between moral conduct and li
 - Clear-eyed assessment of virtue-reward correlation
 - Understanding that worldly success and moral character may diverge
 - Basis for ethical decision-making independent of expected rewards
+
+## Validation
+1. Verify test cases include both virtuous sufferers and wicked prosperers — a one-sided sample produces biased conclusions
+2. Confirm that documented evidence includes specific behaviors (积仁絜行) and specific outcomes (starvation, longevity), not vague generalizations
+3. Check whether conclusions honestly acknowledge uncertainty (余甚惑焉) rather than forcing a neat moral narrative

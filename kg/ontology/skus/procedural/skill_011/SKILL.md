@@ -1,6 +1,6 @@
 ---
 name: river-channel-development
-description: Use when planning and constructing river navigation and drainage channels.
+description: "Use when planning river navigation routes or developing drainage channels. Maps nine major river systems from source to terminus, guides dredging, embankment construction, and integration into tribute transportation networks."
 ---
 
 # Nine Rivers Channel Development
@@ -51,3 +51,8 @@ This procedure documents the nine major river systems and their development for 
 - Navigable waterways
 - Flood control infrastructure
 - Integrated transportation network
+
+## Validation
+- Verify that each of the nine river systems has a documented source, course, confluences, and termination point
+- Confirm that obstructed sections have been dredged and bypass channels constructed where needed
+- Check that all developed waterways connect to the broader tribute transportation network

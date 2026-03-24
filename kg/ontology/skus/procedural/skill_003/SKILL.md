@@ -1,6 +1,6 @@
 ---
 name: imperial-inspection-tour-protocol
-description: For conducting systematic royal inspection tours of the realm
+description: "Use when planning a royal inspection tour or standardizing governance across regions. Structures a five-year inspection cycle covering four cardinal directions with ritual obligations, measurement standardization, and audience protocols."
 ---
 
 # Imperial Inspection Tour Protocol
@@ -61,3 +61,8 @@ The emperor conducts inspection tours to verify governance, standardize measurem
 - Direct knowledge of regional conditions
 - Strengthened central authority
 - Accountable regional governance
+
+## Validation
+- Verify that calendars, weights, and measurements are consistent across all four regions after the tour
+- Confirm that each regional leader has received and returned the five jade tablets (五瑞)
+- Check that findings and decisions from the tour are documented and reported at the ancestral temple

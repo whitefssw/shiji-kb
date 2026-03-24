@@ -1,6 +1,6 @@
 ---
 name: accepting-fair-weather-followers
-description: Use when feeling betrayed by followers who left during hardship to maintain proper perspective on human nature.
+description: "Use when managing follower loyalty during adversity or processing feelings of betrayal after supporters depart. Applies the marketplace analogy (dawn crowds vs. dusk emptiness) to reframe departures as natural human behavior rather than personal betrayal, enabling magnanimous leadership."
 ---
 
 # Accepting Fair-Weather Followers
@@ -48,3 +48,8 @@ Leaders often feel betrayed when followers abandon them during difficult times. 
 - Leader maintains emotional equilibrium
 - Reputation for magnanimity spreads
 - Followers remain loyal in the long term despite temporary departures
+
+## Validation
+1. Check emotional response: if bitterness or desire for revenge persists, the marketplace analogy has not been internalized — revisit the framework
+2. Verify returning followers are welcomed without shame, loyalty oaths, or demands for apology — these conditions negate the magnanimity benefit
+3. Assess long-term retention: followers who return after witnessing magnanimous acceptance should demonstrate stronger loyalty than before their departure

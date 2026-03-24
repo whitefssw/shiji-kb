@@ -1,6 +1,6 @@
 ---
 name: deceptive-standoff-tactic
-description: Military tactic for a small force facing a much larger enemy force at close range
+description: "Use when a small force encounters a much larger enemy and retreat means destruction. Employs psychological deception by advancing, dismounting, and displaying calm to convince the enemy of a hidden ambush, forcing withdrawal."
 ---
 
 # Deceptive Standoff Tactic
@@ -33,3 +33,8 @@ A psychological warfare tactic used when a small force encounters a much larger 
 - Enemy will hesitate to attack, suspecting a trap
 - Forces will survive the encounter without combat
 - Enemy may withdraw entirely under cover of darkness
+
+## Verification
+- Confirm that retreat is genuinely more dangerous than holding position before committing to the bluff
+- Validate that troop discipline is sufficient to maintain composure without breaking formation
+- Check that the enemy has withdrawn or disengaged before resuming movement toward safety

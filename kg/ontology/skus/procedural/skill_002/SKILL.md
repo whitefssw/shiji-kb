@@ -1,6 +1,6 @@
 ---
 name: official-performance-evaluation-cycle
-description: For systematic evaluation and promotion/demotion of government officials
+description: "Use when evaluating official performance or deciding promotions and demotions. Implements a three-year cycle assessment over nine years, using documented achievements to determine advancement (陟) or removal (绌)."
 ---
 
 # Official Performance Evaluation Cycle
@@ -47,3 +47,8 @@ This system ensures merit-based governance through regular performance assessmen
 - Motivated official corps
 - Efficient administration
 - Public trust in government
+
+## Validation
+- Confirm each official has documented duties and measurable standards before the first evaluation cycle begins
+- Verify that cumulative records from all three evaluation periods are compared before final promotion or demotion decisions
+- Check that decisions are publicly announced and documented for transparency

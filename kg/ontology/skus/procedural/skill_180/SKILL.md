@@ -1,6 +1,6 @@
 ---
 name: political-investment-strategy
-description: Use when identifying and cultivating undervalued political figures for long-term strategic gain
+description: "Use when identifying and cultivating undervalued political figures for long-term gain. Follows Lu Buwei's 奇货可居 method: assess investability, provide resources, influence gatekeepers, and secure commitment from promising candidates."
 ---
 
 # Political Investment Strategy
@@ -59,3 +59,8 @@ Based on Lü Buwei's method of treating promising political figures as "奇货�
 - Target advances to position of power
 - Investor gains official position and wealth
 - Long-term influence over the elevated figure
+
+## Verification
+1. Confirm that the target's investability factors (proximity to succession, existing support base, personal qualities) have been assessed before committing resources.
+2. Validate that key gatekeepers have been identified and approached through their trusted associates, not directly.
+3. Ensure formal or symbolic commitment has been obtained from the target before significant resource expenditure.

@@ -1,6 +1,6 @@
 ---
 name: responding-to-political-criticism
-description: A strategy for officials facing public criticism to preserve reputation and position through humble acknowledgment rather than retaliation.
+description: "Use when facing public criticism or accusations in a political or organizational context. Guides officials to preserve reputation through humble acknowledgment, symbolic authority surrender, and strategic resignation offers rather than retaliation."
 ---
 
 ## Overview
@@ -23,3 +23,8 @@ This procedure outlines how to respond when facing public criticism or accusatio
 
 ## Warning
 Retaliating when criticized makes one appear like a common merchant or quarreling woman, lacking proper dignity and perspective.
+
+## Verification
+1. Confirm that the initial response avoided all counter-accusations and defensive arguments.
+2. Validate that symbols of authority were surrendered and a humble acknowledgment was issued before the superior's decision.
+3. Check that the accuser has lost moral high ground as a result of your demonstrated humility, rather than gaining further ammunition.

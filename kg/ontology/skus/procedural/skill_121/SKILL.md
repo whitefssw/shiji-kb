@@ -1,6 +1,6 @@
 ---
 name: negotiation-under-imminent-threat
-description: Use when negotiating for survival while facing execution or extreme duress from a hostile party.
+description: "Use when negotiating for survival under threat of execution or hostage situations. Restructures hostage transactions by demonstrating a living captive's leverage value, sequencing agreements to protect all parties, and buying time for allied intervention."
 ---
 
 # Negotiation Under Imminent Threat
@@ -34,3 +34,8 @@ If a powerful third party might make similar demands in the future, influential 
 
 ## Expected Outcome
 The executing authority agrees to secure payment first, creating opportunity for intervention or escape while the transaction is being negotiated.
+
+## Validation
+1. Verify the proposed sequenced agreement genuinely protects the executing authority's interests, not just the hostage's
+2. Confirm that at least one influential ally has been contacted and understands the precedent implications
+3. Check that the reframed transaction ("与其以死痤市，不如以生痤市") is logically sound and addresses the counterparty's risk exposure

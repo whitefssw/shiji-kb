@@ -1,6 +1,6 @@
 ---
 name: deep-penetration-cavalry-raid
-description: Used when conducting rapid, deep cavalry raids far into enemy territory.
+description: "Use when planning rapid cavalry raids deep into enemy territory. Based on Huo Qubing's campaigns: select elite riders, travel light (约轻赍), live off enemy resources (取食於敌), strike symbolic targets like 狼居胥山, and return before enemy concentrates."
 ---
 
 # Deep Penetration Cavalry Raid
@@ -53,3 +53,8 @@ Tactical procedure for light cavalry forces to penetrate deep into enemy territo
 
 ## Expected Outcome
 Deep penetration into enemy heartland, capture of high-value targets, psychological impact on enemy, and enhanced reputation.
+
+## Verification
+- Confirm the raiding force consists of elite cavalry only, with minimal baggage to maintain speed
+- Validate that the force is successfully living off captured enemy resources and not relying on overstretched supply lines
+- Check that the return is executed before the enemy can concentrate forces to cut off the withdrawal route

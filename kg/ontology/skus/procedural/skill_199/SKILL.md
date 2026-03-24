@@ -1,6 +1,6 @@
 ---
 name: strategic-position-advancement
-description: A method for strategically advancing to higher positions by yielding to more established rivals while securing equivalent authority.
+description: "Use when competing against more established figures for leadership positions. Advances career through strategic yielding—publicly advocating for the rival while securing an alternative position of equal authority (e.g., Chancellor vs. Grand Commandant)."
 ---
 
 ## Overview
@@ -22,3 +22,8 @@ This procedure outlines how to advance one's career when competing against more 
 - Build reputation for humility and wisdom
 - Avoid direct confrontation with established powers
 - Position yourself for future advancement when circumstances change
+
+## Verification
+1. Confirm that the alternative position offers genuinely equivalent power and prestige before yielding to the rival.
+2. Validate that the yield appears genuine and public, not calculated or transactional, to build the intended reputation.
+3. Ensure the strategic position secured provides a platform for future advancement when circumstances change.

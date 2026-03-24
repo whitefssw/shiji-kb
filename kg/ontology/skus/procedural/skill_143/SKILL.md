@@ -1,6 +1,6 @@
 ---
 name: persuasion-through-implied-consequences
-description: Use when needing to persuade someone to take action they are reluctant to undertake.
+description: "Use when persuading a reluctant subordinate or official to accept a dangerous assignment. Based on 12-year-old Gan Luo's (甘罗) method — comparing the target's status to predecessors who refused similar orders, then implying fatal consequences without direct threat."
 ---
 
 # Persuasion Through Implied Consequences
@@ -36,3 +36,8 @@ Compare the target's situation to historical examples of those who refused order
 - Target agrees to take action
 - Relationship preserved
 - No direct confrontation required
+
+## Validation
+1. Confirm the historical analogy is accurate and the target recognizes the referenced predecessor's fate — an obscure or irrelevant example fails to create the intended pressure
+2. Verify a face-saving exit was provided so the target can agree without appearing coerced ("I will go because of this child's words")
+3. Check that the implied consequence was left implicit — making the threat explicit transforms persuasion into coercion and damages the relationship

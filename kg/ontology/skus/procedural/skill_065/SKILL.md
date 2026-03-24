@@ -1,6 +1,6 @@
 ---
 name: promise-fulfillment-protocol
-description: Use when a commitment was made internally but circumstances have changed, requiring decision on whether to honor the commitment.
+description: "Use when deciding whether to honor a commitment after circumstances change, especially after the recipient's death. Applies Ji Zha's sword-promise principle: internal assent creates moral obligation that transcends death."
 ---
 
 ## Overview
@@ -35,3 +35,8 @@ Ji Zha's sword promise to Xu Lord:
 - Maintenance of personal integrity
 - Demonstration of moral consistency
 - Reputation for trustworthiness that transcends circumstances
+
+## Validation
+1. Confirm the internal commitment was genuine — the heart had already promised, not merely considered
+2. Verify that fulfillment was completed regardless of changed circumstances, including symbolic fulfillment if direct delivery is impossible
+3. Check that personal integrity is maintained — the decision was not rationalized away by convenient reinterpretation of the original commitment

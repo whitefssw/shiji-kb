@@ -1,6 +1,6 @@
 ---
 name: attract-talent-to-organization
-description: Use when building a team of skilled individuals to strengthen an organization after setbacks or for growth.
+description: "Use when recruiting capable individuals or rebuilding a team after setbacks. Demonstrates how symbolic gestures of respect, generous incentives, and shared hardship attract talent from afar, following Warring States recruitment principles."
 ---
 
 # Attract Talent to Organization
@@ -34,3 +34,8 @@ A method for recruiting capable individuals by demonstrating genuine respect and
 - Talented individuals will travel great distances to join you
 - Organization becomes stronger and more capable
 - Morale improves through shared purpose
+
+## Verification
+1. Confirm that at least one symbolic demonstration of respect has been made publicly before broader recruitment begins.
+2. Validate that recruitment incentives are substantive (positions, resources) rather than merely verbal promises.
+3. Check that the leader is personally sharing hardships with the community, not delegating this to subordinates.

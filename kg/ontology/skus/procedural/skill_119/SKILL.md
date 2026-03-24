@@ -1,6 +1,6 @@
 ---
 name: five-criteria-official-evaluation
-description: Use when evaluating candidates for high office or ministerial positions to assess character and suitability.
+description: "Use when evaluating candidates for government positions or assessing character suitability. Applies Li Ke's five-lens framework: 居视其所亲, 富视其所与, 达视其所举, 穷视其所不为, 贫视其所不取 to reveal values, generosity, judgment, principles, and integrity."
 ---
 
 # Five Criteria for Official Evaluation
@@ -34,3 +34,8 @@ Evaluate a person's character through five distinct lenses to determine their su
 
 ## Expected Outcome
 These five criteria provide sufficient information to determine a candidate's true character and suitability for office without needing additional investigation.
+
+## Verification
+1. Confirm that all five criteria were applied to the candidate, not just the most convenient or observable ones.
+2. Validate that observations were gathered across different life conditions (daily life, prosperity, power, difficulty, and poverty) rather than a single snapshot.
+3. Check that the evaluation reveals consistent character patterns across all five lenses before making the appointment decision.

@@ -1,6 +1,6 @@
 ---
 name: delegation-by-comparative-advantage
-description: Use when assigning leadership roles to maximize team effectiveness.
+description: "Use when assigning leadership roles to maximize team effectiveness based on relative strengths. Follows Fan Li's advice to Goujian: directly compare each advisor's capabilities across domains (military vs. civil) and assign primary roles where each person excels most."
 ---
 
 # Delegation by Comparative Advantage
@@ -26,3 +26,8 @@ A procedure for assigning responsibilities based on each person's relative stren
 - Optimal use of available talent
 - Clear division of responsibilities
 - Organizational efficiency
+
+## Verification
+1. Confirm that each advisor's strengths were directly compared across relevant task domains before assignment.
+2. Validate that the strongest candidate for each domain received that primary assignment, not a generalist compromise.
+3. Check that less critical roles (emissary, hostage) were assigned to expendable-but-capable individuals rather than core leadership.

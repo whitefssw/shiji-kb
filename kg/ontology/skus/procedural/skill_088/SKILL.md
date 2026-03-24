@@ -1,6 +1,6 @@
 ---
 name: divination-decision-procedure
-description: Use traditional Chinese divination methods for resolving major doubts and decisions
+description: "Use when resolving major governance doubts through multi-source consultation. Combines turtle shell (卜) and milfoil (筮) divination with ruler deliberation, ministerial advice, and popular sentiment to reach decisions ranked by consensus level."
 ---
 
 # Divination-Based Decision Procedure
@@ -52,3 +52,8 @@ Consult in order:
 - Clearer resolution of complex decisions
 - Integration of multiple perspectives
 - Legitimacy through comprehensive consultation process
+
+## Verification
+1. Confirm that all four consultation sources (ruler's heart, ministers, common people, divination) were consulted in proper order.
+2. Validate that the consensus level matches the correct interpretation rule (Great Harmony, three-agree, or divination-disagrees scenarios).
+3. Check that the decision distinguishes between internal matters (where human consensus weighs more) and external matters (where divination carries special weight).

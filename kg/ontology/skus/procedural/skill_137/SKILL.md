@@ -1,6 +1,6 @@
 ---
 name: alliance-building-diplomacy
-description: When uniting multiple parties against a common threat, address each party's specific interests and fears
+description: "Use when building multi-state coalitions or diplomatic alliances against a dominant threat. Applies Su Qin's 合纵 strategy — analyzing each party's geography, military strength, and fears, then proposing concrete mutual defense terms with specific obligations per member."
 ---
 
 # Alliance-Building Diplomacy (from Su Qin's strategies)
@@ -49,3 +49,8 @@ A systematic approach to building coalitions by understanding each party's uniqu
 
 ## Expected Outcome
 A functioning coalition with clear mutual obligations and shared purpose.
+
+## Validation
+1. Verify each member's specific obligations are concrete and actionable (e.g., "Qi and Wei send troops; Han cuts supply lines") — vague pledges collapse under pressure
+2. Confirm the combined strength assessment is realistic (诸侯之地五倍於秦) — inflated projections breed false confidence
+3. Check that the alliance formalization includes enforcement mechanisms (hostage exchanges, consequences for non-compliance) beyond ceremonial oaths

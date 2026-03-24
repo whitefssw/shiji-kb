@@ -1,6 +1,6 @@
 ---
 name: posthumous-title-abolition
-description: Procedure for eliminating the traditional system of posthumous titles for rulers.
+description: "Use when abolishing the posthumous title system (谥法) to prevent subjects from judging rulers. Establishes sequential numbering from 始皇帝 onward as an alternative naming convention. Abolished by Qin Shi Huang in 221 BCE."
 ---
 
 # Posthumous Title Abolition Procedure
@@ -32,3 +32,8 @@ Abolish the tradition where successors and ministers assign titles to deceased r
 
 ## Historical Context
 Qin Shi Huang abolished this system in 221 BCE, though it was later restored under the Han Dynasty.
+
+## Validation
+- Verify that the imperial decree formally abolishes the posthumous title system (谥法)
+- Confirm that the sequential numbering system (始皇帝, Second Emperor, Third Emperor) is established as the official naming convention
+- Check that no mechanism exists for successors or subjects to assign conduct-based titles to deceased rulers

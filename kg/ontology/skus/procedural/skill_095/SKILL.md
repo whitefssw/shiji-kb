@@ -1,6 +1,6 @@
 ---
 name: receiving-exiled-princes
-description: Use when a noble or royal from another state seeks refuge in your territory.
+description: "Use when handling foreign royals or nobles seeking asylum or refuge. Covers assessment of political status, evaluation of ally potential, and three response tiers: full hospitality with marriage alliance, basic courtesy with safe passage, or diplomatic refusal based on risk calculus."
 ---
 
 # Protocol for Receiving Exiled Princes
@@ -48,3 +48,8 @@ When a prince from another state arrives seeking refuge, follow this protocol to
 
 ## Expected Outcome
 Calculated hospitality that maximizes future political benefit while minimizing current risk.
+
+## Verification
+1. Confirm that the prince's legitimacy of claim and quality of accompanying advisors have been assessed before committing to a response tier.
+2. Validate that the political implications with the prince's home state have been evaluated, including risk of provoking the current ruler.
+3. Check that the chosen response level (full hospitality, basic courtesy, or refusal) matches the assessed risk-benefit balance.

@@ -1,6 +1,6 @@
 ---
 name: state-strengthening-reform-strategy
-description: Use when implementing comprehensive reforms to strengthen a state's internal governance and external position
+description: "Use when implementing comprehensive reforms to strengthen a state's governance and external position. Combines internal reforms (legal codification, agriculture/weaving promotion, military readiness) with external horizontal alliance strategy (连衡) from Shang Yang's model."
 ---
 
 ## Overview
@@ -21,3 +21,8 @@ A systematic approach to state strengthening through internal reforms and extern
 - Strengthened internal economy and military
 - Weakened rival states through diplomatic manipulation
 - Expanded territorial control with minimal direct conflict
+
+## Validation
+- Verify that internal reforms (legal systems, agriculture incentives, defense capabilities) are implemented before pursuing external strategies
+- Confirm that the horizontal alliance strategy (连衡) successfully divides rival states into bilateral relationships
+- Check that economic productivity (farming and textile output) shows measurable improvement as a foundation for military readiness

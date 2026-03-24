@@ -1,6 +1,6 @@
 ---
 name: river-flooding-siege-tactic
-description: Military engineering procedure for conquering fortified cities by using water diversion.
+description: "Use when besieging a fortified city resistant to conventional assault. Plans river diversion to compromise walls through hydraulic pressure. Based on Wang Ben's 225 BCE flooding of Daliang that forced Wei's surrender."
 ---
 
 # River Flooding Siege Tactic
@@ -31,3 +31,8 @@ When facing a well-fortified city that resists conventional assault, use water d
 
 ## Historical Example
 In 225 BCE, Wang Ben diverted river waters to flood Daliang (Wei's capital), causing the walls to collapse and forcing King of Wei to surrender.
+
+## Validation
+- Verify that terrain survey confirmed the target city is vulnerable to flooding with accessible upstream water sources
+- Confirm that diversion channels (河沟) are engineered to direct sufficient water pressure against walls and foundations
+- Check that surrender terms and territorial control plans are prepared before initiating the water diversion

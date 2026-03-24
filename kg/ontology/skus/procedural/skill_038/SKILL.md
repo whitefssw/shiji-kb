@@ -1,6 +1,6 @@
 ---
 name: popular-support-analysis
-description: Use when analyzing why rebellions succeed or fail based on popular sentiment
+description: "Use when analyzing rebellion risk or diagnosing why uprisings succeed or fail. Applies the principle 安民可与行义而危民易与为非 to assess popular contentment vs. endangerment using economic, legal, and safety indicators. References Chen She's rebellion."
 ---
 
 ## Overview
@@ -33,3 +33,8 @@ A framework for understanding that the success of rebellion depends primarily on
 
 ## Historical Example
 Chen She, despite lacking noble status, military experience, or exceptional ability, successfully led a rebellion because the people were endangered (民危也).
+
+## Validation
+- Verify that all four key indicators (economic security, legal fairness, government responsiveness, personal safety) were assessed
+- Confirm that the popular condition was correctly classified as contented (安) or endangered (危) based on evidence
+- Check that relief measures were recommended or implemented immediately when the endangered condition was identified

@@ -1,6 +1,6 @@
 ---
 name: diplomatic-negotiation-pressure
-description: Use when negotiating with a more powerful party who may act in bad faith.
+description: "Use when negotiating with a stronger adversary who may act in bad faith. Covers establishing baselines, demonstrating resolve through credible threats, demanding reciprocal formality, and preparing escape routes."
 ---
 
 # Diplomatic Negotiation Under Pressure
@@ -26,3 +26,8 @@ A method for conducting negotiations with a stronger adversary while maintaining
 - Adversary respects your position
 - Core interests protected
 - Personal reputation enhanced
+
+## Verification
+1. Confirm that non-negotiable baselines have been defined before entering discussions.
+2. Validate that contingency extraction plans are in place in case negotiations collapse.
+3. Ensure all interactions are documented in official records to reflect the true nature of the exchange.

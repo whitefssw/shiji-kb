@@ -1,6 +1,6 @@
 ---
 name: judge-long-distance-military-campaign
-description: When evaluating the feasibility of a surprise attack on a distant target
+description: "Use when evaluating the feasibility of a long-distance surprise military attack. Assesses distance risks, intelligence reliability, supply line vulnerabilities, and contingency planning. Based on Qin's failed attack on Zheng as a cautionary example."
 ---
 
 # Judge Long-Distance Military Campaign
@@ -44,3 +44,8 @@ A framework for evaluating surprise attacks on distant targets, recognizing inhe
 - Avoided catastrophic defeats from overextended campaigns
 - Better allocation of military resources
 - Preserved forces for more achievable objectives
+
+## Validation
+- Verify that intelligence sources were evaluated for reliability and potential double-dealing before committing forces
+- Confirm that experienced military advisors were consulted and their objections formally considered
+- Check that contingency plans with alternative objectives exist in case the primary target is forewarned

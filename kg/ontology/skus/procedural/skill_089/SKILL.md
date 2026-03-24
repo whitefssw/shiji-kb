@@ -1,6 +1,6 @@
 ---
 name: new-ruler-governance-method
-description: Establish effective governance when taking over a conquered or new territory
+description: "Use when establishing governance over newly conquered or acquired territory. Based on Zhou Gong's advice to Kang Shu for ruling former Shang lands: seek local wisdom, study prior regime failures, practice benevolent rule, establish legal frameworks, and appoint virtuous officials."
 ---
 
 # New Ruler Governance Method
@@ -48,3 +48,8 @@ Based on the Duke of Zhou's advice to Kang Shu when establishing rule over the f
 - Stable governance with popular support
 - Avoidance of rebellion and unrest
 - Establishment of lasting administrative structures
+
+## Verification
+1. Confirm that local elders and wise figures from the conquered population were consulted about their former state's strengths and failures.
+2. Validate that the new governance explicitly avoids the specific vices that caused the prior regime's downfall.
+3. Check that officials were selected based on demonstrated virtue (驯行) rather than personal loyalty alone.

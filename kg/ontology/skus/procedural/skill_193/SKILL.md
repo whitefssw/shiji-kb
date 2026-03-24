@@ -1,6 +1,6 @@
 ---
 name: rebellion-mobilization-process
-description: Use when organizing a large-scale military uprising across multiple allied territories.
+description: "Use when organizing a coordinated multi-state military uprising. Based on Wu Wang Pi's Seven States Rebellion mobilization, covers command structure, conscription parameters, allied coordination, reward hierarchies, and financial backing."
 ---
 
 # Rebellion Mobilization Process
@@ -44,3 +44,8 @@ A systematic approach to mobilizing military forces for a coordinated rebellion,
 - Mass mobilization of eligible population
 - Coordinated multi-front offensive
 - Clear incentive structure for participants
+
+## Verification
+1. Confirm that the command structure and conscription age parameters are established before issuing mobilization orders.
+2. Validate that allied states (e.g., Minyue, Dongyue) have received envoys and confirmed troop contributions before coordinated action begins.
+3. Ensure the reward structure is published and financial resources are declared available to maintain credibility with participants.

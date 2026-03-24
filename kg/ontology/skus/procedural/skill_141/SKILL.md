@@ -1,6 +1,6 @@
 ---
 name: military-encirclement-tactics
-description: Use when facing a fortified enemy that needs to be drawn out and destroyed through encirclement and supply interdiction.
+description: "Use when besieging a fortified enemy or planning encirclement warfare. Based on Bai Qi's victory at Changping (长平) — feign retreat to draw the enemy out, deploy hidden forces to cut retreat routes, sever supply lines, and wait 40+ days for starvation-driven collapse."
 ---
 
 # Military Encirclement Tactics
@@ -40,3 +40,8 @@ When facing an enemy behind fortifications, use feigned weakness to draw them ou
 - Enemy forces trapped and destroyed
 - Minimal losses to your own forces
 - Psychological impact on enemy nation
+
+## Validation
+1. Confirm the 25,000-troop ambush force and 5,000 cavalry screen are in position before initiating the feigned retreat — premature engagement without encirclement wastes the entire strategy
+2. Verify supply line severance is complete: no reinforcements or provisions reaching the trapped enemy through secondary routes
+3. Monitor for the enemy's desperation breakout attempt — leadership must be eliminated during this phase to prevent organized escape

@@ -1,6 +1,6 @@
 ---
 name: evaluate-military-opportunity
-description: Use when assessing whether to launch a military campaign against an adversary who appears weakened.
+description: "Use when assessing whether to attack a seemingly weakened adversary. Provides a risk-assessment framework covering hidden enemy strengths, battle-hardened populations, diplomatic consequences, and multi-advisor consultation to avoid costly miscalculations."
 ---
 
 # Evaluate Military Opportunity
@@ -39,3 +39,8 @@ A framework for assessing military risks, particularly when an opponent appears 
 - Avoid costly military defeats from underestimating opponents
 - Maintain diplomatic credibility
 - Make decisions based on realistic assessment rather than wishful thinking
+
+## Verification
+1. Confirm that intelligence on enemy capabilities has been gathered from multiple independent sources, not just optimistic reports.
+2. Validate that dissenting opinions were actively sought and considered before the decision.
+3. Check whether recent agreements or treaties would be violated, and assess the reputational cost of breaking them.

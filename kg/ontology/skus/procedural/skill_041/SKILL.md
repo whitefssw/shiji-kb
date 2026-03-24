@@ -1,6 +1,6 @@
 ---
 name: simplified-governance-establishment
-description: Use when establishing control over a newly conquered territory to win popular support quickly
+description: "Use when establishing control over a newly conquered territory or winning popular support quickly. Simplifies harsh legal codes to three basic laws (约法三章) following Liu Bang's model at Xianyang to build rapid legitimacy."
 ---
 
 # Simplified Governance Establishment (约法三章)
@@ -42,3 +42,8 @@ A method for rapidly establishing legitimacy and popular support in newly conque
 
 ## Historical Context
 Used by Liu Bang (Gaozu) when entering Xianyang, the Qin capital, winning the support of the Qin people.
+
+## Validation
+1. Confirm that previous harsh laws have been explicitly abolished and only three basic laws remain in effect
+2. Verify that local officials continue in their existing roles and civil operations are uninterrupted
+3. Check that troops are stationed outside population centers and no looting or tribute extraction has occurred

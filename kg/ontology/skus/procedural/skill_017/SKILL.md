@@ -1,6 +1,6 @@
 ---
 name: benevolent-governance-demonstration
-description: Methods for demonstrating benevolent rule to gain popular support
+description: "Use when building popular support through benevolent governance or demonstrating virtue as a ruler. Applies Tang's three-sided net principle, self-reflection via public welfare, minister appointment, and post-war benevolence practices."
 ---
 
 # Benevolent Governance Demonstration (德政示范)
@@ -65,3 +65,8 @@ His new prayer: "欲左，左。欲右，右。不用命，乃入吾网。"
 - When facing resistance: Show more mercy, not less
 - When offered total control: Accept restraint
 - When judging success: Look at people's welfare, not personal gain
+
+## Validation
+- Verify that governance decisions prioritize offering freedom of choice before applying consequences (three-sided net principle)
+- Confirm that people's welfare indicators (百姓以宁) show improvement after benevolent measures are implemented
+- Check that virtuous ministers have been sought out and empowered with real authority

@@ -1,6 +1,6 @@
 ---
 name: ancient-divination-ritual-procedure
-description: Use when performing solemn divination rituals to seek ancestral guidance for critical decisions or intercession
+description: "Use when performing solemn divination rituals to seek ancestral guidance for critical decisions. Follows Zhou Gong's model: sacred space preparation, jade disc and gui tablet adornment, oracle bone consultation, and sealed documentation in golden chest."
 ---
 
 # Ancient Divination Ritual Procedure
@@ -40,3 +40,8 @@ A solemn ritual for seeking guidance from ancestors through divination, as pract
 - Clear guidance from ancestral spirits
 - Documented record of the divination for future reference
 - Potential resolution of the crisis through spiritual intercession
+
+## Validation
+1. Confirm the sacred space was properly prepared with three altars, north-facing position, and correct ritual adornment (jade disc and gui tablet)
+2. Verify the prayer was recorded by the scribe on bamboo slips with all four required elements: situation, willingness to substitute, qualifications, and request for permission
+3. Check that documentation is sealed in the golden chest with strict confidentiality maintained by designated guardians

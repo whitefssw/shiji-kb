@@ -1,6 +1,6 @@
 ---
 name: crisis-diplomacy-anti-appeasement
-description: Use when arguing against appeasement of an aggressive power demanding recognition of supremacy.
+description: "Use when arguing against appeasement of an aggressive power demanding supremacy. Frames submission as total loss of sovereignty, cites historical precedents of destruction through capitulation, and proposes coalition resistance."
 ---
 
 # Crisis Diplomacy Against Appeasement
@@ -28,3 +28,8 @@ A framework for arguing against appeasing aggressive powers that demand recognit
 - Decision-makers reconsider appeasement
 - Coalition resistance forms
 - Adversary's momentum checked
+
+## Verification
+1. Confirm that the true consequences of submission (loss of sovereignty, replacement of officials, servitude) have been articulated concretely, not abstractly.
+2. Validate that concrete coalition-building alternatives have been proposed, with specific potential allies identified.
+3. Ensure personal commitment to resistance has been demonstrated to establish credibility with decision-makers.

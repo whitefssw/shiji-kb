@@ -1,6 +1,6 @@
 ---
 name: reputation-preservation-through-association
-description: Use when seeking to establish lasting reputation or understanding how names and deeds survive in history.
+description: "Use when seeking lasting historical reputation or understanding how names endure across generations. Applies the 附骥尾 (attaching to the horse's tail) principle — cultivating personal virtue while associating with eminent figures to ensure one's legacy is recorded and transmitted."
 ---
 
 # Reputation Preservation Through Association
@@ -34,3 +34,8 @@ A method for understanding how individuals achieve lasting fame, based on the pr
 - Greater likelihood of name surviving in historical record
 - Enhanced reputation through reflected prestige
 - Legacy extending beyond one's immediate era
+
+## Validation
+1. Confirm that personal virtue (砥行) is genuinely cultivated, not merely performed — association without substance produces hollow fame
+2. Verify the chosen eminent figure's legacy is durable and widely recognized, not merely fashionable in the current era
+3. Check that the association is documented in texts or traditions that will survive beyond the immediate generation

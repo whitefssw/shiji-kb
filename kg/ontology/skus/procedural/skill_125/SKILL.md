@@ -1,6 +1,6 @@
 ---
 name: legitimacy-building-for-uprising
-description: Use when planning a popular uprising and need to establish legitimacy and divine mandate
+description: "Use when planning a rebellion, popular uprising, or regime change that requires perceived divine mandate. Creates legitimacy through fabricated omens, invocation of beloved historical figures, and the rallying cry 王侯将相宁有种乎 to mobilize popular support."
 ---
 
 # Legitimacy Building for Uprising
@@ -45,3 +45,8 @@ Successful uprisings require more than military force; they need perceived legit
 - Initial support will grow rapidly
 - Military and administrative structure will be established
 - Movement will gain momentum beyond initial organizers
+
+## Validation
+1. Verify that fabricated omens have reached the target population and are being repeated organically, not just by insiders
+2. Confirm organizational structure is functional — commanders appointed, territories assigned, supply chains initiated
+3. Assess whether the invoked historical figures (deceased princes, dynastic heroes) carry genuine popular resonance in the target region

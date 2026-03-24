@@ -1,6 +1,6 @@
 ---
 name: five-zones-governance
-description: Use when establishing concentric administrative zones radiating from a capital center.
+description: "Use when establishing concentric administrative zones or assigning graduated obligations by distance from a capital. Structures five zones (五服) from 甸服 to 荒服, each with specific tribute and governance requirements."
 ---
 
 # Five Zones (五服) Governance System
@@ -48,3 +48,8 @@ This system divides territory into five concentric zones, each 500 li wide, with
 - Organized territorial administration
 - Graduated obligations based on proximity
 - Clear governance hierarchy
+
+## Validation
+- Verify that all five zone boundaries have been measured and marked from the capital center point
+- Confirm that obligations decrease proportionally with distance from the capital
+- Check that officials are assigned to each zone and regional leaders have been informed of their specific obligations

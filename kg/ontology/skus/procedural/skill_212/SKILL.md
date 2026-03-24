@@ -1,6 +1,6 @@
 ---
 name: strict-military-organization
-description: Alternative leadership approach emphasizing strict discipline and formal procedures
+description: "Use when establishing military readiness through strict discipline and constant vigilance. Enforces formal formations, night watches, detailed records, and rigid standards to prevent surprise attacks and maintain combat preparedness."
 ---
 
 # Strict Military Organization
@@ -41,3 +41,8 @@ A contrasting leadership approach that emphasizes strict organization, formal pr
 - Clear accountability for all personnel and resources
 - Forces remain combat-ready at all times
 - Enemy respects the disciplined formation
+
+## Verification
+- Confirm night watch rotations are active and guard positions are staffed at all hours
+- Validate that personnel, equipment, and supply records are current and complete
+- Check that forces can transition from rest to combat formation within the required response time

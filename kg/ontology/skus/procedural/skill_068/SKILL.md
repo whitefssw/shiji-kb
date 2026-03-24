@@ -1,6 +1,6 @@
 ---
 name: succession-transfer-protocol
-description: Use when designing a succession system to ensure a specific heir receives leadership while maintaining family harmony.
+description: "Use when designing a multi-step succession sequence to transfer leadership to a designated heir. Models King Shoumeng of Wu's brother-to-brother chain (寿梦→诸樊→余祭→余眜→季札) with safeguards for refusal."
 ---
 
 ## Overview
@@ -44,3 +44,8 @@ King Shoumeng of Wu's succession plan:
 - Orderly transition of power
 - Demonstration of virtue through refusal
 - Family harmony maintained through clear expectations
+
+## Validation
+1. Confirm the succession sequence is clearly documented and all parties in the chain understand their roles and timing
+2. Verify that safeguards exist for each transition point — binding commands and social pressure ensure compliance
+3. Check that the protocol accounts for refusal by the designated heir, with a graceful fallback to normal lineage succession

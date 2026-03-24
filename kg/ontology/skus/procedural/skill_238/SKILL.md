@@ -1,6 +1,6 @@
 ---
 name: effective-governance-method
-description: Classical administrative approach emphasizing minimal intervention, leading by example, and allowing natural social order to flourish.
+description: "Use when implementing classical Chinese governance (循吏之道). Emphasizes minimal intervention, leading by example, indirect influence (raise gate barriers to raise cart heights), and conflict-of-interest rules prohibiting officials from competing with commoners."
 ---
 
 # Effective Governance Method (循吏之道)
@@ -60,3 +60,8 @@ When offered fish as a gift:
 - "市不豫贾" (No price manipulation)
 - "门不夜关，道不拾遗" (Doors open at night, lost items returned)
 - Public trust and social stability
+
+## Verification
+- Confirm officials are leading by example with personal integrity before issuing directives to the populace
+- Validate that law changes are infrequent and that people understand current regulations without confusion
+- Check governance outcomes against the classical benchmarks: no corrupt officials (吏无奸邪), no bandits (盗贼不起), doors open at night (门不夜关)

@@ -1,6 +1,6 @@
 ---
 name: crisis-advising-to-superiors
-description: Use when a superior faces a serious crisis and must be persuaded to take difficult but necessary action
+description: "Use when advising a ruler or superior during a political crisis. Employs historical analogies, proverbs, and consequence analysis to persuade leaders to take difficult but necessary action."
 ---
 
 ## Overview
@@ -25,3 +25,8 @@ A method for persuading a superior to make painful decisions during a crisis by 
 - The superior recognizes the necessity of action
 - Difficult decisions are made with emotional support
 - The advisor's standing increases due to demonstrated loyalty and wisdom
+
+## Verification
+- Confirm historical analogies selected are directly parallel to the current crisis situation
+- Validate that the proposed resolution is specific and actionable, not merely abstract counsel
+- Check that the superior has acknowledged the urgency and committed to a concrete course of action

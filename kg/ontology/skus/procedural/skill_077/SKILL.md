@@ -1,6 +1,6 @@
 ---
 name: receiving-worthy-people-practice
-description: Use when cultivating relationships with talented individuals and demonstrating respect for capable advisors
+description: "Use when attracting talented advisors or demonstrating respect for worthy individuals. Follows Zhou Gong's practice of interrupting meals and baths to receive scholars (一沐三握发, 一饭三吐哺) to prevent losing capable people."
 ---
 
 # Receiving Worthy People Practice
@@ -33,3 +33,8 @@ Despite high status, treat worthy people with utmost respect and urgency.
 
 ## Key Insight
 "I am the son of King Wen, brother of King Wu, and uncle of King Cheng - my status in the world is not low. Yet I grasp my hair three times during one bath, and spit out food three times during one meal, rising to wait upon scholars, still fearing I might lose the worthy people of the world."
+
+## Validation
+1. Confirm that personal comfort is consistently interrupted when worthy individuals arrive — no worthy person is turned away for convenience
+2. Verify that humility is maintained regardless of the leader's status — arrogance toward visitors is absent
+3. Check the outcome: talented individuals are attracted to your cause and governance is strengthened by capable advisors

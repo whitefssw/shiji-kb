@@ -1,6 +1,6 @@
 ---
 name: alliance-formation-strategy
-description: Use when building coalitions with other states for mutual defense or offensive operations.
+description: "Use when creating interstate alliances for mutual defense or joint offensive operations. Covers ally evaluation (military strength, reliability, geography), alliance types (marriage, military, mutual defense pacts), negotiation protocols, and long-term alliance maintenance through gifts and consultation."
 ---
 
 # Alliance Formation Strategy
@@ -58,3 +58,8 @@ Building effective alliances requires careful assessment of mutual interests and
 
 ## Expected Outcome
 Strong coalition that enhances security and achieves shared objectives.
+
+## Verification
+1. Confirm that potential allies have been evaluated across all four dimensions: military strength, geographic position, historical reliability, and current relationships.
+2. Validate that the alliance has been formalized through tangible commitments (oath, hostage exchange, or marriage) not just verbal agreement.
+3. Check that regular communication and gift-giving protocols are established to maintain the alliance over time.

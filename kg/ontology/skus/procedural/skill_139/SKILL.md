@@ -1,6 +1,6 @@
 ---
 name: strategic-decision-framework
-description: When choosing between competing strategies, evaluate based on practical outcomes rather than reputation
+description: "Use when prioritizing between competing strategic targets or evaluating conquest options. Weighs prestigious targets (symbolic resources like the nine tripods) against practical targets (territorial expansion) using feasibility, consequence, net benefit, and reputation criteria."
 ---
 
 # Strategic Decision Framework (from debates on conquest priorities)
@@ -47,3 +47,8 @@ When resources are limited, which target should be prioritized?
 
 ## Expected Outcome
 A strategic choice that balances ambition with practicality.
+
+## Validation
+1. Confirm feasibility assessment is honest — if even legendary commanders would fail, your forces cannot succeed either
+2. Verify that secondary consequences (coalition formation against you, intervention by neutral powers) have been modeled, not just the primary outcome
+3. Apply the key insight test: does the chosen strategy 务广其地 (expand territory), 务富其民 (enrich the people), or 务博其德 (cultivate virtue) — and is that the correct priority for the current situation?

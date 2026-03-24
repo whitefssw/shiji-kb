@@ -1,6 +1,6 @@
 ---
 name: comparative-state-analysis
-description: Use when comparing relative strength and resources between competing states or factions
+description: "Use when comparing competing states or explaining why weaker parties prevail. Analyzes material resources, leadership quality, and intangible factors like popular support, governance quality, moral legitimacy, and application of benevolence (仁义)."
 ---
 
 ## Overview
@@ -39,3 +39,8 @@ Key question: Why did the weaker party succeed?
 - Understanding that power is not purely material
 - Recognition that governance quality determines outcomes
 - Identification of critical intangible factors
+
+## Validation
+- Verify that both material (territory, population, wealth) and intangible (popular support, governance quality) factors were assessed
+- Confirm that discrepancies between material predictions and actual outcomes were investigated for root causes
+- Check that the analysis addresses whether governance style matches the current phase and whether benevolence (仁义) was applied

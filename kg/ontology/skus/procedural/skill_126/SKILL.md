@@ -1,6 +1,6 @@
 ---
 name: confucian-educational-method
-description: Use when teaching moral philosophy and self-cultivation through progressive learning
+description: "Use when designing curricula for moral education, mentorship, or self-cultivation programs. Applies Confucius's four teachings (文行忠信), four eliminations (绝四), and heuristic pedagogy (不愤不启) to develop comprehensive character through progressive mastery."
 ---
 
 # Confucian Educational Method
@@ -47,3 +47,8 @@ Confucius's educational method emphasizes four areas of teaching, four things to
 - Students develop comprehensive moral character
 - Learning is internalized through struggle and discovery
 - Knowledge extends beyond memorization to understanding and application
+
+## Validation
+1. Test whether students can infer three corners from one (举一隅以三隅反) — if not, revisit foundational instruction before advancing
+2. Verify that learners demonstrate the four eliminations (毋意毋必毋固毋我) in practical situations, not just in recitation
+3. Confirm progressive mastery is occurring: students should articulate the composer's character (得其为人), not merely reproduce the melody (习其曲)

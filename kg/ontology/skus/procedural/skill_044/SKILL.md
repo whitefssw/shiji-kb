@@ -1,6 +1,6 @@
 ---
 name: talent-utilization-framework
-description: Use when evaluating leadership effectiveness and building a successful team for major endeavors
+description: "Use when building a leadership team, delegating authority, or evaluating why leaders succeed or fail. Applies Liu Bang's talent utilization model (用人之道) with Zhang Liang, Xiao He, and Han Xin."
 ---
 
 # Talent Utilization Framework (用人之道)
@@ -51,3 +51,8 @@ A framework for understanding why some leaders succeed while others fail, based 
 
 ## Historical Context
 Liu Bang explained his victory over Xiang Yu by comparing their ability to use three key talents: Zhang Liang (strategy), Xiao He (logistics), and Han Xin (military command).
+
+## Validation
+1. Confirm that specialists have been recruited for each key capability area (strategy, logistics, military) and given appropriate authority
+2. Verify that rewards and recognition are shared generously with contributors rather than hoarded by the leader
+3. Check that delegation is genuine — experts are trusted in their domains without micromanagement

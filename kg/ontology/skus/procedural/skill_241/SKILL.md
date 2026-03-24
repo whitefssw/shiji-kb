@@ -1,6 +1,6 @@
 ---
 name: military-campaign-planning
-description: Strategic planning framework for military campaigns including logistics, timing, and coordination with allies.
+description: "Use when planning military campaigns from intelligence through post-victory consolidation. Covers terrain assessment (知水草处), supply logistics for 60,000+ troops, alliance coordination, siege tactics, and garrison establishment (置使者护田积粟)."
 ---
 
 # Military Campaign Planning
@@ -62,3 +62,8 @@ Classical Chinese military planning methodology drawn from historical campaigns,
 - Enemy neutralization
 - Resource acquisition
 - Strategic position secured
+
+## Verification
+- Confirm intelligence gathering covers enemy strength, terrain advantages, and water/pasture locations before campaign launch
+- Validate that supply lines are calculated for the full troop count and contingencies exist for ally hesitation (持两端)
+- Check that post-campaign steps (garrison forces, administrative control, farmland protection) are executed to secure the victory

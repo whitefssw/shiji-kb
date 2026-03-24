@@ -1,6 +1,6 @@
 ---
 name: siege-feasibility-assessment
-description: Use when evaluating whether to continue a siege against a well-defended city.
+description: "Use when evaluating siege feasibility or deciding whether to continue besieging a fortified city. Based on Xu Jia's advice against attacking Daliang (大梁) — systematically assessing defender strength, fortification quality, historical precedent, and cost of failure before committing."
 ---
 
 # Siege Feasibility Assessment
@@ -44,3 +44,8 @@ Before committing to a siege, systematically evaluate the probability of success
 - Avoid costly failures
 - Secure achievable gains
 - Preserve forces for future campaigns
+
+## Validation
+1. Apply the historical precedent test honestly — if legendary commanders could not take the city with comparable forces, your chances are no better
+2. Verify that external factors (approaching allied forces, rear vulnerabilities) have been accounted for in the timeline
+3. Confirm the proposed alternative (accepting smaller gains) is genuinely achievable and not merely a face-saving retreat

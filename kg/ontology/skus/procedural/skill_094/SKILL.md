@@ -1,6 +1,6 @@
 ---
 name: strategic-retreat-decision
-description: Use when deciding whether to honor past agreements during military conflict or pursue tactical advantage.
+description: "Use when balancing honor-based commitments against tactical military advantage. Applies Duke Wen's three-stage retreat (三舍) framework: recalling past agreements, assessing current position, weighing long-term reputation versus immediate gains, and documenting decision rationale."
 ---
 
 # Strategic Retreat Decision Framework
@@ -39,3 +39,8 @@ When Duke Wen faced Chu forces, he retreated three stages (三舍) as promised d
 
 ## Expected Outcome
 A decision that balances immediate military needs with long-term reputation and alliance maintenance.
+
+## Verification
+1. Confirm that all past agreements with the opposing party have been reviewed and documented before making the advance/retreat decision.
+2. Validate that the long-term reputational impact has been weighed against the immediate tactical gain.
+3. Check that the decision rationale is recorded for future reference and alliance credibility.

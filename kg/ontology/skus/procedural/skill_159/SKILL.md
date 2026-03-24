@@ -1,6 +1,6 @@
 ---
 name: crisis-resource-redistribution
-description: Rally defenders during siege by sharing resources and demonstrating solidarity
+description: "Use when leading during extreme crisis (siege, famine, disaster) and follower morale is collapsing due to resource disparity. Redistributes personal luxury resources to followers, enlists family members in support roles, forms elite volunteer units, and leads from the front to restore fighting spirit."
 ---
 
 # Crisis Resource Redistribution
@@ -27,3 +27,8 @@ A procedure for leaders to maintain morale and effectiveness during extreme cris
 
 ## Expected Outcome
 Boosted morale, formation of dedicated fighting units, potential relief of crisis conditions
+
+## Validation
+1. Verify the redistribution is genuine and visible — token gestures that preserve leader comfort while demanding follower sacrifice will backfire catastrophically
+2. Confirm elite volunteer units have formed and are combat-effective, not merely ceremonial — the redistribution should attract genuine fighters willing to take on the most dangerous operations
+3. Apply the key insight test: "if the state is destroyed, how will you keep your wealth?" — if the answer is "you won't," then full commitment is rational, not merely heroic

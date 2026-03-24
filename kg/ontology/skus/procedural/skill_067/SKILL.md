@@ -1,6 +1,6 @@
 ---
 name: military-campaign-assessment
-description: Use when evaluating whether conditions are right for a major military campaign, considering troop condition, alliances, and strategic positioning.
+description: "Use when deciding whether to launch a military campaign or evaluating battle readiness. Applies Sun Wu's advice to King Helu of Wu: assess troop fatigue (民劳), alliance potential, enemy leadership weaknesses, and multi-pronged coordination."
 ---
 
 ## Overview
@@ -42,3 +42,8 @@ A framework for assessing military campaign timing and conditions, based on Sun 
 - Successful penetration of enemy territory
 - Minimal losses through proper timing
 - Strategic advantage through alliance coordination
+
+## Validation
+1. Confirm troop readiness: soldiers are rested, morale is high, and forces have recovered from previous campaigns
+2. Verify that strategic alliances are secured with states sharing grievances against the common enemy
+3. Check that the enemy assessment is complete — leadership weaknesses, diplomatic isolation, and internal discontent are documented before proceeding

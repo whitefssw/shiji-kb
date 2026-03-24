@@ -1,6 +1,6 @@
 ---
 name: distant-campaign-risk-assessment
-description: Use when evaluating the feasibility and risks of military campaigns against distant enemies, particularly nomadic or mobile forces.
+description: "Use when evaluating feasibility of campaigns against distant or nomadic enemies. Assesses strategic value, logistics (率三十锺而致一石), enemy mobility, domestic impact (靡弊中国), and historical precedents like Qin's failed Xiongnu campaigns."
 ---
 
 # Distant Campaign Risk Assessment Framework
@@ -57,3 +57,8 @@ A systematic approach to evaluating military campaigns against distant targets, 
 - Preserve national resources
 - Maintain domestic stability
 - Focus military efforts on achievable objectives
+
+## Verification
+- Confirm all five assessment criteria (strategic value, logistics, enemy characteristics, domestic impact, historical precedent) have been evaluated
+- Validate that the cost-benefit analysis accounts for supply line ratios (30 measures transported per 1 delivered)
+- Check that the decision to proceed or avoid aligns with the framework conditions and domestic stability is not being jeopardized

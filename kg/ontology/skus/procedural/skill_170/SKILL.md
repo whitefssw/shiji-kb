@@ -1,6 +1,6 @@
 ---
 name: diplomatic-persuasion-strategy
-description: Use when persuading a powerful adversary to change their military or political course of action through written or verbal appeal.
+description: "Use when persuading a powerful adversary to change their military or political course of action. Employs historical analogies, risk analysis, and alternative alliance proposals to redirect an opponent's strategy."
 ---
 
 # Diplomatic Persuasion Strategy
@@ -24,3 +24,8 @@ A structured approach to persuading powerful adversaries by appealing to their l
 - Adversary reconsidering their position
 - Opening for diplomatic negotiation
 - Potential alliance formation
+
+## Verification
+1. Confirm that the adversary's strength was acknowledged at the outset to establish credibility before presenting risks.
+2. Validate that historical precedents cited are accurate and directly parallel to the current situation (e.g., Wu attacking Qi, Zhi clan attacking Zhao).
+3. Check that the proposed alternative alliance includes concrete, specific benefits rather than vague promises.

@@ -1,6 +1,6 @@
 ---
 name: astronomical-observation-method
-description: Use when observing celestial phenomena to predict earthly events and guide governance decisions.
+description: "Use when interpreting celestial phenomena for governance guidance or predicting earthly events. Tracks the five planets (五星) against 28 constellations (二十八宿) and applies the response framework: 日变脩德, 月变省刑, 星变结和."
 ---
 
 # Astronomical Observation Method (天官观测法)
@@ -58,3 +58,8 @@ Celestial observations provide guidance for earthly governance. Changes in the h
 - Document all observations systematically
 - Compare with historical records
 - Correlate with earthly events
+
+## Validation
+1. Confirm all five planets (岁星, 荧惑, 填星, 太白, 辰星) are being tracked against the 28 constellations with color, brightness, and movement noted
+2. Verify anomalies (赢, 缩, 犯, 守) are identified and interpreted correctly against the good/bad omen framework
+3. Check that observations are documented systematically and correlated with both historical records and current earthly events

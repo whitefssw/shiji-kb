@@ -1,6 +1,6 @@
 ---
 name: military-justice-deliberation-process
-description: Used when a commander must decide how to handle a subordinate who lost their army but survived and returned.
+description: "Use when deciding the fate of a defeated general who returns after losing their forces. Convenes advisors, weighs strict versus lenient views, and defers to higher authority rather than unilateral execution."
 ---
 
 # Military Justice Deliberation Process
@@ -37,3 +37,8 @@ A structured decision-making procedure for handling defeated generals who return
 
 ## Expected Outcome
 The sovereign makes the final decision, preserving chain of command while allowing for mercy or justice as appropriate.
+
+## Verification
+- Confirm both strict and lenient arguments were formally heard before reaching a recommendation
+- Validate that the circumstances of defeat (odds faced, valor shown, loyalty in returning) were thoroughly investigated
+- Check that the case was properly escalated to higher authority rather than resolved by field execution

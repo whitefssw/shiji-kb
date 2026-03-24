@@ -1,6 +1,6 @@
 ---
 name: assessing-reward-justification
-description: Evaluate whether accepting rewards is appropriate based on actual contribution
+description: "Use when deciding whether to accept honors or rewards. Analyzes the true basis of your position—merit vs. relationship—and evaluates whether accepting creates contradictions that undermine legitimacy."
 ---
 
 # Assessing Reward Justification
@@ -27,3 +27,8 @@ Those who propose rewards may:
 
 ## Expected Outcome
 Maintaining consistency, avoiding obligations, preserving long-term legitimacy
+
+## Verification
+1. Confirm that the basis of your position (merit vs. relationship) has been honestly identified before evaluating the reward.
+2. Check whether accepting creates a logical contradiction between how you gained your position and the reward's stated justification.
+3. Validate that intermediary motives have been assessed for hidden leverage or self-serving agendas.

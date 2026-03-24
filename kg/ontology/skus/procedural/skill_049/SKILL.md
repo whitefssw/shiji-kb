@@ -1,6 +1,6 @@
 ---
 name: chronological-table-construction
-description: Use when organizing historical events into systematic chronological tables for clarity and analysis
+description: "Use when building chronological tables (世表, 年表, 月表) to organize historical events across dynasties. Synchronizes multiple polities, marks gaps, and adds commentary on patterns of rise and fall (兴坏之端)."
 ---
 
 ## Overview
@@ -25,3 +25,8 @@ A method for creating structured chronological tables (世表, 年表) to organi
 - Clear visual representation of historical sequences
 - Easy comparison across different states/regions
 - Identification of patterns in political transitions
+
+## Validation
+1. Confirm the table type matches the period's source reliability — 世表 for pre-dating periods, 年表 for reliably dated periods, 月表 for transitions
+2. Verify that events across multiple polities are properly synchronized in parallel columns with gaps explicitly marked
+3. Check that analytical commentary on patterns of rise and fall (兴坏之端) is included alongside the chronological data

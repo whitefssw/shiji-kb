@@ -1,6 +1,6 @@
 ---
 name: succession-order-protocol
-description: Use when determining proper succession order and avoiding political instability from improper succession
+description: "Use when determining proper succession order or preventing political instability from improper succession. Applies Fan Zhongshan's counsel to King Xuan: eldest-first principle, chain of consequences from violation, and the teaching effect on subjects."
 ---
 
 # Succession Order Protocol
@@ -41,3 +41,8 @@ Succession must follow proper order to maintain legitimacy and prevent rebellion
 - Maintained legitimacy of succession
 - Clear expectations for all parties
 - Reduced risk of rebellion and instability
+
+## Validation
+1. Confirm the eldest son is established as heir following proper order — no younger son is favored regardless of personal preference
+2. Verify the chain of consequences is understood: violating order weakens commands, weakened commands undermine governance, failed governance causes abandonment
+3. Check the teaching effect — the ruler's succession decision sets a precedent that other states and subjects will follow, so it must model proper order

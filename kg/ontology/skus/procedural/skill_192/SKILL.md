@@ -1,6 +1,6 @@
 ---
 name: rapid-military-advance-strategy
-description: Use when commanding infantry-heavy forces against an enemy with superior cavalry on flat terrain.
+description: "Use when commanding infantry-heavy forces against cavalry on flat terrain. Prioritizes speed over siege warfare, bypasses fortified cities, and seizes strategic objectives (armories like Luoyang武库, granaries like Ao) to neutralize cavalry advantages."
 ---
 
 # Rapid Military Advance Strategy
@@ -40,3 +40,8 @@ A strategic approach for infantry-based armies to overcome cavalry advantages by
 - Control of strategic resources
 - Territorial advantage compensating for tactical disadvantages
 - Political leverage over other regional powers
+
+## Verification
+1. Confirm that key strategic objectives (armories, granaries, mountain passes) have been identified and prioritized before the advance begins.
+2. Validate that the advance maintains speed without bogging down in unnecessary siege operations against resisting cities.
+3. Ensure geographic barriers (passes, river crossings) are occupied to neutralize the enemy's cavalry advantage on flat terrain.

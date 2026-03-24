@@ -1,6 +1,6 @@
 ---
 name: high-stakes-negotiation-tactics
-description: Force a decision in stalled negotiations through controlled confrontation
+description: "Use when breaking deadlocks in stalled negotiations or forcing immediate commitment from a dismissive counterparty. Employs physical proximity to neutralize power imbalance, reframes the deal as serving their interests, invokes historical precedent, and demands on-the-spot formalization (blood oath)."
 ---
 
 # High-Stakes Negotiation Tactics
@@ -29,3 +29,8 @@ A procedure for breaking negotiation deadlocks when time is critical and the opp
 
 ## Expected Outcome
 Immediate decision, formalized agreement, successful conclusion of stalled negotiations
+
+## Validation
+1. Confirm the reframing genuinely shows mutual benefit — if the deal only serves your side, the counterparty will resent the coercion and may renege later
+2. Verify the formalization was completed on the spot (blood oath, signing, exchange) before the counterparty has time to reconsider — delay defeats the purpose
+3. Assess whether shame and honor motivators were calibrated correctly — too much shame creates enemies; too little fails to motivate action

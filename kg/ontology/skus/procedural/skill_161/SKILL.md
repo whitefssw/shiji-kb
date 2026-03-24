@@ -1,6 +1,6 @@
 ---
 name: evaluating-peace-negotiations
-description: Assess whether peace negotiations will succeed based on adversary's incentives
+description: "Use when assessing whether to enter peace talks or risk signaling weakness. Evaluates adversary incentives, ally perceptions, and negotiation leverage to determine if peace overtures will succeed or backfire."
 ---
 
 # Evaluating Peace Negotiations
@@ -30,3 +30,8 @@ Instead of direct negotiation:
 
 ## Expected Outcome
 Avoiding failed negotiations that isolate you and strengthen the adversary
+
+## Verification
+1. Confirm that the adversary's incentives have been assessed from multiple angles (military, political, reputational) before recommending a course of action.
+2. Validate that ally reactions to potential negotiations have been explicitly considered and documented.
+3. Ensure the alternative approach (coalition-building) has been evaluated as a viable fallback before ruling out direct negotiation.

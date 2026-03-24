@@ -1,6 +1,6 @@
 ---
 name: judicial-investigation-procedure
-description: Classical Chinese legal investigation methods for examining cases, gathering evidence, and determining appropriate punishment.
+description: "Use when conducting legal investigations following classical Chinese judicial principles. Covers official accountability (失刑则刑), evidence gathering, case processing for treason/property/misconduct, and proportional punishment without sparing the powerful (不避贵戚)."
 ---
 
 # Judicial Investigation Procedure
@@ -59,3 +59,8 @@ Traditional Chinese legal investigation framework emphasizing thorough examinati
 - Deterrence of crime
 - Rehabilitation where possible
 - Justice seen to be done
+
+## Verification
+- Confirm the investigating official has accepted personal accountability for potential errors (失刑则刑, 失死则死)
+- Validate that evidence was gathered from multiple witnesses with cross-referenced testimonies
+- Check that punishment is proportional to the offense and applied impartially regardless of the accused's social status (不避贵戚)

@@ -1,6 +1,6 @@
 ---
 name: strategic-retreat-assessment
-description: Framework for deciding when to retreat, surrender, or fight in hopeless situations
+description: "Use when facing overwhelming opposition and deciding between fighting, retreating, or surrendering. Provides a decision matrix based on force balance, time pressure, and strategic value, with implementation steps for each option."
 ---
 
 # Strategic Retreat Assessment Framework
@@ -75,3 +75,8 @@ Decision-making framework for leaders facing overwhelming opposition. Demonstrat
 - Survival of core leadership
 - Preservation of options for future action
 - Avoidance of total destruction
+
+## Verification
+1. Confirm that force balance, resource availability, and strategic value assessments have been completed using the decision matrix before choosing a course of action.
+2. Validate that the chosen option (fight, retreat, or negotiate) has a corresponding backup plan in case of failure.
+3. Ensure core leadership and essential resources are preserved regardless of which option is selected.

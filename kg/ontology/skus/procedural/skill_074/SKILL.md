@@ -1,6 +1,6 @@
 ---
 name: strategic-decision-under-ill-omens
-description: Use when facing unfavorable divination results or bad omens before a planned action.
+description: "Use when strategic factors favor action but divination or omens suggest failure. Applies Taigong's counsel at the Battle of Muye: assess enemy vulnerability and cause justice independently of superstitious signs to avoid paralysis."
 ---
 
 # Strategic Decision Under Ill Omens
@@ -43,3 +43,8 @@ Before the Battle of Muye, King Wu's divination showed ill omens and a violent s
 - Victory when strategic factors are favorable
 - Avoiding paralysis from superstition
 - Building reputation for decisive leadership
+
+## Validation
+1. Confirm the strategic assessment was conducted independently of the divination: enemy vulnerability, cause justice, and preparation are all evaluated on their own merits
+2. Verify that the decision to proceed was backed by a strong advisor's advocacy, not made recklessly by the leader alone
+3. Check that execution was fully committed — no half-measures or hedging that would undermine the campaign once the decision was made

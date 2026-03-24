@@ -1,6 +1,6 @@
 ---
 name: three-division-tuning-method
-description: Use when calculating musical note frequencies and pipe lengths for the five-tone scale in traditional Chinese music theory.
+description: "Use when calculating pentatonic scale pipe lengths or tuning traditional Chinese instruments. Applies the three-division method (三分损益法) to derive 宫商角徵羽 from base unit 81 using alternating 2/3 and 4/3 ratios."
 ---
 
 # Three Division Tuning Method (三分损益法)
@@ -48,3 +48,8 @@ The method uses alternating division by 3 to generate successive notes, creating
 - "下生" (descending generation): multiply by 2/3
 - "上生" (ascending generation): multiply by 4/3
 - Alternating creates the pentatonic scale
+
+## Validation
+1. Confirm the final scale lengths match: 宫=81, 商=72, 角=64, 徵=54, 羽=48
+2. Verify each calculation alternates correctly between 下生 (×2/3) and 上生 (×4/3) operations
+3. Check that the mathematical relationships in the summary table are consistent with the step-by-step calculations

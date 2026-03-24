@@ -1,6 +1,6 @@
 ---
 name: intermediary-rescue-mission
-description: Use when needing to rescue someone from legal trouble through indirect influence.
+description: "Use when rescuing someone from legal trouble through trusted intermediaries. Based on Tao Zhu Gong's attempt to save his son via Zhuang Sheng: provide resources without strings, give clear instructions, leave immediately, trust the intermediary's method, and never interfere mid-process."
 ---
 
 # Intermediary Rescue Mission
@@ -27,3 +27,8 @@ The eldest son's mistake: He delivered the gold but stayed, watched events, and 
 ## Expected Outcomes
 - When executed correctly: Successful rescue through indirect influence
 - When interfered with: Rescue fails, resources wasted, tragedy results
+
+## Verification
+1. Confirm that the intermediary was selected for both influence and integrity, not just proximity or convenience.
+2. Validate that the person delivering resources departed immediately after delivery without lingering to observe or interfere.
+3. Check whether the right person was chosen for the mission: someone who does not value money (younger son) rather than someone who experienced hardship and cannot bear to part with wealth (elder son).

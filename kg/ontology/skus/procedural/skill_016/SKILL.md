@@ -1,6 +1,6 @@
 ---
 name: royal-remonstrance-method
-description: Techniques for ministers to advise and correct rulers' behavior
+description: "Use when advising a ruler or selecting a remonstrance strategy. Offers four methods from metaphorical instruction (伊尹) to strategic withdrawal (箕子), with assessment criteria for ruler receptiveness and warning signs of a failed state."
 ---
 
 # Royal Remonstrance Method (谏君之道)
@@ -69,3 +69,8 @@ Techniques for ministers to advise and correct rulers, drawn from historical exa
 - Ruler corrects behavior (if receptive)
 - Minister preserves integrity (if ruler unreceptive)
 - Historical record of loyalty established
+
+## Validation
+- Verify that the ruler's receptiveness was assessed before selecting a remonstrance method
+- Confirm that the chosen technique matches the ruler's disposition (direct appeal for receptive rulers, indirect methods for resistant ones)
+- Check for warning signs of a failed state (rejected counsel, punished ministers, invented cruel punishments) to determine if withdrawal is necessary

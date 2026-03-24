@@ -1,6 +1,6 @@
 ---
 name: four-examinations-diagnostic-method
-description: Traditional Chinese medical diagnostic procedure using four examination methods
+description: "Use when performing a comprehensive Traditional Chinese Medicine diagnosis. Applies the 四诊 framework (望诊 observation, 闻诊 listening/smelling, 问诊 inquiry, 切诊 pulse) to achieve pattern differentiation (辨证) and treatment planning."
 ---
 
 # Four Examinations Diagnostic Method (四诊)
@@ -76,3 +76,8 @@ The fundamental diagnostic framework in Traditional Chinese Medicine, referenced
 - Comprehensive understanding of patient's condition
 - Pattern differentiation (辨证)
 - Foundation for treatment planning
+
+## Verification
+1. Confirm that all four examinations (望, 闻, 问, 切) have been completed before formulating a diagnosis.
+2. Validate that findings across multiple examinations are correlated and consistent with the identified organ systems.
+3. Ensure the final diagnosis includes both the pattern differentiation (辨证) and a clear treatment principle derived from integrated findings.

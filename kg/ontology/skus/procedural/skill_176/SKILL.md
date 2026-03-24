@@ -1,6 +1,6 @@
 ---
 name: military-deception-feigned-weakness
-description: Use when facing a superior mobile enemy force, particularly nomadic cavalry.
+description: "Use when facing a superior mobile enemy force, especially nomadic cavalry like the Xiongnu. Builds long-term deception through feigned cowardice, resource stockpiling, and a devastating ambush when the enemy grows overconfident."
 ---
 
 # Military Deception Through Feigned Weakness
@@ -27,3 +27,8 @@ Li Mu defended against the Xiongnu by refusing to fight for years, then annihila
 - Enemy forces destroyed in detail
 - Long-term security established
 - Reputation transformed from coward to victor
+
+## Verification
+1. Confirm that resource stockpiling (supplies, fortifications, trained troops) has been completed during the deception period.
+2. Validate that enemy overconfidence is evident through observable behavior (lax formations, reduced scouting) before springing the trap.
+3. Ensure elite forces are positioned for coordinated multi-point ambush before the bait engagement begins.

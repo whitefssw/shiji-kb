@@ -1,6 +1,6 @@
 ---
 name: persuasion-through-interest-alignment
-description: Diplomatic persuasion technique that aligns your proposal with the target's self-interest
+description: "Use when persuading officials or leaders by aligning your proposal with their self-interest. Demonstrated by Kuai Tong and Li Yiji, this technique researches the target's fears, frames problems objectively, and presents solutions that benefit the listener."
 ---
 
 # Persuasion Through Interest Alignment
@@ -61,3 +61,8 @@ A diplomatic technique demonstrated by Kuai Tong, Li Yiji, and other strategists
 - Target sees proposal as serving their interests
 - Resistance decreases
 - Action becomes more likely
+
+## Verification
+1. Confirm that the target's current situation, fears, and desires have been thoroughly researched before the approach.
+2. Validate that the proposal is framed around benefits to the target, not the persuader, in all communications.
+3. Ensure specific, easy first steps have been provided to reduce the target's perceived risk of action.

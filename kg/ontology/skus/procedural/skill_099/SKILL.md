@@ -1,6 +1,6 @@
 ---
 name: crisis-response-rebellion
-description: Use when responding to internal rebellion or coup attempt against legitimate authority.
+description: "Use when responding to internal rebellion, coup attempts, or revolts against legitimate authority. Covers initial assessment of rebel forces and loyalist strength, response options (negotiation, military action, external intervention), and post-rebellion protocols for punishment, pardon, and institutional reform."
 ---
 
 # Crisis Response to Internal Rebellion
@@ -56,3 +56,8 @@ When facing internal revolt, quick assessment and decisive action are essential.
 
 ## Expected Outcome
 Restoration of authority with minimal damage and reduced risk of future rebellion.
+
+## Verification
+1. Confirm that rebel leadership, forces, and stated grievances have been accurately assessed before choosing a response option.
+2. Validate that post-rebellion actions include both punishment of ringleaders and genuine reform of the underlying grievances.
+3. Check for warning signs of renewed instability: multiple rebel factions, foreign support for rebels, or key military units still wavering in loyalty.

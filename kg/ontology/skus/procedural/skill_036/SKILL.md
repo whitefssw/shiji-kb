@@ -1,6 +1,6 @@
 ---
 name: governance-transition-framework
-description: Use when transitioning from conquest/expansion phase to stabilization and governance phase
+description: "Use when transitioning from conquest to stabilization or diagnosing dynastic failure. Applies the principle that 取与守不同术也 (taking and keeping power require different methods), shifting from military force (诈力) to benevolence and adaptability (顺权)."
 ---
 
 ## Overview
@@ -28,3 +28,8 @@ Continuing conquest-phase methods during stabilization leads to collapse. The fa
 1. Assess current phase (conquest vs. stabilization)
 2. Adjust policies accordingly
 3. Transition leadership approach when territory is secured
+
+## Validation
+- Verify that the current governance phase (conquest vs. stabilization) has been correctly assessed before selecting methods
+- Confirm that conquest-phase tactics (诈力) are not being applied during the stabilization phase
+- Check that the transition to benevolence and adaptability (顺权) is reflected in concrete policy changes addressing popular support

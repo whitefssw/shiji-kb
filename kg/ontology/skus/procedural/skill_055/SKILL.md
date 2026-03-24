@@ -1,6 +1,6 @@
 ---
 name: ritual-governance-framework
-description: Use when establishing social order and governance systems through ritual principles and moral cultivation.
+description: "Use when establishing social order through ritual principles (礼治) or regulating desires to prevent chaos. Implements the three-step framework: cultivate the self, establish distinctions (贵贱有等), and balance restraint with satisfaction."
 ---
 
 # Ritual Governance Framework (礼治框架)
@@ -51,3 +51,8 @@ This framework outlines how to establish and maintain social order through ritua
 - Social harmony
 - Clear hierarchy
 - Sustainable order
+
+## Validation
+1. Confirm that the five areas of cultivation (口, 鼻, 耳, 目, 体) are addressed with appropriate provisions
+2. Verify that social distinctions (贵贱有等, 长少有差, 贫富轻重皆有称) are clearly established and understood
+3. Check that restraint and satisfaction are balanced — desires and resources grow together (欲不穷於物, 物不屈於欲)

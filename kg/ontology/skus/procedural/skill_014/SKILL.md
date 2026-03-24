@@ -1,6 +1,6 @@
 ---
 name: five-punishments-judicial-procedure
-description: Legal framework for determining appropriate punishments based on evidence verification
+description: "Use when adjudicating criminal cases or determining punishments under the five-tier system. Applies graduated verification from 五刑 to 五罚 to 五过, with doubt-based amnesty protocols and fine schedules for 3,000 categorized crimes."
 ---
 
 # Five Punishments Judicial Procedure (五刑程序)
@@ -66,3 +66,8 @@ When doubt exists in judgment:
 - Fair adjudication with graduated response
 - Reduced wrongful convictions
 - Clear standards for judicial officials
+
+## Validation
+- Verify that both parties (两造具备) were present and all five types of testimony were heard before judgment
+- Confirm that the graduated process (五刑 to 五罚 to 五过) was followed and doubt triggered amnesty rather than punishment
+- Check that fine rates match the schedule (100率 for 黥辟 through 1000率 for 大辟) when fines replace corporal punishment

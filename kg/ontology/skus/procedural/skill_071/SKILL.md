@@ -1,6 +1,6 @@
 ---
 name: personnel-evaluation-by-humanity
-description: Use when evaluating trustworthiness of subordinates or potential appointees for key positions.
+description: "Use when vetting subordinates or appointees for trustworthiness. Applies Guan Zhong's humanity test (非人情) to identify dangerous individuals who violate natural bonds — parental, family, and self-preservation — to gain power."
 ---
 
 # Personnel Evaluation by Humanity Test
@@ -41,3 +41,8 @@ People who violate fundamental human bonds to please superiors cannot be trusted
 - Identification of potentially treacherous individuals before they gain power
 - Protection of the state from those who lack natural human bonds
 - More reliable leadership team
+
+## Validation
+1. Confirm each candidate is evaluated against all three tests: parental bond (Yi Ya model), family loyalty (Kai Fang model), and self-preservation (Shu Diao model)
+2. Verify that anyone flagged as 非人情 is excluded from positions of power regardless of their apparent usefulness
+3. Check that candidates who pass all three tests proceed to further evaluation rather than being automatically trusted

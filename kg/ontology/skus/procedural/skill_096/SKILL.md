@@ -1,6 +1,6 @@
 ---
 name: succession-crisis-resolution
-description: Use when determining rightful heir during disputed succession or when designated heir is absent.
+description: "Use when resolving disputed succession with multiple claimants or absent heirs. Provides priority ordering (太子, eldest legitimate son, talented son, brother), a resolution process with ministerial council, external power assessment, and rival neutralization protocols."
 ---
 
 # Succession Crisis Resolution
@@ -46,3 +46,8 @@ When succession is unclear or disputed, follow this process to establish legitim
 
 ## Expected Outcome
 Clear succession with minimal bloodshed and stable transition of power.
+
+## Verification
+1. Confirm that the priority order of succession (designated heir, eldest legitimate son, talented son, brother) was followed or that deviations are justified.
+2. Validate that key ministers and allied external powers were consulted before the public announcement.
+3. Check for instability warning signs: multiple candidates with equal support, foreign-backed rival claimants, or divided military loyalty.

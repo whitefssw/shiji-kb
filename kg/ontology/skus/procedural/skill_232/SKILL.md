@@ -1,6 +1,6 @@
 ---
 name: persuasion-through-fictional-dialogue
-description: Use when needing to present complex arguments or criticism indirectly, especially when addressing sensitive topics to powerful audiences.
+description: "Use when presenting criticism indirectly to powerful audiences. Creates fictional characters (like Zixu 子虚, Wuyou 乌有先生) representing competing viewpoints, then resolves through an authoritative voice delivering moral instruction."
 ---
 
 # Persuasion Through Fictional Dialogue Technique
@@ -53,3 +53,8 @@ A literary technique using invented characters in conversation to present multip
 - Audience receives criticism without feeling attacked
 - Complex ideas made accessible through narrative
 - Memorable and engaging presentation of arguments
+
+## Verification
+- Confirm each fictional character clearly embodies a distinct viewpoint relevant to the target argument
+- Validate that the resolving voice transcends earlier biases and presents the intended conclusion naturally
+- Check that the audience receives the moral instruction without feeling personally attacked or criticized

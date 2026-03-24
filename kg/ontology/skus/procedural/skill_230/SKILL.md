@@ -1,6 +1,6 @@
 ---
 name: multi-route-military-convergence
-description: Use when planning military campaigns against distant targets requiring coordinated attacks from multiple directions.
+description: "Use when planning multi-column campaigns against distant targets like the Nanyue conquest. Maps multiple approach routes, assigns forces by type (regular, conscript, naval), sets convergence points, and accepts partial column failure."
 ---
 
 # Multi-Route Military Convergence Strategy
@@ -51,3 +51,8 @@ A campaign strategy using multiple armies advancing along different routes to co
 - Enemy forces dispersed across multiple fronts
 - Flexible response to unexpected obstacles
 - At least partial forces arrive at target
+
+## Verification
+- Confirm all viable approach routes have been mapped with terrain, supply, and seasonal factors assessed
+- Validate that each column has appropriate troop types assigned and a designated commander
+- Check that convergence timing accounts for different route difficulties and includes flexible windows for delayed columns

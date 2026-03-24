@@ -1,6 +1,6 @@
 ---
 name: military-discipline-establishment
-description: When taking command of new troops, establish authority through strict enforcement regardless of rank
+description: "Use when taking command of new troops or establishing organizational authority. Follows Sima Rangju and Sun Wu's methods — enforcing punctuality penalties against high-ranking offenders, asserting 将在军君令有所不受, and demonstrating that rules apply equally regardless of status."
 ---
 
 # Military Discipline Establishment (from Sima Rangju and Sun Wu)
@@ -43,3 +43,8 @@ Methods for establishing military authority through strict, impartial enforcemen
 
 ## Expected Outcome
 An army that follows orders precisely and views the commander with awe.
+
+## Validation
+1. Verify that the first enforcement action targeted a high-profile offender — punishing only low-ranking individuals fails to establish credible authority
+2. Confirm that instructions were genuinely clear before applying penalties — the principle "instructions unclear, general's fault; instructions clear, soldiers' fault" must be honestly assessed
+3. Test compliance through subsequent orders: if troops execute commands silently and precisely, authority is established; if laughter or hesitation persists, repeat enforcement

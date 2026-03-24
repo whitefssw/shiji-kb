@@ -1,6 +1,6 @@
 ---
 name: strategic-decision-famine-aid
-description: When deciding whether to provide aid to a rival state during crisis, balancing humanitarian and strategic interests
+description: "Use when deciding whether to provide famine aid to a rival state. Balances humanitarian and strategic interests by consulting multiple advisors, weighing long-term diplomatic reputation against short-term military opportunity. Based on Qin's aid to Jin."
 ---
 
 # Strategic Decision-Making for Famine Aid
@@ -43,3 +43,8 @@ A framework for deciding whether to provide grain aid to rival states during fam
 - Enhanced diplomatic reputation
 - Potential future reciprocal aid or goodwill
 - Avoided moral condemnation
+
+## Validation
+- Verify that multiple advisors with both hardline and humanitarian perspectives were consulted before the decision
+- Confirm that the distinction between the rival ruler's faults and the common people's innocence was considered
+- Check that a continuous supply line (boats and carts) was established for aid delivery if the decision was to provide assistance

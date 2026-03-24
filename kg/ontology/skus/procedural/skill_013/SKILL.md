@@ -1,6 +1,6 @@
 ---
 name: five-zone-tribute-system
-description: Administrative framework for managing relations with regions based on distance from capital
+description: "Use when managing tribute obligations or enforcing compliance across distance-based zones. Structures five concentric zones (五服制度) from daily offerings to lifetime homage, with escalation protocols for non-compliance."
 ---
 
 # Five-Zone Tribute System (五服制度)
@@ -58,3 +58,8 @@ If cultivation fails, then apply:
 - Near regions remain obedient
 - Distant regions remain submissive
 - Minimal military intervention required
+
+## Validation
+- Verify that each zone's tribute frequency matches its distance tier (daily for 甸服, monthly for 侯服, seasonal for 宾服, annual for 要服, lifetime for 荒服)
+- Confirm that the cultivation escalation sequence (脩意 through 脩德) was attempted before punitive measures
+- Check that the appropriate enforcement response matches the zone level (刑罚 for 甸服 through 文告 for 荒服)

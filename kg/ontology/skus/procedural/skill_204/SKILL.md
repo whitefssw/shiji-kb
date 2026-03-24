@@ -1,6 +1,6 @@
 ---
 name: reconciliation-with-former-adversaries
-description: Use when gaining power over those who previously mistreated you, to demonstrate magnanimity and build loyalty
+description: "Use when regaining authority over those who wronged you. Demonstrates magnanimity through measured threats, acceptance of contrition, and strategic forgiveness to convert former enemies into loyal supporters."
 ---
 
 ## Overview
@@ -26,3 +26,8 @@ A method for handling those who wronged you when you were powerless, once you re
 - Reputation for generosity and fairness spreads
 - Former adversaries become loyal supporters
 - Others are encouraged to serve faithfully, knowing mercy is possible
+
+## Verification
+- Confirm the former adversary has shown genuine remorse (not mere performance) before granting forgiveness
+- Validate that the reconciliation is publicly visible enough to build the intended reputation for magnanimity
+- Check that the reconciled party is given meaningful responsibilities to cement their new loyalty

@@ -1,6 +1,6 @@
 ---
 name: commandery-county-administration
-description: Procedure for establishing centralized administrative divisions replacing feudal states.
+description: "Use when replacing feudal states with centralized commandery-county (郡县) administration. Establishes 36 commanderies with three-tier governance (守/尉/监), merit-based appointments, and centralized treasury stipends per Li Si's rationale."
 ---
 
 # Commandery-County Administration System
@@ -37,3 +37,8 @@ As articulated by Li Si: The feudal system led to conflict because:
 - No regional power centers to challenge central authority
 - Uniform administration across all territories
 - Peace and stability through centralized control
+
+## Validation
+- Verify that each commandery has all three administrative positions filled (Governor/守, Commandant/尉, Inspector/监)
+- Confirm that officials are appointed on merit rather than heredity and receive stipends from the imperial treasury
+- Check that regular reporting systems to the central government are operational across all 36 commanderies

@@ -1,6 +1,6 @@
 ---
 name: persuasion-methodology
-description: When attempting to persuade rulers or powerful figures, assess their motivations and tailor approach accordingly
+description: "Use when persuading rulers, executives, or powerful figures who hold your fate. Applies Han Fei's 说难 framework to diagnose hidden motivations, avoid dangerous pitfalls (revealing secrets, pointing out faults), and build trust before speaking boldly."
 ---
 
 # Persuasion Methodology (from Han Fei's "Shuonan")
@@ -39,3 +39,8 @@ A systematic approach to persuading rulers by understanding their hidden motivat
 
 ## Expected Outcome
 Successful persuasion that advances your position while maintaining the ruler's favor.
+
+## Validation
+1. Verify you have correctly identified the listener's true motivation (fame vs. profit vs. secretly-one-publicly-other) before crafting your argument
+2. Confirm your message avoids all five danger zones: revealing secrets, pointing out faults, sharing credit, forcing refusals, and perception traps
+3. Assess whether sufficient trust has been established — if the relationship is still shallow, delay bold counsel regardless of urgency

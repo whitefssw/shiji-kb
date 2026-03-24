@@ -1,6 +1,6 @@
 ---
 name: ancient-leadership-succession-protocol
-description: Use when establishing or evaluating legitimate leadership transition processes in governance or organizational contexts.
+description: "Use when designing leadership succession plans or evaluating power transfer legitimacy. Follows the sage king model (尧舜禹) of merit-based selection through collective recommendation, decades-long testing in office, and formal transfer only after proven 功用既兴."
 ---
 
 # Ancient Leadership Succession Protocol
@@ -34,3 +34,8 @@ A method for legitimate power transfer based on ancient Chinese sage king practi
 - Legitimate, stable leadership transition
 - Reduced risk of unsuitable successors
 - Public confidence in the succession process
+
+## Validation
+1. Confirm the candidate received broad endorsement from ministers and regional officials (岳牧), not just a single faction's support
+2. Verify the testing period produced measurable accomplishments (功用既兴) — not merely symbolic presence in office
+3. Assess whether the transfer acknowledges the gravity of 天下重器 (heavy instruments of state) through proper ceremony and public announcement

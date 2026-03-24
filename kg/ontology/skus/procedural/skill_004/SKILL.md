@@ -1,6 +1,6 @@
 ---
 name: leadership-succession-testing
-description: For evaluating and testing potential successors before leadership transition
+description: "Use when selecting or vetting a successor for leadership. Applies a multi-phase evaluation combining character tests, progressive responsibility assignment, regency trials, and public acceptance before formalizing succession."
 ---
 
 # Leadership Succession Testing
@@ -63,3 +63,8 @@ This procedure ensures capable leadership succession through comprehensive testi
 - Stable leadership transition
 - Public trust in new leader
 - Avoided succession crises
+
+## Validation
+- Confirm the candidate has completed all four progressive responsibility phases before entering the regency period
+- Verify that feedback was gathered from senior advisors, peers, and the public at each evaluation stage
+- Check that the candidate was offered the opportunity to decline, testing humility before formal transition

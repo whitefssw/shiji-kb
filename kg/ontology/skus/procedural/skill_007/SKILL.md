@@ -1,6 +1,6 @@
 ---
 name: nine-provinces-administration
-description: Use when establishing regional administrative divisions with taxation and tribute systems.
+description: "Use when establishing regional administrative divisions or designing taxation and tribute systems. Divides territory into nine provinces (州) with soil classification, graduated tax rates, tribute specifications, and water-route transport planning."
 ---
 
 # Nine Provinces Administrative System
@@ -44,3 +44,8 @@ This procedure divides territory into provinces (州), each with specific soil c
 - Clear administrative boundaries
 - Standardized taxation system
 - Efficient tribute collection and transport
+
+## Validation
+- Verify that each province has a documented soil classification and corresponding tax rate
+- Confirm that tribute items match each province's local products and resources
+- Check that water transportation routes connect each province to the central collection points

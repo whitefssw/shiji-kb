@@ -1,6 +1,6 @@
 ---
 name: historical-pattern-analysis
-description: Use when analyzing cycles of political rise and fall to understand governance principles
+description: "Use when analyzing dynastic cycles, predicting political decline, or extracting governance lessons from history. Traces patterns of rise and fall (兴坏之端) across origins, development, turning points, and collapse."
 ---
 
 ## Overview
@@ -43,3 +43,8 @@ A methodology for extracting lessons from historical patterns of dynastic rise a
 - Understanding of why states succeed or fail
 - Guidance for current governance decisions
 - Framework for evaluating political situations
+
+## Validation
+1. Confirm each case has been analyzed through all four phases: origin, development, turning points, and conclusion
+2. Verify that extracted principles are tested against multiple historical cases — repeated patterns are established as general principles, contradictions are investigated
+3. Check that the analysis functions as a mirror for present governance (居今之世，志古之道，所以自镜也) with actionable insights

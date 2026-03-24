@@ -1,6 +1,6 @@
 ---
 name: frugal-leadership-conduct
-description: Use when establishing credibility and moral authority as a high-ranking official, especially when facing accusations of corruption or excess.
+description: "Use when building moral authority through personal austerity as a high official. Covers wearing simple cloth (布被), eating unpolished rice (脱粟之饭), distributing wealth to retainers, and gracefully handling accusations of false modesty."
 ---
 
 # Frugal Leadership Conduct Standards
@@ -53,3 +53,8 @@ When accused of performing austerity for reputation:
 - Enhanced moral standing
 - Protection against corruption allegations
 - Lasting reputation for virtue
+
+## Verification
+- Confirm austerity practices are maintained consistently in both public and private settings
+- Validate that wealth distribution to retainers and guests is documented and perceived as genuine
+- Check that responses to accusations of false modesty acknowledge the criticism gracefully without becoming defensive

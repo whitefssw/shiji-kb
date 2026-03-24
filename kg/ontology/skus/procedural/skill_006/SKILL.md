@@ -1,6 +1,6 @@
 ---
 name: flood-control-water-management
-description: Use when managing large-scale water control projects, river dredging, and land drainage systems.
+description: "Use when managing large-scale water control projects, river dredging, or land drainage. Follows Yu the Great's methodology for surveying terrain, selecting transportation, developing waterways, reclaiming flooded land, and coordinating regional labor."
 ---
 
 # Flood Control and Water Management
@@ -46,3 +46,8 @@ This procedure outlines methods for controlling floods, managing waterways, and 
 - Established transportation networks
 - Agricultural productivity restored
 - Regional coordination achieved
+
+## Validation
+- Confirm that terrain surveys using 准绳 and 规矩 were completed before waterway development began
+- Verify that reclaimed land has been assigned crops appropriate to its soil conditions
+- Check that food distribution between surplus and deficit regions is balanced and supply lines are operational

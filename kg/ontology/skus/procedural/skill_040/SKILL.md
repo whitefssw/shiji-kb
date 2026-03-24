@@ -1,6 +1,6 @@
 ---
 name: decisive-battle-motivation-strategy
-description: Use when commanding troops in a critical battle where retreat would mean defeat and maximum commitment is required
+description: "Use when commanding troops in a decisive battle requiring total commitment. Applies the 破釜沉舟 (break cauldrons, sink boats) technique to eliminate retreat, limit provisions to 3 days, and force maximum engagement. Based on Xiang Yu at Julu (钜鹿之战)."
 ---
 
 # Decisive Battle Motivation Strategy (破釜沉舟)
@@ -38,3 +38,8 @@ A military leadership technique to eliminate retreat options and maximize troop 
 
 ## Historical Context
 Used by Xiang Yu at the Battle of Julu (钜鹿之战) against Qin forces, resulting in a decisive victory despite being outnumbered.
+
+## Validation
+- Verify that the battle situation was assessed as critical and winnable at full commitment before destroying retreat options
+- Confirm that all retreat means (boats, cooking pots, shelters) were destroyed and provisions limited to exactly 3 days
+- Check that the intent was clearly communicated to all soldiers so they understand there is no option except victory

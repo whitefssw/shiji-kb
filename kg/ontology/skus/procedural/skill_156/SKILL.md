@@ -1,6 +1,6 @@
 ---
 name: talent-retention-through-reputation
-description: Maintain credibility with followers by demonstrating commitment to values over personal preferences
+description: "Use when experiencing talent attrition or when followers perceive hypocrisy between stated values and leader behavior. Diagnoses the root cause through direct inquiry, then requires a visible personal sacrifice to demonstrate that talent is valued above personal pleasures or possessions."
 ---
 
 # Talent Retention Through Reputation Management
@@ -24,3 +24,8 @@ If followers claim you value personal pleasures over talent, you must choose bet
 
 ## Expected Outcome
 Restored reputation, returning followers, strengthened organizational loyalty
+
+## Validation
+1. Track follower departure and return rates before and after the corrective action — if departures continue, the sacrifice was insufficient or the root cause was misdiagnosed
+2. Verify the sacrifice was genuinely visible to the affected parties, not just announced — followers must witness the commitment, not merely hear about it
+3. Confirm the corrective action addresses the specific grievance identified through direct inquiry, not a different issue the leader finds more comfortable to address

@@ -1,6 +1,6 @@
 ---
 name: nine-virtues-leadership-assessment
-description: Use when evaluating leadership qualities and character for official appointments.
+description: "Use when evaluating leadership character or matching candidates to positions of authority. Applies Gao Yao's nine complementary virtues (九德) framework to assess balance, consistency, and suitability for household, state, or imperial governance roles."
 ---
 
 # Nine Virtues (九德) Leadership Assessment
@@ -56,3 +56,8 @@ Gao Yao's nine virtues provide a balanced approach to assessing leadership poten
 - Officials of proven character
 - Balanced leadership team
 - Just administration
+
+## Validation
+- Verify that each candidate has been assessed against all nine virtues with documented observations
+- Confirm that the number of consistently demonstrated virtues matches the level of position assigned (3 for household, 6 for state, 9 for highest office)
+- Check that no candidate lacking demonstrated virtue consistency (有常) has been appointed to a position of authority

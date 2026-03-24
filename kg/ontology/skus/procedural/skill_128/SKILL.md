@@ -1,6 +1,6 @@
 ---
 name: counterintelligence-and-strategic-deception
-description: Use when needing to sow discord between enemy leaders and their key advisors
+description: "Use when sowing discord between enemy commanders and their trusted advisors or conducting disinformation campaigns. Deploys substantial resources to spread defection rumors, stages differential envoy treatment, and exploits resulting trust breakdowns to degrade enemy decision-making."
 ---
 
 # Counterintelligence and Strategic Deception
@@ -42,3 +42,8 @@ When facing a powerful enemy, victory may be achieved not through direct combat 
 
 ## Warning
 This strategy requires significant resources and careful execution. Poorly executed disinformation can be detected and backfire.
+
+## Validation
+1. Verify that planted rumors have reached enemy decision-makers — look for behavioral changes such as advisor reassignments or reduced counsel access
+2. Confirm that differential envoy treatment was noticed and reported back to the enemy court as intended
+3. Assess whether enemy decision quality has measurably declined (e.g., strategic errors, delayed responses, internal purges)

@@ -1,6 +1,6 @@
 ---
 name: diplomatic-risk-assessment
-description: Use when evaluating whether to enter a potentially dangerous situation or alliance with a more powerful party.
+description: "Use when evaluating whether to enter a powerful party's territory or accept an asymmetric alliance. Applies the earth puppet vs. wooden puppet parable to assess exit options, leverage once inside, and the risk of being trapped with no recourse in a 'tiger and wolf' (虎狼) state."
 ---
 
 # Diplomatic Risk Assessment Using Parable Analysis
@@ -33,3 +33,8 @@ Use analogies and parables to clarify the asymmetric risks in diplomatic or stra
 ## Expected Outcomes
 - Avoid entering situations where you have no leverage
 - Recognize when apparent opportunities are actually traps
+
+## Validation
+1. Apply the puppet test: identify whether you are the earth puppet (rooted, able to return to your base) or the wooden puppet (swept away by circumstances with no destination) in this arrangement
+2. Verify concrete exit options exist beyond the other party's goodwill — if safety depends entirely on their continued benevolence, the risk is unacceptable
+3. Assess the counterparty's history: a track record of predatory behavior (虎狼之心) overrides any verbal guarantees of safe passage

@@ -1,6 +1,6 @@
 ---
 name: diplomatic-pressure-with-respect
-description: Use when conducting diplomatic missions to bring autonomous or rebellious rulers back into submission without military force.
+description: "Use when bringing rebellious rulers back into submission without military force. Honors ancestral graves, selects envoys with prior relationships, provides face-saving language, and removes symbols of independent sovereignty."
 ---
 
 # Diplomatic Pressure with Respect Strategy
@@ -52,3 +52,8 @@ A diplomatic approach combining displays of imperial power with gestures of resp
 - Relationship restored with minimal cost
 - Future compliance more likely due to preserved dignity
 - Model for other potential defectors
+
+## Verification
+- Confirm the ruler's ancestral graves and family members have been honored before diplomatic pressure is applied
+- Validate that face-saving language allows the ruler to submit without public humiliation
+- Check that symbols of independent sovereignty (imperial titles, yellow canopy) have been formally removed as part of the agreement

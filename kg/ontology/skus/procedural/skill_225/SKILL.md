@@ -1,6 +1,6 @@
 ---
 name: defensive-camp-circle-formation
-description: Used when establishing a defensive position against enemy cavalry in open terrain.
+description: "Use when defending against cavalry in open terrain with no natural cover. Deploys armored wagons (武刚车) in a circular formation to create a mobile fortification, enabling cavalry sorties and counterattack when conditions shift."
 ---
 
 # Defensive Camp Circle Formation
@@ -38,3 +38,8 @@ Procedure for creating a defensive position using armored wagons (武刚车) arr
 
 ## Expected Outcome
 Defensive position neutralizes enemy cavalry advantage, protects forces, and enables counterattack when conditions favor.
+
+## Verification
+- Confirm the wagon circle perimeter is complete with no exploitable gaps for enemy cavalry penetration
+- Validate that infantry, supplies, and cavalry sortie forces are correctly positioned within the formation
+- Check that weather and terrain conditions (dust storms, darkness) are being exploited for wing extension and envelopment timing

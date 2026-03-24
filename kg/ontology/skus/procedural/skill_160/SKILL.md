@@ -1,6 +1,6 @@
 ---
 name: strategic-alliance-formation
-description: Use contested resources to build counter-alliances rather than conceding to aggressors
+description: "Use when responding to territorial demands from a powerful adversary or deciding how to deploy contested resources. Redirects resources that would be conceded to the aggressor toward the aggressor's enemies instead, building counter-alliances that deter future demands and strengthen negotiating position."
 ---
 
 # Strategic Alliance Formation Against Aggression
@@ -29,3 +29,8 @@ A procedure for responding to territorial demands from a powerful adversary by u
 
 ## Expected Outcome
 Deterrence of aggression, strengthened diplomatic position, potential for better peace terms
+
+## Validation
+1. Verify the identified enemy of the aggressor has genuine grievances and military capability — offering resources to a weak or disinterested party wastes the leverage
+2. Confirm the decision matrix has been honestly evaluated: compare short-term and long-term outcomes of concession vs. counter-alliance before committing
+3. Assess whether the counter-alliance threat is credible enough to force the aggressor to seek peace — if the alliance is too weak, it provokes escalation rather than deterrence

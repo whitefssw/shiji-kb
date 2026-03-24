@@ -1,6 +1,6 @@
 ---
 name: distant-friendship-near-attack-strategy
-description: Use when developing a long-term territorial expansion strategy against multiple neighboring states.
+description: "Use when planning systematic territorial expansion across multiple neighboring states. Applies the 远交近攻 doctrine: befriend distant powers, isolate nearby targets, and conquer incrementally for secure, contiguous gains."
 ---
 
 # Distant Friendship, Near Attack Strategy (远交近攻)
@@ -28,3 +28,8 @@ A geopolitical doctrine for systematic territorial expansion that prioritizes co
 - Secure, contiguous territorial expansion
 - Reduced risk of overextension
 - Gradual dominance over the region
+
+## Verification
+1. Confirm that diplomatic relations with distant powers are established before initiating action against nearby targets.
+2. Validate that each conquered territory is consolidated and integrated before advancing to the next.
+3. Ensure that no nearby target can receive external support from distant allies who should have been neutralized diplomatically.

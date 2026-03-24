@@ -1,6 +1,6 @@
 ---
 name: military-reward-evaluation-process
-description: Used when determining appropriate rewards and titles for military achievements.
+description: "Use when evaluating military achievements for reward conferral. Systematically compiles kill counts (斩首), captures (捕虏), and territory gained to determine appropriate titles (侯), fief increases, and punishments for failures."
 ---
 
 # Military Reward Evaluation Process
@@ -46,3 +46,8 @@ Systematic procedure for evaluating military achievements and conferring appropr
 
 ## Expected Outcome
 Clear correlation between achievement and reward, motivating continued military excellence while maintaining accountability for failures.
+
+## Verification
+- Confirm achievement reports include verified counts of enemy killed, captured, and their ranks
+- Validate that reward tiers (exceptional, significant, moderate, none) are applied consistently based on documented criteria
+- Check that failure cases (troop loss, missed rendezvous) have been adjudicated with appropriate sentencing or commutation

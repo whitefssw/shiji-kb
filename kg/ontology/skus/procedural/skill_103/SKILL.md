@@ -1,6 +1,6 @@
 ---
 name: divine-succession-determination
-description: Use when multiple heirs have equal claim and a decision must be made without appearing biased.
+description: "Use when selecting an heir among multiple candidates with equal legitimacy. Employs a ritual involving a hidden jade bi (璧) to determine divine selection while maintaining fairness. Based on King Gong of Chu's method of testing his five sons through concealed ritual objects."
 ---
 
 # Divine Succession Determination Through Ritual
@@ -37,3 +37,8 @@ King Gong of Chu had five favored sons. He buried a jade bi and had them enter. 
 
 ## Expected Outcome
 A succession decision with divine legitimacy that reduces conflict among claimants.
+
+## Verification
+1. Confirm that the ritual space was prepared with the hidden jade bi before candidates were summoned, ensuring no candidate had prior knowledge.
+2. Validate that all candidates underwent the same purification and fasting process before entering the chamber.
+3. Check that the positional interpretation (straddling, elbow resting, bowing on the knot) is consistently applied across all candidates.

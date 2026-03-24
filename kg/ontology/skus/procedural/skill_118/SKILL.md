@@ -1,6 +1,6 @@
 ---
 name: crisis-decision-evaluation
-description: Use when evaluating whether to accept apparent benefits or opportunities that come without clear cause during uncertain times.
+description: "Use when evaluating unexpected benefits or opportunities during crisis or competition. Applies the principle that unearned benefits often carry hidden costs: analyze the source, examine causation chains, assume strategic motivation, and evaluate long-term consequences before accepting or rejecting."
 ---
 
 # Crisis Decision Evaluation: Accepting Unexpected Benefits
@@ -57,3 +57,8 @@ A framework for evaluating whether to accept unexpected benefits or opportunitie
 - Avoidance of strategic traps disguised as opportunities
 - Better understanding of true costs and benefits
 - More sustainable decision-making in competitive environments
+
+## Verification
+1. Confirm that the source's motivation for offering the benefit has been analyzed and the question "what does the provider gain?" has a clear answer.
+2. Validate the decision against the framework table: reject if provider transfers a problem, acceptance provokes a stronger power, or required resources exceed capacity.
+3. Check whether the "free" benefit's hidden costs have been compared against the cost of obtaining a similar benefit through direct effort.

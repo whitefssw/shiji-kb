@@ -1,6 +1,6 @@
 ---
 name: crisis-delegation-to-trusted-aides
-description: Use when facing a crisis that requires coordinated action across multiple domains with limited time
+description: "Use when managing a multi-domain crisis or coordinating emergency response across military, diplomatic, and administrative fronts. Delegates specific responsibilities to trusted subordinates while maintaining strategic oversight."
 ---
 
 # Crisis Delegation to Trusted Aides
@@ -48,3 +48,8 @@ When facing military threats on multiple fronts:
 
 ## Historical Context
 Used by various Han emperors when facing simultaneous threats or complex administrative challenges.
+
+## Validation
+1. Confirm each delegate has clear, non-overlapping responsibilities with defined boundaries of authority
+2. Verify communication protocols are functioning and regular reports are being received from all delegates
+3. Check that the leader retains strategic oversight without being pulled into operational details

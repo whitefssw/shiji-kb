@@ -1,6 +1,6 @@
 ---
 name: music-evaluation-framework
-description: Use when evaluating music and dance performances to assess their moral, political, and cultural significance through systematic observation.
+description: "Use when evaluating music or dance for moral and political significance. Applies Ji Zha's (延陵季子) framework to assess emotional balance (乐而不淫, 哀而不愁), moral qualities, and governance predictions from artistic expression."
 ---
 
 ## Overview
@@ -44,3 +44,8 @@ A framework for evaluating music and dance performances, interpreting their deep
 - Accurate assessment of a state's moral and political condition
 - Prediction of future prosperity or decline
 - Understanding of leadership character through artistic expression
+
+## Validation
+1. Confirm emotional balance criteria are assessed: joy without excess (乐而不淫), sorrow without despair (哀而不愁)
+2. Verify moral qualities are evaluated: straightness without arrogance (直而不倨), breadth without ostentation (广而不宣), giving without waste (施而不费)
+3. Check that political conclusions are drawn — musical qualities are connected to governance predictions about prosperity or decline

@@ -1,6 +1,6 @@
 ---
 name: strategic-military-intervention
-description: Planning and executing unauthorized military action to save an ally when official channels fail
+description: "Use when official channels block necessary military action to save an ally. Plans unauthorized intervention by leveraging debts, securing command assets, and executing swift action despite formal obstacles."
 ---
 
 # Strategic Military Intervention
@@ -29,3 +29,8 @@ When formal authority blocks necessary action, develop an alternative path using
 - Successful intervention despite official obstacles
 - Achievement of strategic objectives
 - Potential personal consequences requiring exile or rehabilitation
+
+## Verification
+1. Confirm that all official channels were genuinely exhausted and documented before pursuing unauthorized action.
+2. Validate that the assets secured (command tokens, military authority) are sufficient for the planned intervention.
+3. Ensure contingency plans for personal consequences (exile, loss of position) have been prepared in advance.

@@ -1,6 +1,6 @@
 ---
 name: court-politics-survival-strategy
-description: Use when navigating dangerous court politics where suspicion from the ruler could lead to execution
+description: "Use when a powerful minister faces suspicion from a ruler or when navigating dangerous court politics. Deploys four survival strategies — hostage-sending, deliberate self-pollution (自汙), graceful punishment acceptance, and honor-declining — to reduce perceived threat level."
 ---
 
 # Court Politics Survival Strategy
@@ -45,3 +45,8 @@ When offered additional titles, land, or guards after another's execution:
 - Ruler's suspicion will decrease
 - You will survive periods of political danger
 - Position will be maintained without provoking elimination
+
+## Validation
+1. Monitor whether the ruler's surveillance frequency (messenger visits, "comfort" inquiries) has decreased after implementing each strategy
+2. Confirm that self-pollution acts are perceived as genuine self-interest by the court, not as transparent manipulation
+3. Verify that declined honors are not being interpreted as disloyalty or ingratitude rather than as demonstrations of modesty

@@ -1,6 +1,6 @@
 ---
 name: earth-collapse-stability-analysis
-description: Use when assessing political stability and distinguishing between popular uprising risks versus elite rebellion threats.
+description: "Use when assessing regime stability by distinguishing 土崩 (popular uprising from mass discontent) versus 瓦解 (elite rebellion with military resources). Prioritizes popular sentiment analysis over elite threat management."
 ---
 
 # Earth-Collapse vs Tile-Breaking Stability Analysis
@@ -52,3 +52,8 @@ Rebellion by powerful elites with military resources.
 
 ## Key Insight
 "天下之患在于土崩，不在于瓦解" (The threat to the realm lies in earth collapse, not in tile breaking)
+
+## Verification
+- Confirm popular sentiment indicators (economic security, government trust, social norms) have been assessed before evaluating elite threats
+- Validate that the primary risk classification (土崩 vs 瓦解) matches the evidence gathered from both popular and elite assessments
+- Check that the recommended response (address popular grievances vs manage elite interests) aligns with the identified risk type

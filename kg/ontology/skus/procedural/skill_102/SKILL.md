@@ -1,6 +1,6 @@
 ---
 name: diplomatic-persuasion-by-analogy
-description: Use to dissuade an ally or adversary from continuing military action after a victory.
+description: "Use when dissuading a victorious leader from overextending through further military action. Employs the 'painting feet on a snake' (画蛇添足) analogy to demonstrate that additional gains risk losing everything already achieved, and frames withdrawal as preserving honor."
 ---
 
 # Diplomatic Persuasion Through Strategic Analogy
@@ -33,3 +33,8 @@ When a victorious general or ruler wants to continue attacking, use an analogy t
 
 ## Expected Outcome
 The target recognizes that continued action is irrational and withdraws while maintaining their position.
+
+## Verification
+1. Confirm that the leader's current achievement has been genuinely acknowledged before introducing the cautionary analogy.
+2. Validate that the analogy clearly maps to the situation: the leader is already at the peak, and further action can only result in loss.
+3. Check that a concrete alternative (withdrawal with honor, preserving gains) has been offered alongside the warning.

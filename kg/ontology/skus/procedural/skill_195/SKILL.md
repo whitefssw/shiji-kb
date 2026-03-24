@@ -1,6 +1,6 @@
 ---
 name: de-escalation-through-symbolic-pardon
-description: Use when a subordinate power has committed transgressions but direct confrontation would be costly.
+description: "Use when a powerful subordinate has shown disloyalty but direct confrontation is too costly. Based on Emperor Wen's handling of Wu Wang, employs symbolic honors, face-saving exits, and indirect acknowledgment of grievances to reduce tensions."
 ---
 
 # De-escalation Through Symbolic Pardon
@@ -46,3 +46,8 @@ A diplomatic approach to reducing tensions with a powerful subordinate who has s
 ## Limitations
 - May only delay rather than resolve underlying conflict
 - Does not address root causes of disloyalty
+
+## Verification
+1. Confirm that the subordinate's underlying grievance has been identified (even if not directly addressed) before choosing the de-escalation approach.
+2. Validate that symbolic honors granted are perceived as genuine respect by the subordinate, not as patronizing gestures.
+3. Monitor whether tensions have actually decreased after the symbolic pardon, and prepare stronger measures if transgressions continue or escalate.

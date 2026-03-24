@@ -1,6 +1,6 @@
 ---
 name: warning-against-appeasement-policy
-description: Use when evaluating whether territorial concessions will achieve peace with an aggressive adversary.
+description: "Use when evaluating territorial concessions or appeasement strategies against aggressive neighbors. Applies the 抱薪救火 (carrying firewood to extinguish fire) framework to expose why each concession emboldens further demands and weakens negotiating position."
 ---
 
 # Warning Against Appeasement Policy
@@ -37,3 +37,8 @@ Using territory to appease an aggressor is like carrying firewood to put out a f
 
 ## Expected Outcome
 Recognition that territorial appeasement is a self-defeating strategy that must be rejected in favor of resistance or alternative approaches.
+
+## Validation
+1. Confirm whether each proposed concession satisfies the aggressor's stated demands or merely delays the next demand cycle
+2. Verify that internal advisors recommending concession do not have personal incentives (以地事秦者 seeking office seals) that conflict with state interests
+3. Test the firewood analogy: map remaining concession-able assets and project when they would be exhausted at current demand rate

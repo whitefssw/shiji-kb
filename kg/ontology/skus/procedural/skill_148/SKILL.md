@@ -1,6 +1,6 @@
 ---
 name: diplomatic-favor-request
-description: Use when asking for help from someone in a position to assist at little cost to themselves.
+description: "Use when requesting assistance from a powerful party at negligible cost to them. Based on Su Dai's (苏代) candlelight metaphor — framing the request as sharing excess that costs nothing ('your candlelight has surplus; share it and lose nothing') to maximize willingness to help."
 ---
 
 # Diplomatic Favor Request
@@ -38,3 +38,8 @@ People are more willing to help when the cost to them is zero or negligible. Fra
 - Assistance granted
 - Relationship maintained
 - No resentment from giver
+
+## Validation
+1. Confirm the requested assistance genuinely costs the giver nothing or negligibly little — if the cost is hidden or underestimated, the relationship will suffer
+2. Verify your framing honestly acknowledges your position of need rather than pretending to equality — transparent humility increases willingness to help
+3. Check that gratitude was expressed and a reciprocity obligation established for the future

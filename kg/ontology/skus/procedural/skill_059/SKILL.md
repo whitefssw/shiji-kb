@@ -1,6 +1,6 @@
 ---
 name: price-stabilization-method
-description: Use when implementing economic policies to stabilize prices and prevent market manipulation by merchants.
+description: "Use when stabilizing commodity prices, preventing merchant manipulation, or implementing the 平准 system. Covers government buy-low/sell-high intervention, 均输 distribution, and salt-iron monopoly policies."
 ---
 
 # Price Stabilization Method (平准法)
@@ -63,3 +63,8 @@ Government intervention to balance supply and demand, preventing merchant manipu
 
 ## Warning
 Balance intervention with market freedom. Over-control can stifle commerce.
+
+## Validation
+1. Confirm the target outcomes are achieved: 富商大贾无所牟大利 and 万物不得腾踊
+2. Verify that the 均输 distribution network is functioning — goods flow from surplus regions to deficit regions efficiently
+3. Check that intervention is balanced — over-control is avoided and commerce is not stifled by excessive government monopolies

@@ -1,6 +1,6 @@
 ---
 name: counter-slander-defense
-description: Understanding and responding to systematic slander campaigns designed to destroy reputation
+description: "Use when facing coordinated disinformation or slander campaigns targeting your reputation. Identifies warning signs of bribery and planted criticism, and outlines defensive measures including transparent communication and alliance-building."
 ---
 
 # Counter-Slander Defense
@@ -31,3 +31,8 @@ Recognize and respond to coordinated disinformation campaigns aimed at destroyin
 - Early detection allows for countermeasures
 - If unsuccessful, graceful withdrawal preserves some reputation
 - Understanding the mechanism helps prevent future vulnerability
+
+## Verification
+1. Confirm that unusual patterns of criticism have been monitored and the source/funding behind campaigns identified.
+2. Validate that transparent communication with leadership is active and documented before the campaign escalates.
+3. Check that independent alliances capable of vouching for your character are in place as a defensive measure.

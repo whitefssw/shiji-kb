@@ -1,6 +1,6 @@
 ---
 name: covert-access-strategy
-description: Use when planning to gain close access to a heavily guarded target through diplomatic channels
+description: "Use when planning to gain close access to a heavily guarded target through diplomatic channels. Based on Jing Ke's approach to the Qin King, covers intelligence gathering, asset acquisition, intermediary cultivation, and access execution."
 ---
 
 # Covert Access Strategy
@@ -67,3 +67,8 @@ Based on Jing Ke's approach to accessing the Qin King, this strategy uses legiti
 - Proximity achieved
 - Security protocols navigated
 - Opportunity created
+
+## Verification
+1. Confirm that offerings are genuine and valuable enough to guarantee an audience (not easily dismissed or questioned).
+2. Validate that intermediary officials have been cultivated and are actively advocating for your approach through formal channels.
+3. Ensure contingency plans exist for each phase (assistant failure, heightened security, direct approach failure) before execution begins.

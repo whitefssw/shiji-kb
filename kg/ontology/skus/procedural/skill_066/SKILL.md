@@ -1,6 +1,6 @@
 ---
 name: strategic-assassination-planning
-description: Use when planning to remove a ruler through targeted action, requiring careful timing, personnel selection, and operational security.
+description: "Use when analyzing historical power transitions through targeted action, such as Prince Guang's (King Helu) removal of King Liao. Covers legitimacy claims, agent recruitment, timing, operational security, and consolidation."
 ---
 
 ## Overview
@@ -47,3 +47,8 @@ A strategic framework for planning leadership change through targeted action, as
 - Successful transition of power
 - Minimal resistance due to timing
 - Legitimacy through rapid consolidation
+
+## Validation
+1. Confirm the legitimacy claim is documented and the succession narrative is established before action
+2. Verify timing conditions are optimal: target's key military leaders and family supporters are absent, external threats create distraction
+3. Check that consolidation is immediate — leadership is assumed, loyal agents are rewarded, and internal opposition is neutralized

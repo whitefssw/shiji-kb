@@ -1,6 +1,6 @@
 ---
 name: strategic-alliance-formation
-description: Use when needing to form alliances against a common enemy by identifying shared interests
+description: "Use when forming military coalitions against a dominant adversary or recruiting allies for multi-front warfare. Analyzes enemy grievances to identify partners like 九江王黥布, 彭越, and 韩信, then coordinates simultaneous pressure to prevent force concentration."
 ---
 
 # Strategic Alliance Formation
@@ -43,3 +43,8 @@ When seeking to defeat 项羽:
 - Cannot concentrate forces against any single threat
 - Alliance partners share the military burden
 - Victory becomes achievable through combined effort
+
+## Validation
+1. Verify each identified ally has genuine grievances and military capability — not just expressed interest but demonstrated readiness to commit forces
+2. Confirm coordination mechanisms are in place so allied attacks occur simultaneously, preventing the enemy from defeating allies one by one
+3. Assess whether proposed spoils-sharing agreements are specific enough to prevent post-victory alliance collapse

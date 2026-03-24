@@ -1,6 +1,6 @@
 ---
 name: imperial-inspection-tour
-description: Procedure for conducting imperial inspection tours to demonstrate authority and inspect territories.
+description: "Use when planning an imperial inspection tour (巡游) to demonstrate authority and inspect territories. Covers route planning, Feng and Shan sacrifices at Mount Tai, stele erection, local scholar consultation, and governance issue resolution."
 ---
 
 # Imperial Inspection Tour Procedure
@@ -44,3 +44,8 @@ Imperial inspection tours (巡游) serve to demonstrate imperial presence, inspe
 - Demonstrated imperial authority across all territories
 - Permanent monuments commemorating achievements
 - Improved local governance through direct inspection
+
+## Validation
+- Verify that the tour route covers sacred mountains, newly conquered territories, and strategic borders
+- Confirm that commemorative steles with inscribed achievements and policies were erected at prominent locations
+- Check that all activities, decisions, amnesties, and local official evaluations are documented in the official record

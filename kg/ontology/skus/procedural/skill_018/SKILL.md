@@ -1,6 +1,6 @@
 ---
 name: crisis-management-protocol
-description: Procedures for managing political crises including natural disasters and rebellion
+description: "Use when responding to political crises, natural disasters, or rebellions. Covers earthquake interpretation, historical pattern recognition, rebellion prevention through free expression (防民之口甚於防水), regency protocols, and power restoration."
 ---
 
 # Crisis Management Protocol (危机应对程序)
@@ -78,3 +78,8 @@ Procedures for managing political crises, drawn from Zhou dynasty examples.
 - Crisis contained without permanent damage
 - Legitimate succession preserved
 - Institutional continuity maintained
+
+## Validation
+- Verify that feedback channels (公卿献诗, 瞽献曲, 史献书, etc.) are established and functioning before crisis escalates
+- Confirm that historical pattern analysis was applied to interpret natural disaster signs and set reform timelines
+- Check that regency protocols include a defined endpoint for returning power to the legitimate ruler when ready

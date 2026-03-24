@@ -1,6 +1,6 @@
 ---
 name: tuien-feudal-weakening-strategy
-description: Use when needing to weaken powerful feudal lords or regional powers without direct military confrontation or overt confiscation.
+description: "Use when weakening powerful feudal lords without military confrontation. Implements the Tui'en (推恩) decree to divide territories among all heirs, progressively fragmenting large fiefs into minor holdings across generations."
 ---
 
 # Tui'en (推恩) Feudal Weakening Strategy
@@ -33,3 +33,8 @@ A political strategy to gradually weaken feudal lords by dividing their territor
 - Large territories systematically divided and weakened
 - Central authority strengthened without military action
 - Prevents coordinated rebellion from powerful regional lords
+
+## Verification
+- Confirm the decree has been framed as imperial benevolence (推恩) rather than punitive confiscation
+- Validate that territory divisions are occurring among all sons, not just the primary heir
+- Check that formerly large territories are measurably smaller after each generational division

@@ -1,6 +1,6 @@
 ---
 name: minister-selection-meritocracy
-description: Use when selecting officials or ministers based on merit rather than personal relationships.
+description: "Use when selecting officials based on capability rather than favoritism or nepotism. Follows Qi Xi's impartial model: recommending personal enemies for their competence and relatives for their merit, with transparent evaluation criteria covering skills, character, and past performance."
 ---
 
 # Minister Selection Through Meritocracy
@@ -52,3 +52,8 @@ Qi Xi recommended his personal enemy Jie Hu for a position, then his own son Qi 
 
 ## Expected Outcome
 Competent officials selected through fair process, earning public trust and effective governance.
+
+## Verification
+1. Confirm that candidates were evaluated on documented merit criteria (skills, experience, character) rather than personal relationships alone.
+2. Validate that both external candidates (including former adversaries) and internal candidates (including relatives) were considered without bias.
+3. Check that the selection reasoning was documented and announced publicly to maintain transparency and trust.

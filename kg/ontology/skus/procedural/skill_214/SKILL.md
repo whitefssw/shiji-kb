@@ -1,6 +1,6 @@
 ---
 name: xiongnu-seasonal-governance-rituals
-description: Annual ceremonial and administrative gatherings for Xiongnu tribal governance and resource assessment.
+description: "Use when analyzing Xiongnu governance cycles. Covers the three annual assemblies (正月 court, 五月 Longcheng worship, autumn Dailin census), daily solar/lunar rituals, and meeting protocols for tribal administration."
 ---
 
 # Xiongnu Seasonal Governance Rituals
@@ -37,3 +37,8 @@ The Xiongnu maintained a structured annual calendar of gatherings for religious 
 - Religious observance maintained
 - Accurate population and livestock records
 - Tribal cohesion through shared ceremonies
+
+## Verification
+- Confirm all three annual gatherings (正月, 五月, autumn) are accounted for with correct locations and purposes
+- Validate that population and livestock census data from the autumn Dailin assembly is complete and current
+- Check that daily rituals (morning sun bow, evening moon bow) and meeting protocols (left seating, 戊己 days) are observed consistently
