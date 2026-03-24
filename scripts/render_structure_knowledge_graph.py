@@ -4,7 +4,26 @@
 """
 
 import json
+import re
 from pathlib import Path
+
+def load_annotated_text(chapter_file):
+    """从原始标注文件中提取带标注的段落文本"""
+    annotated_texts = {}
+
+    with open(chapter_file, 'r', encoding='utf-8') as f:
+        content = f.read()
+
+    # 匹配段落：[编号] 文本内容
+    pattern = r'\[([0-9.]+)\]\s+([^\n\[]+(?:\n(?!\[)[^\n]+)*)'
+    matches = re.findall(pattern, content)
+
+    for anchor, text in matches:
+        # 清理文本，去除多余空白
+        text = text.strip()
+        annotated_texts[anchor] = text
+
+    return annotated_texts
 
 def generate_paragraph_title(para):
     """为段落生成4-6字的标题"""
@@ -45,6 +64,10 @@ def generate_html(json_path, output_path):
 
     paragraphs = data['paragraphs']
     relations = data['relations']
+
+    # 加载原始标注文本
+    chapter_file = Path('/home/baojie/work/shiji-kb/chapter_md/001_五帝本纪.tagged.md')
+    annotated_texts = load_annotated_text(chapter_file)
 
     # 关系类型配置（添加2字简称）
     relation_config = {
@@ -112,7 +135,10 @@ def generate_html(json_path, output_path):
                 'face': 'Arial',
                 'bold': True
             },
-            'para_title': para_title  # 保存标题用于Canvas绘制
+            'para_title': para_title,  # 保存标题用于Canvas绘制
+            'full_text': annotated_texts.get(para['anchor'], para['full_text']),  # 优先使用带标注的文本
+            'section_name': para['section'],  # 章节名
+            'subsection_name': para.get('subsection', '')  # 小节名
         })
 
     # 构建边数据（JSON格式）
@@ -356,6 +382,158 @@ def generate_html(json_path, output_path):
             color: #856404;
         }}
 
+        /* 阅读卡片样式 */
+        .reading-card {{
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%) scale(0);
+            width: 600px;
+            max-width: 90%;
+            max-height: 80%;
+            background: white;
+            border-radius: 12px;
+            box-shadow: 0 10px 40px rgba(0,0,0,0.3);
+            z-index: 10001;
+            opacity: 0;
+            transition: all 0.3s cubic-bezier(0.34, 1.56, 0.64, 1);
+            overflow: hidden;
+            display: flex;
+            flex-direction: column;
+        }}
+
+        .reading-card.show {{
+            transform: translate(-50%, -50%) scale(1);
+            opacity: 1;
+        }}
+
+        .card-header {{
+            background: linear-gradient(135deg, #8B4513 0%, #A0522D 100%);
+            color: white;
+            padding: 20px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            flex-shrink: 0;
+        }}
+
+        .card-anchor {{
+            font-size: 1.5em;
+            font-weight: bold;
+            margin-right: 15px;
+        }}
+
+        .card-title {{
+            flex: 1;
+            font-size: 1.2em;
+            font-weight: bold;
+        }}
+
+        .card-close {{
+            background: none;
+            border: none;
+            color: white;
+            font-size: 2em;
+            cursor: pointer;
+            padding: 0;
+            width: 40px;
+            height: 40px;
+            border-radius: 50%;
+            transition: background 0.2s;
+            line-height: 1;
+        }}
+
+        .card-close:hover {{
+            background: rgba(255,255,255,0.2);
+        }}
+
+        .card-section {{
+            padding: 15px 20px;
+            background: #f9f9f9;
+            border-bottom: 1px solid #ddd;
+            font-size: 0.95em;
+            color: #666;
+            flex-shrink: 0;
+        }}
+
+        .card-content {{
+            padding: 25px;
+            font-size: 1.1em;
+            line-height: 2;
+            overflow-y: auto;
+            flex: 1;
+        }}
+
+        .card-footer {{
+            padding: 15px 20px;
+            background: #f9f9f9;
+            border-top: 1px solid #ddd;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            flex-shrink: 0;
+        }}
+
+        .card-nav-btn {{
+            background: #8B4513;
+            color: white;
+            border: none;
+            padding: 8px 16px;
+            border-radius: 20px;
+            cursor: pointer;
+            font-size: 0.95em;
+            transition: all 0.2s;
+        }}
+
+        .card-nav-btn:hover {{
+            background: #A0522D;
+            transform: scale(1.05);
+        }}
+
+        .card-nav-btn:disabled {{
+            background: #ccc;
+            cursor: not-allowed;
+            opacity: 0.5;
+        }}
+
+        .card-progress {{
+            color: #666;
+            font-size: 0.9em;
+        }}
+
+        /* 标注高亮样式 */
+        .card-content .entity {{
+            background: rgba(255, 215, 0, 0.3);
+            padding: 2px 4px;
+            border-radius: 3px;
+            font-weight: 500;
+        }}
+
+        .card-content .entity-PERSON {{
+            background: rgba(139, 69, 19, 0.15);
+            color: #8B4513;
+        }}
+
+        .card-content .entity-PLACE {{
+            background: rgba(52, 152, 219, 0.15);
+            color: #2980b9;
+        }}
+
+        .card-content .entity-EVENT {{
+            background: rgba(231, 76, 60, 0.15);
+            color: #c0392b;
+        }}
+
+        /* 节点高亮动画 */
+        @keyframes nodeHighlight {{
+            0%, 100% {{ transform: scale(1); }}
+            50% {{ transform: scale(1.3); }}
+        }}
+
+        .node-highlight {{
+            animation: nodeHighlight 0.6s ease-in-out;
+        }}
+
     </style>
 </head>
 <body>
@@ -453,6 +631,8 @@ def generate_html(json_path, output_path):
         <div id="graph"></div>
 
         <div class="controls">
+            <button class="btn" onclick="toggleAutoPlay()" title="自动播放" id="playBtn">▶</button>
+            <button class="btn" onclick="cycleSpeed()" title="播放速度: 1x" id="speedBtn">1×</button>
             <button class="btn" onclick="zoomIn()" title="放大">+</button>
             <button class="btn" onclick="zoomOut()" title="缩小">−</button>
             <button class="btn" onclick="fitToView()" title="适应视图">⊙</button>
@@ -462,6 +642,22 @@ def generate_html(json_path, output_path):
             <button class="btn" onclick="moveRight()" title="向右移动">→</button>
             <button class="btn" onclick="resetLayout()" title="随机布局">⟲</button>
             <button class="btn" onclick="togglePhysics()" title="切换物理引擎">⚡</button>
+        </div>
+
+        <!-- 阅读卡片 -->
+        <div id="readingCard" class="reading-card">
+            <div class="card-header">
+                <span class="card-anchor"></span>
+                <span class="card-title"></span>
+                <button class="card-close" onclick="closeReadingCard()">×</button>
+            </div>
+            <div class="card-section"></div>
+            <div class="card-content"></div>
+            <div class="card-footer">
+                <button class="card-nav-btn" onclick="navigatePrevious()" id="prevBtn">← 上一段</button>
+                <span class="card-progress"></span>
+                <button class="card-nav-btn" onclick="navigateNext()" id="nextBtn">下一段 →</button>
+            </div>
         </div>
     </div>
 
@@ -506,7 +702,15 @@ def generate_html(json_path, output_path):
                         scaleFactor: 0.5
                     }
                 },
-                shadow: true
+                shadow: true,
+                font: {
+                    size: 20,  // 边标签字号
+                    color: '#333',
+                    face: 'Arial',
+                    background: 'rgba(255,255,255,0.8)',  // 白色半透明背景
+                    strokeWidth: 0,
+                    align: 'middle'
+                }
             },
             physics: {
                 enabled: true,
@@ -815,8 +1019,8 @@ def generate_html(json_path, output_path):
             physicsEnabled = !physicsEnabled;
             network.setOptions({ physics: { enabled: physicsEnabled } });
 
-            // 更新按钮图标和提示（第9个按钮）
-            const btn = document.querySelector('.controls button:nth-child(9)');
+            // 更新按钮图标和提示（第11个按钮）
+            const btn = document.querySelector('.controls button:nth-child(11)');
             if (btn) {
                 btn.textContent = physicsEnabled ? '⚡' : '⏸';
                 btn.title = physicsEnabled ? '关闭物理引擎' : '开启物理引擎';
@@ -848,6 +1052,203 @@ def generate_html(json_path, output_path):
             network.once('stabilizationIterationsDone', function() {
                 fitToView();
             });
+        }
+
+        // 自动播放功能
+        let autoPlayTimer = null;
+        let currentPlayIndex = 0;
+        let isPlaying = false;
+        let sortedNodes = [];
+        let playbackSpeed = 1; // 播放速度倍率：0.2, 0.5, 1, 2, 5
+        const speedOptions = [0.2, 0.5, 1, 2, 5];
+
+        // 处理标注高亮
+        function highlightAnnotations(text) {
+            // 匹配标注格式：〖@黄帝〗 或 〖@黄帝|轩辕氏〗（消歧）
+            // 支持的标注类型：@ 人名、# 地名、! 事件、? 概念、& 族群、+ 动植物、= 地点、~ 国家、; 官职、_抽象概念、:动作、^仪式、•物品、⟦动作⟧
+            return text.replace(/〖([@#!?&+=~;_:^•])([^〗|]+)(?:\\|[^〗]+)?〗|⟦([^⟧]+)⟧/g, (match, type, content, action) => {
+                // 处理动作标记 ⟦◈动作⟧ 或 ⟦动作⟧
+                if (action) {
+                    // 去掉 ◈◉◇○● 等符号，只保留实际动词
+                    const verb = action.replace(/^[◈◉◇○●]+/, '');
+                    return `<span class="entity-EVENT">${verb}</span>`;
+                }
+
+                let className = 'entity';
+                // 根据标注类型设置样式类
+                if (type === '@') className = 'entity-PERSON';
+                else if (type === '#' || type === '=') className = 'entity-PLACE';
+                else if (type === '!' || type === ':' || type === '^') className = 'entity-EVENT';
+
+                // 返回带高亮的文本（只显示实际名称，不显示消歧后缀）
+                return `<span class="${className}">${content}</span>`;
+            });
+        }
+
+        // 根据字数计算阅读时间（每分钟300字），应用速度倍率
+        function calculateReadingTime(text) {
+            const charCount = text.length;
+            const readingSpeed = 300; // 每分钟300字
+            const seconds = Math.max(3, Math.ceil((charCount / readingSpeed) * 60)); // 最少3秒
+            return (seconds * 1000) / playbackSpeed; // 除以速度倍率（速度越快，时间越短）
+        }
+
+        // 切换播放速度
+        function cycleSpeed() {
+            const currentIndex = speedOptions.indexOf(playbackSpeed);
+            const nextIndex = (currentIndex + 1) % speedOptions.length;
+            playbackSpeed = speedOptions[nextIndex];
+
+            // 更新按钮显示
+            const speedBtn = document.getElementById('speedBtn');
+            if (speedBtn) {
+                if (playbackSpeed === 1) {
+                    speedBtn.textContent = '1×';
+                } else if (playbackSpeed < 1) {
+                    speedBtn.textContent = `${playbackSpeed}×`;
+                } else {
+                    speedBtn.textContent = `${playbackSpeed}×`;
+                }
+                speedBtn.title = `播放速度: ${playbackSpeed}x`;
+            }
+
+            console.log('播放速度已切换到:', playbackSpeed + 'x');
+        }
+
+        function showReadingCard(nodeId) {
+            const node = nodesData.find(n => n.id === nodeId);
+            if (!node) return;
+
+            // 初始化排序节点列表
+            if (sortedNodes.length === 0) {
+                sortedNodes = [...nodesData].sort((a, b) => {
+                    return parseFloat(a.id) - parseFloat(b.id);
+                });
+            }
+
+            const card = document.getElementById('readingCard');
+            const anchor = card.querySelector('.card-anchor');
+            const title = card.querySelector('.card-title');
+            const section = card.querySelector('.card-section');
+            const content = card.querySelector('.card-content');
+            const progress = card.querySelector('.card-progress');
+            const prevBtn = document.getElementById('prevBtn');
+            const nextBtn = document.getElementById('nextBtn');
+
+            anchor.textContent = node.id;
+            title.textContent = node.para_title;
+
+            let sectionText = node.section_name;
+            if (node.subsection_name) {
+                sectionText += ' > ' + node.subsection_name;
+            }
+            section.textContent = sectionText;
+
+            // 处理标注高亮
+            content.innerHTML = highlightAnnotations(node.full_text);
+
+            // 更新进度
+            currentPlayIndex = sortedNodes.findIndex(n => n.id === nodeId);
+            progress.textContent = `${currentPlayIndex + 1} / ${sortedNodes.length}`;
+
+            // 更新按钮状态
+            prevBtn.disabled = (currentPlayIndex === 0);
+            nextBtn.disabled = (currentPlayIndex === sortedNodes.length - 1);
+
+            // 显示卡片
+            card.classList.add('show');
+
+            // 聚焦到节点
+            network.focus(nodeId, {
+                scale: 1.5,
+                animation: {
+                    duration: 500,
+                    easingFunction: 'easeInOutQuad'
+                }
+            });
+
+            // 高亮节点（通过选中状态）
+            network.selectNodes([nodeId]);
+        }
+
+        function closeReadingCard() {
+            const card = document.getElementById('readingCard');
+            card.classList.remove('show');
+            network.unselectAll();
+        }
+
+        function toggleAutoPlay() {
+            isPlaying = !isPlaying;
+            const playBtn = document.getElementById('playBtn');
+
+            if (isPlaying) {
+                playBtn.textContent = '⏸';
+                playBtn.title = '暂停播放';
+                startAutoPlay();
+            } else {
+                playBtn.textContent = '▶';
+                playBtn.title = '自动播放';
+                stopAutoPlay();
+            }
+        }
+
+        function startAutoPlay() {
+            // 初始化排序节点列表
+            if (sortedNodes.length === 0) {
+                sortedNodes = [...nodesData].sort((a, b) => {
+                    return parseFloat(a.id) - parseFloat(b.id);
+                });
+            }
+
+            currentPlayIndex = 0;
+            playNextNode();
+        }
+
+        function playNextNode() {
+            if (!isPlaying || currentPlayIndex >= sortedNodes.length) {
+                stopAutoPlay();
+                return;
+            }
+
+            const node = sortedNodes[currentPlayIndex];
+            showReadingCard(node.id);
+
+            // 根据字数计算阅读时间
+            const readingTime = calculateReadingTime(node.full_text);
+
+            autoPlayTimer = setTimeout(() => {
+                currentPlayIndex++;
+                playNextNode();
+            }, readingTime);
+        }
+
+        // 前后导航函数
+        function navigatePrevious() {
+            if (currentPlayIndex > 0) {
+                currentPlayIndex--;
+                const node = sortedNodes[currentPlayIndex];
+                showReadingCard(node.id);
+            }
+        }
+
+        function navigateNext() {
+            if (currentPlayIndex < sortedNodes.length - 1) {
+                currentPlayIndex++;
+                const node = sortedNodes[currentPlayIndex];
+                showReadingCard(node.id);
+            }
+        }
+
+        function stopAutoPlay() {
+            if (autoPlayTimer) {
+                clearTimeout(autoPlayTimer);
+                autoPlayTimer = null;
+            }
+            isPlaying = false;
+            const playBtn = document.getElementById('playBtn');
+            playBtn.textContent = '▶';
+            playBtn.title = '自动播放';
+            closeReadingCard();
         }
 
         // 关系筛选

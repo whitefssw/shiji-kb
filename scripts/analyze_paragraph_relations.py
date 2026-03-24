@@ -31,20 +31,25 @@ def analyze_relations(data: Dict[str, Any]) -> List[Dict[str, Any]]:
         current = paragraphs[i]
         current_anchor = current['anchor']
         current_section = current['section']
+        current_subsection = current.get('subsection', '')
         current_text = current['full_text']
         current_summary = current['summary']
 
         # 检查与后续段落的关系
-        for j in range(i + 1, min(i + 5, len(paragraphs))):  # 只检查接下来的4个段落
+        # 扩大检查范围以捕获更多关系
+        max_check = min(i + 10, len(paragraphs))
+        for j in range(i + 1, max_check):
             next_para = paragraphs[j]
             next_anchor = next_para['anchor']
             next_section = next_para['section']
+            next_subsection = next_para.get('subsection', '')
             next_text = next_para['full_text']
             next_summary = next_para['summary']
 
             # 1. 时序-承接关系（同小节内相邻段落）
             if (current_section == next_section and
-                current.get('subsection') == next_para.get('subsection') and
+                current_subsection == next_subsection and
+                current_subsection and  # 确保有subsection
                 j == i + 1):
                 relations.append({
                     'source': current_anchor,
@@ -54,16 +59,26 @@ def analyze_relations(data: Dict[str, Any]) -> List[Dict[str, Any]]:
                     'description': '同一小节内的紧密承接'
                 })
 
-            # 2. 时序-顺序关系（同章节内跨小节）
+            # 2. 时序-顺序关系（同章节内跨小节或相邻无小节段落）
             elif (current_section == next_section and
-                  current.get('subsection') != next_para.get('subsection')):
-                relations.append({
-                    'source': current_anchor,
-                    'target': next_anchor,
-                    'type': 'temporal',
-                    'subtype': 'sequential',
-                    'description': '同一大节内的时间顺序'
-                })
+                  current_section):  # 确保在同一章节内
+                # 如果是相邻段落，关系更紧密
+                if j == i + 1:
+                    relations.append({
+                        'source': current_anchor,
+                        'target': next_anchor,
+                        'type': 'temporal',
+                        'subtype': 'succession',
+                        'description': '同一章节内的紧密承接'
+                    })
+                elif j <= i + 3:  # 检查接下来3个段落
+                    relations.append({
+                        'source': current_anchor,
+                        'target': next_anchor,
+                        'type': 'temporal',
+                        'subtype': 'sequential',
+                        'description': '同一大节内的时间顺序'
+                    })
 
             # 3. 因果关系（关键词识别）
             causal_keywords = ['於是', '故', '因', '以', '遂', '乃']
@@ -265,7 +280,8 @@ def main():
         data = json.load(f)
 
     # 分析关系
-    print('正在深度分析44个段落之间的关系...')
+    para_count = len(data['paragraphs'])
+    print(f'正在深度分析{para_count}个段落之间的关系...')
     new_relations = analyze_relations(data)
 
     # 去重

@@ -23,9 +23,34 @@ def extract_paragraph_structure(tagged_file: Path) -> Dict[str, Any]:
     current_section = None
     current_subsection = None
 
+    def clean_tags(text):
+        """保留标签内的内容，移除标签符号"""
+        # 保留标签内的内容
+        text = re.sub(r'〖[@%#\$&~*;!+•?_\^=:\[]\s*([^|〗]+)(?:\|[^〗]+)?〗', r'\1', text)
+        # 移除动作标签
+        text = re.sub(r'⟦[^⟧]+⟧', '', text)
+        return text.strip()
+
     for i, line in enumerate(lines):
+        # 章节标题（如：# [0] 〖&五帝〗〖_本纪〗）
+        if line.startswith('# '):
+            # 提取段落编号和标题
+            match = re.match(r'^#\s*\[([0-9.]+)\]\s*(.+)', line)
+            if match:
+                anchor = match.group(1)
+                title_text = match.group(2)
+                full_clean = clean_tags(title_text)
+
+                paragraphs.append({
+                    'anchor': anchor,
+                    'section': '',
+                    'subsection': '',
+                    'summary': full_clean,
+                    'full_text': full_clean
+                })
+
         # 大节标题（如：## 〖@黄帝〗）
-        if line.startswith('## '):
+        elif line.startswith('## '):
             # 提取标签内的文本作为标题
             match = re.search(r'〖[@#\$%&]\s*([^〗|]+)(?:\|[^〗]+)?〗', line)
             if match:
@@ -38,9 +63,10 @@ def extract_paragraph_structure(tagged_file: Path) -> Dict[str, Any]:
         elif line.startswith('### '):
             current_subsection = line[4:].strip()
 
-        # 段落标记（如：[1], [1.1], [11.5]）
-        elif line.startswith('[') and ']' in line:
-            match = re.match(r'\[([^\]]+)\]\s*(.+)', line)
+        # 段落标记（如：[1], [1.1], [11.5]） - 包括行首、列表项和引用块中的
+        elif '[' in line and ']' in line:
+            # 匹配行首段落、列表项段落或引用块段落
+            match = re.match(r'^(?:-\s*|>\s*)?\[([0-9.]+)\]\s*(.*)', line)
             if match:
                 anchor = match.group(1)
                 first_text = match.group(2)
@@ -48,18 +74,30 @@ def extract_paragraph_structure(tagged_file: Path) -> Dict[str, Any]:
                 # 提取完整段落内容（多行）
                 full_text = first_text
                 j = i + 1
-                while j < len(lines) and lines[j] and not lines[j].startswith('[') and not lines[j].startswith('#'):
-                    if not lines[j].startswith('-') and not lines[j].startswith('---'):  # 不包括列表项和分隔符
-                        full_text += ' ' + lines[j]
-                    j += 1
 
-                # 保留一些标签以便理解（只移除标签符号，保留内容）
-                def clean_tags(text):
-                    # 保留标签内的内容
-                    text = re.sub(r'〖[@%#\$&~*;!+•?_\^=:\[]\s*([^|〗]+)(?:\|[^〗]+)?〗', r'\1', text)
-                    # 移除动作标签
-                    text = re.sub(r'⟦[^⟧]+⟧', '', text)
-                    return text.strip()
+                # 如果首行为空，可能后续是列表项
+                if not first_text.strip():
+                    # 收集后续的列表项
+                    while j < len(lines) and lines[j]:
+                        if lines[j].startswith('#') or lines[j].startswith('---'):
+                            break
+                        if re.match(r'^\[([0-9.]+)\]', lines[j]):
+                            break
+                        if lines[j].startswith('- '):
+                            full_text += ' ' + lines[j][2:]  # 移除列表标记
+                        elif not lines[j].startswith('-'):
+                            full_text += ' ' + lines[j]
+                        j += 1
+                else:
+                    # 正常段落
+                    while j < len(lines) and lines[j]:
+                        if lines[j].startswith('#') or lines[j].startswith('---'):
+                            break
+                        if re.match(r'^(?:-\s*)?\[([0-9.]+)\]', lines[j]):
+                            break
+                        if not lines[j].startswith('-'):
+                            full_text += ' ' + lines[j]
+                        j += 1
 
                 full_clean = clean_tags(full_text)
 
