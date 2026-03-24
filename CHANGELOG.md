@@ -9,6 +9,68 @@
 
 ---
 
+## 2026-03-23
+
+### 新增 (Added)
+
+- **谥号索引系统** ([`kg/entities/indices/shi_hao_index.json`](kg/entities/indices/shi_hao_index.json)) ([6e387021] / [7522eaa4] / [9fecf8a5])
+  - 覆盖诸侯王、小国君主、大夫家族谥号
+  - 新增专项索引页面布局优化
+- **语义关系索引系统** ([`kg/entities/indices/relation_index.json`](kg/entities/indices/relation_index.json)) ([c73917c4])
+  - 实体间语义关系统一索引
+  - 重建实体页面集成关系展示
+- **混合语义分析实验框架** ([`labs/hybrid-semantic-analysis/`](labs/hybrid-semantic-analysis/)) ([2bcac1ad])
+  - 对比LTP本地、LTP+Qwen混合、纯LLM三种方法
+- **普通文本语义标注阅读实验** ([`resources/publications/draft/`](resources/publications/draft/)) ([818736e8])
+  - 2055行代码实现15种实体类型可视化
+- **指代消解SKILL规范** ([`skills/SKILL_02i_指代消解.md`](skills/SKILL_02i_指代消解.md)) ([2799ca57])
+  - 868行人称代词和身份指代语义消解规范
+
+### 修复 (Fixed)
+
+- **009-030章第三轮实体标注反思**：大规模修正 ([3ef07df0] / [a6fe0a88])
+  - 009-020章实体标注反思和修正
+  - 021-030章实体标注反思完成
+- **嵌套刑法标注错误**：修复并更新反思报告 ([ac11e279])
+- **谥号索引边界错误**：完善处理顺序说明 ([9fecf8a5])
+- **007-008章实体标注审核**：完成修正 ([42625df0] / [b3286a8a])
+
+### 更改 (Changed)
+
+- **SKILL文件结构优化**：42个SKILL文件front matter符合Anthropic标准 ([30d1fadd])
+- **目录结构重构**：创建resources/统一管理静态参考资料 ([02cce8db])
+- **根目录整理**：移动脚本和报告到对应目录 ([f04b420a])
+
+### 项目维护 (Maintenance)
+
+- 新增NLP工具测试文档（HanLP/LTP/Qwen） ([17db94f4] / [b293ab20])
+- 生成2026-03-22工作日志 ([50ff80ae])
+- Metro.js数据一致性改进 ([5b9caa97])
+
+**详细工作日志**: [`logs/daily/2026-03-23.md`](logs/daily/2026-03-23.md)
+
+[6e387021]: https://github.com/baojie/shiji-kb/commit/6e387021
+[7522eaa4]: https://github.com/baojie/shiji-kb/commit/7522eaa4
+[9fecf8a5]: https://github.com/baojie/shiji-kb/commit/9fecf8a5
+[c73917c4]: https://github.com/baojie/shiji-kb/commit/c73917c4
+[2bcac1ad]: https://github.com/baojie/shiji-kb/commit/2bcac1ad
+[818736e8]: https://github.com/baojie/shiji-kb/commit/818736e8
+[2799ca57]: https://github.com/baojie/shiji-kb/commit/2799ca57
+[3ef07df0]: https://github.com/baojie/shiji-kb/commit/3ef07df0
+[a6fe0a88]: https://github.com/baojie/shiji-kb/commit/a6fe0a88
+[ac11e279]: https://github.com/baojie/shiji-kb/commit/ac11e279
+[42625df0]: https://github.com/baojie/shiji-kb/commit/42625df0
+[b3286a8a]: https://github.com/baojie/shiji-kb/commit/b3286a8a
+[30d1fadd]: https://github.com/baojie/shiji-kb/commit/30d1fadd
+[02cce8db]: https://github.com/baojie/shiji-kb/commit/02cce8db
+[f04b420a]: https://github.com/baojie/shiji-kb/commit/f04b420a
+[17db94f4]: https://github.com/baojie/shiji-kb/commit/17db94f4
+[b293ab20]: https://github.com/baojie/shiji-kb/commit/b293ab20
+[50ff80ae]: https://github.com/baojie/shiji-kb/commit/50ff80ae
+[5b9caa97]: https://github.com/baojie/shiji-kb/commit/5b9caa97
+
+---
+
 ## 2026-03-22
 
 ### 新增 (Added)
