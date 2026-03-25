@@ -17,9 +17,9 @@ ontology/
 - **状态**：已完成，稳定版本
 - **用途**：生产环境使用的知识本体
 - **内容**：
-  - 434 项事实性知识单元（Factual SKUs）
-  - 241 项技能知识单元（Procedural SKUs）
-  - 关系知识（标签体系、术语表、实体关系）
+  - 434 项事实性标准知识单元（Factual SKUs - Standard Knowledge Units）
+  - 241 项技能标准知识单元（Procedural SKUs - Standard Knowledge Units）
+  - 1 项关系标准知识单元（标签体系、术语表、实体关系）
   - 实体标注（7,497 个实体标注，覆盖 17 类命名实体）
 - **详细说明**：见 [ontology-v1/README.md](ontology-v1/README.md)
 

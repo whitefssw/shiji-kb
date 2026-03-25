@@ -1,5 +1,7 @@
 # 史记技能索引（Procedural SKUs）
 
+**Procedural SKUs = 技能标准知识单元（Standard Knowledge Units）**
+
 共 241 项技能，按主题分为 14 类。每项链接到对应的 SKILL.md 详细文档。
 
 ---

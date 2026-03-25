@@ -1,5 +1,7 @@
 # 史记关系知识（Relational SKU）
 
+**Relational SKU = 关系标准知识单元（Standard Knowledge Unit）**
+
 关系知识是对全部知识单元的结构化组织，包含标签体系、术语表和实体关系三部分。
 
 ---
@@ -52,6 +54,8 @@
 ## 实体关系（Relationships）
 
 文件：[relationships.json](skus/relational/relationships.json)
+
+**📊 表格查看**：[relationships_table.md](skus/relational/relationships_table.md) - 1,336 条关系按类型分组展示
 
 共 **1336 条关系**，格式为三元组 `(主语, 谓语, 宾语)`。
 

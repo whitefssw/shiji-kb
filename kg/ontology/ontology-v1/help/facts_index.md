@@ -1,5 +1,7 @@
 # 史记知识索引（Factual SKUs）
 
+**Factual SKUs = 事实性标准知识单元（Standard Knowledge Units）**
+
 共 434 项知识单元，按主题分为 14 类。每项链接到对应的 content 文件。
 
 ---

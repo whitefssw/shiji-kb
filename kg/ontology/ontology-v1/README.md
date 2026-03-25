@@ -2,11 +2,22 @@
 
 > **版本说明**：这是当前生产环境使用的稳定版本。实验性功能请参考 [ontology-v2](../ontology-v2/)。
 
-## Quick Start
+## 快速导航
 
-1. **Read `spec.md`** — what to build
-2. **Use `mapping.md`** — navigate SKUs by feature
-3. **Check `eureka.md`** — creative ideas and cross-cutting insights
+### 核心文档（位于 `help/` 目录）
+
+1. **[CONTENT_GUIDE.md](help/CONTENT_GUIDE.md)** — 内容详解（15,000+字完整指南）
+2. **[CATALOG_CN.md](help/CATALOG_CN.md)** — 详尽知识目录（675项标准知识单元，表格格式）
+3. **[facts_index.md](help/facts_index.md)** — 事实性知识索引（434项，按14类主题）
+4. **[skills_index.md](help/skills_index.md)** — 技能知识索引（241项，按14类主题，简明版）
+5. **[skills_index_enhanced.md](help/skills_index_enhanced.md)** — 技能知识索引（增强版，包含应用场景、主要步骤、预期成果）
+6. **[relational_index.md](help/relational_index.md)** — 关系知识索引（标签、术语、关系）
+7. **[relationships_table.md](help/relationships_table.md)** — 关系三元组表格（1,336条，按类型分组）
+
+### 应用指南
+
+- **mapping.md** — 按功能查找 SKU（如"领导力"对应哪些案例）
+- **eureka.md** — 跨领域创意连接与灵感
 
 ## Structure
 
@@ -27,11 +38,13 @@ ontology/
 
 ## SKU Types
 
+**SKU = Standard Knowledge Unit（标准知识单元）**
+
 | Type | Description | Files |
 |------|-------------|-------|
-| **Factual** | Facts, definitions, data points, statistics | `header.md` + `content.md` or `content.json` + `entities.json` |
-| **Procedural** | Workflows, skills, step-by-step processes | `header.md` + `SKILL.md` |
-| **Relational** | Category hierarchy and glossary | `label_tree.json` + `glossary.json` |
+| **Factual SKUs** | 事实性标准知识单元：Facts, definitions, data points, statistics | `header.md` + `content.md` or `content.json` + `entities.json` |
+| **Procedural SKUs** | 技能标准知识单元：Workflows, skills, step-by-step processes | `header.md` + `SKILL.md` |
+| **Relational SKU** | 关系标准知识单元：Category hierarchy and glossary | `label_tree.json` + `glossary.json` |
 
 ## Stats
 
