@@ -43,21 +43,14 @@ async function init() {
     }
   }
 
-  // Default: show 秦始皇本纪、项羽本纪、高祖本纪
-  const defaultLines = ['ch006', 'ch007', 'ch008']; // 秦始皇、项羽、高祖
-  for (const lineId of defaultLines) {
-    visibleLines.add(lineId);
+  // Default: show first 3 chapters
+  for (const line of data.lines.slice(0, 3)) {
+    visibleLines.add(line.id);
   }
 
   buildSidebar();
   render();
   initPanZoom();
-
-  // First fit view to see all content with correct aspect ratio
-  fitView();
-
-  // Then center view on -221 BC (秦始皇即位)
-  centerViewOnYear(-221);
 }
 
 // ─── Sidebar ───
@@ -138,48 +131,12 @@ document.getElementById('searchInput').addEventListener('input', (e) => {
   });
 });
 
-// ─── Coordinate System ───
-// 三层坐标转换：Year → SVG-X → Screen-X
-
-/**
- * Layer 1→2: 年份转换为SVG x坐标
- * 纯函数，不受viewBox影响，确保SVG内部坐标一致性
- * @param {number} year - 年份（负数表示公元前）
- * @returns {number} SVG x坐标
- */
-function yearToSvgX(year) {
-  const [xMin] = data.meta.x_range;
-  return LAYOUT.padding.left + (year - xMin) * LAYOUT.xScale;
-}
-
-/**
- * Layer 2→3: SVG坐标转换为屏幕坐标
- * 依赖当前viewBox和容器宽度，用于HTML元素定位
- * @param {number} svgX - SVG x坐标
- * @returns {number} 屏幕x坐标（相对于SVG容器左边缘）
- */
-function svgToScreenX(svgX) {
-  const svgElem = document.getElementById('metroSvg');
-  const containerWidth = svgElem.getBoundingClientRect().width;
-  const scale = containerWidth / viewBox.w;
-  return (svgX - viewBox.x) * scale;
-}
-
-/**
- * Layer 1→3: 年份直接转换为屏幕坐标（组合函数）
- * @param {number} year - 年份
- * @returns {number} 屏幕x坐标
- */
-function yearToScreenX(year) {
-  return svgToScreenX(yearToSvgX(year));
-}
-
-// 向后兼容的别名
-function xPos(year) {
-  return yearToSvgX(year);
-}
-
 // ─── Render ───
+
+function xPos(val) {
+  const [xMin] = data.meta.x_range;
+  return LAYOUT.padding.left + (val - xMin) * LAYOUT.xScale;
+}
 
 function render() {
   const svg = document.getElementById('metroSvg');
@@ -190,39 +147,23 @@ function render() {
   const totalW = LAYOUT.padding.left + LAYOUT.padding.right + (xMax - xMin) * LAYOUT.xScale;
   const totalH = LAYOUT.padding.top + lines.length * LAYOUT.lineSpacing + 60;
 
-  // Store dimensions for viewBox calculations
-  window.svgTotalW = totalW;
-  window.svgTotalH = totalH;
-
-  // Initialize viewBox to match SVG content dimensions (first time only)
-  if (viewBox.w === 2000 && viewBox.h === 1000) {
-    viewBox.w = totalW;
-    viewBox.h = totalH;
-  }
-
+  svg.setAttribute('width', totalW);
+  svg.setAttribute('height', totalH);
   svg.innerHTML = '';
 
-  // Year ticks - simple fixed interval
+  // Year ticks - only vertical grid lines (labels are in fixed HTML rulers)
   const tickG = svgEl('g', { class: 'year-ticks' });
-
-  // Generate tick years with fixed 50-year interval
-  const tickYears = [];
-  for (let yr = Math.ceil(xMin / 50) * 50; yr <= xMax; yr += 50) {
-    tickYears.push(yr);
-  }
-  window.lastTickYears = tickYears; // Save for timeline rulers
-
-  // Draw grid lines
-  for (const yr of tickYears) {
+  const startYear = Math.ceil(xMin / 50) * 50;
+  for (let yr = startYear; yr <= xMax; yr += 50) {
     const x = xPos(yr);
 
+    // Vertical grid line only
     tickG.appendChild(svgEl('line', {
       x1: x, y1: 0, x2: x, y2: totalH,
       stroke: '#e8e4de', 'stroke-width': 0.5,
       class: 'year-grid', opacity: 0.6
     }));
   }
-
   svg.appendChild(tickG);
 
   // Render each visible line
@@ -719,9 +660,10 @@ function initPanZoom() {
 }
 
 function fitView() {
+  const svg = document.getElementById('metroSvg');
   const main = document.getElementById('mainArea');
-  const w = window.svgTotalW || 4000;
-  const h = window.svgTotalH || 1000;
+  const w = parseFloat(svg.getAttribute('width')) || 2000;
+  const h = parseFloat(svg.getAttribute('height')) || 1000;
   const rw = main.clientWidth;
   const rh = main.clientHeight;
   const scale = Math.min(rw / w, rh / h) * 0.92;
@@ -732,41 +674,23 @@ function fitView() {
   applyViewBox();
 }
 
-/**
- * Apply viewBox to SVG element
- * R4: 关键对齐保证 - 每次viewBox变化都必须调用updateTimelineRulers()
- * 这确保固定时间轴的屏幕坐标与SVG网格线同步更新
- */
 function applyViewBox() {
   document.getElementById('metroSvg').setAttribute('viewBox',
     `${viewBox.x} ${viewBox.y} ${viewBox.w} ${viewBox.h}`);
   updateLabelVisibility();
-  updateTimelineRulers();  // R4: 必须同步更新固定时间轴
+  updateTimelineRulers();
 }
 
-function centerViewOnYear(year) {
-  // Calculate SVG x-coordinate for the year
-  const targetX = xPos(year);
-
-  // Center viewBox on this x-coordinate
-  viewBox.x = targetX - viewBox.w / 2;
-
-  // Clamp to valid range
-  const totalW = window.svgTotalW || 4000;
-  viewBox.x = Math.max(0, Math.min(viewBox.x, totalW - viewBox.w));
-
-  applyViewBox();
-}
-
-/**
- * Update fixed timeline rulers at top and bottom
- * 关键对齐要求：
- * R1: 使用与SVG网格线相同的年份列表 (window.lastTickYears)
- * R3: 使用yearToScreenX()计算屏幕坐标
- * R4: 每次viewBox变化时都会被调用（通过applyViewBox()）
- */
+// Update fixed timeline rulers at top and bottom
 function updateTimelineRulers() {
-  if (!data || !window.lastTickYears) return;
+  if (!data) return;
+
+  const svgElem = document.getElementById('metroSvg');
+  const svgDisplayW = svgElem.getBoundingClientRect().width;
+  const scale = svgDisplayW > 0 ? svgDisplayW / viewBox.w : 0;
+
+  const [xMin, xMax] = data.meta.x_range;
+  const startYear = Math.ceil(xMin / 50) * 50;
 
   // Clear existing markers
   const topRuler = document.getElementById('timelineTop');
@@ -774,32 +698,17 @@ function updateTimelineRulers() {
   topRuler.innerHTML = '';
   bottomRuler.innerHTML = '';
 
-  // R1: 使用与SVG网格线相同的年份列表
-  const allTickYears = window.lastTickYears;
-
-  // Filter to visible ticks based on screen coordinates
-  const svgElem = document.getElementById('metroSvg');
-  const containerWidth = svgElem.getBoundingClientRect().width;
-
-  let displayTicks = allTickYears.filter(yr => {
-    const screenX = yearToScreenX(yr);  // R3: 使用统一的坐标转换
-    return screenX >= -50 && screenX <= containerWidth + 50;
-  });
-
-  // Smart label thinning: adjust based on zoom level
-  // When zoomed out (many ticks visible), show fewer labels to avoid clutter
-  // When zoomed in (few ticks visible), show more labels for detail
-  const maxLabels = Math.min(Math.max(displayTicks.length, 8), 20);
-
-  if (displayTicks.length > maxLabels) {
-    const step = Math.ceil(displayTicks.length / maxLabels);
-    displayTicks = displayTicks.filter((_, idx) => idx % step === 0);
-  }
-
   // Generate year markers
-  for (const yr of displayTicks) {
-    const screenX = yearToScreenX(yr);  // R3: 使用统一的坐标转换
-    const label = yr < 0 ? `前${-yr}` : yr === 0 ? '0' : `${yr}`;
+  for (let yr = startYear; yr <= xMax; yr += 50) {
+    const svgX = LAYOUT.padding.left + (yr - xMin) * LAYOUT.xScale;
+
+    // Convert SVG coordinate to screen coordinate
+    const screenX = (svgX - viewBox.x) * scale;
+
+    // Only show markers that are visible in current viewport
+    if (screenX < -50 || screenX > svgDisplayW + 50) continue;
+
+    const label = yr < 0 ? `前${-yr}` : `${yr}`;
 
     // Top marker
     const topMarker = document.createElement('div');
@@ -818,138 +727,6 @@ function updateTimelineRulers() {
     bottomRuler.appendChild(bottomMarker);
   }
 }
-
-/**
- * 验证时间轴对齐（开发模式辅助函数）
- * 检查实际显示的timeline markers是否与SVG网格线对齐
- * 策略：正向检查 - 对于每个显示的marker，检查是否有对应的grid line在正确位置
- */
-function validateTimelineAlignment() {
-  if (!window.lastTickYears) {
-    console.warn('No tick years generated yet');
-    return;
-  }
-
-  const errors = [];
-  const warnings = [];
-
-  // 获取所有实际显示的timeline markers
-  const markers = document.querySelectorAll('.year-marker');
-  const gridLines = document.querySelectorAll('.year-grid');
-
-  console.log(`📊 Validating ${markers.length} timeline markers against ${gridLines.length} grid lines`);
-
-  // 为每个marker找到对应的年份，然后检查grid line是否在正确位置
-  markers.forEach(marker => {
-    const markerScreenX = parseFloat(marker.style.left);
-    const label = marker.textContent;
-
-    // 解析年份标签（前221 → -221）
-    let year;
-    if (label.startsWith('前')) {
-      year = -parseInt(label.substring(1));
-    } else {
-      year = parseInt(label);
-    }
-
-    // 计算这个年份的预期SVG坐标
-    const expectedSvgX = yearToSvgX(year);
-    const expectedScreenX = yearToScreenX(year);
-
-    // 检查marker的screen-X是否与计算值匹配
-    if (Math.abs(markerScreenX - expectedScreenX) > 2) {
-      errors.push(`Marker "${label}" at Screen-X ${markerScreenX.toFixed(1)}, expected ${expectedScreenX.toFixed(1)} (diff: ${(markerScreenX - expectedScreenX).toFixed(1)}px)`);
-    }
-
-    // 检查是否有grid line在正确的SVG坐标
-    const hasMatchingGridLine = Array.from(gridLines).some(line => {
-      const x1 = parseFloat(line.getAttribute('x1'));
-      return Math.abs(x1 - expectedSvgX) < 0.5;
-    });
-
-    if (!hasMatchingGridLine) {
-      errors.push(`No grid line found for year ${year} at SVG-X ${expectedSvgX.toFixed(1)}`);
-    }
-  });
-
-  // 输出验证结果
-  if (errors.length === 0 && warnings.length === 0) {
-    console.log('✅ Timeline alignment validation passed');
-    console.log(`All ${markers.length} visible markers are correctly aligned`);
-  } else {
-    if (errors.length > 0) {
-      console.error(`❌ ${errors.length} alignment errors:`);
-      errors.slice(0, 5).forEach(e => console.error(`  - ${e}`));
-      if (errors.length > 5) console.error(`  ... and ${errors.length - 5} more`);
-    }
-    if (warnings.length > 0) {
-      console.warn(`⚠️  ${warnings.length} alignment warnings:`);
-      warnings.slice(0, 5).forEach(w => console.warn(`  - ${w}`));
-      if (warnings.length > 5) console.warn(`  ... and ${warnings.length - 5} more`);
-    }
-  }
-
-  // 返回验证结果
-  return { errors, warnings, passed: errors.length === 0, markersChecked: markers.length };
-}
-
-/**
- * 调试辅助：显示指定年份的坐标转换
- */
-function debugYearCoordinates(year) {
-  const svgX = yearToSvgX(year);
-  const screenX = yearToScreenX(year);
-
-  console.log(`📍 Year ${year} coordinates:`);
-  console.log(`  SVG-X: ${svgX.toFixed(2)}`);
-  console.log(`  Screen-X: ${screenX.toFixed(2)}`);
-  console.log(`  ViewBox: x=${viewBox.x.toFixed(2)}, w=${viewBox.w.toFixed(2)}`);
-
-  const svgElem = document.getElementById('metroSvg');
-  const containerWidth = svgElem.getBoundingClientRect().width;
-  const scale = containerWidth / viewBox.w;
-  console.log(`  Container width: ${containerWidth.toFixed(2)}`);
-  console.log(`  Scale: ${scale.toFixed(4)}`);
-
-  return { svgX, screenX, viewBox: {...viewBox}, containerWidth, scale };
-}
-
-/**
- * 调试辅助：显示当前显示的所有时间轴标记
- */
-function debugTimelineMarkers() {
-  const markers = document.querySelectorAll('.year-marker');
-  console.log(`🏷️  Currently displaying ${markers.length} timeline markers`);
-  console.log(`window.lastTickYears has ${window.lastTickYears?.length || 0} years`);
-
-  if (markers.length > 0) {
-    const markerYears = [];
-    markers.forEach((marker, idx) => {
-      const label = marker.textContent;
-      const left = parseFloat(marker.style.left);
-      let year;
-      if (label.startsWith('前')) {
-        year = -parseInt(label.substring(1));
-      } else {
-        year = parseInt(label);
-      }
-      markerYears.push(year);
-
-      if (idx < 3 || idx >= markers.length - 2) {
-        console.log(`  [${idx}] "${label}" (${year}) at x=${left.toFixed(1)}`);
-      } else if (idx === 3) {
-        console.log(`  ... (${markers.length - 5} more) ...`);
-      }
-    });
-
-    console.log(`Year range: ${Math.min(...markerYears)} to ${Math.max(...markerYears)}`);
-  }
-}
-
-// 暴露到全局供调试使用
-window.validateTimelineAlignment = validateTimelineAlignment;
-window.debugYearCoordinates = debugYearCoordinates;
-window.debugTimelineMarkers = debugTimelineMarkers;
 
 // ─── Label Visibility ───
 
